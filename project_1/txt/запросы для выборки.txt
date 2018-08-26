@@ -1,0 +1,15 @@
+
+	выборка вратарей с лучшим коэф. надежности
+		SELECT last_name,first_name,club,games,games_win,k_reliab,throw_off_perc FROM stat_goalies WHERE k_reliab>0 ORDER BY k_reliab LIMIT 10
+		
+	
+	выборка вратарей по проценту отраженных бросков
+		1-сортировка по количеству игр
+		2-сортировка по коэф. надежности
+		SELECT last_name,first_name,club,games,games_win,k_reliab,throw_off_perc FROM stat_goalies WHERE throw_off_perc<100 ORDER BY throw_off_perc DESC,games DESC, k_reliab DESC LIMIT 10
+
+		
+	выборка вратарей по сухим матчам
+		SELECT last_name,first_name,club,games,games_win,k_reliab,throw_off_perc,games_null FROM stat_goalies ORDER BY games_null DESC, games_win DESC, k_reliab DESC LIMIT 10
+		
+	

@@ -1,0 +1,9 @@
+
+h1.title-main{
+	color: crimson;
+	text-align: center;
+}
+.nav.navbar-left li.active a{
+	color: brown;
+}
+

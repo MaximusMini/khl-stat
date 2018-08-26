@@ -1,0 +1,24 @@
+SELECT * FROM stat_defenders WHERE last_name='перетягин'
+
+UPDATE stat_allow_puck SET name='Динамо М' WHERE id_team=8
+
+SELECT * FROM stat_defenders WHERE last_name='Капустин'
+
+SELECT * FROM stat_attacks WHERE last_name='Брюле'
+SELECT * FROM stat_attacks WHERE last_name='Бурдасов'
+SELECT * FROM stat_attacks WHERE last_name='Акмальдинов'
+
+UPDATE stat_defenders SET club='СОЧ' WHERE last_name='блум';
+UPDATE stat_defenders SET club='КРС' WHERE last_name='Перетягин';
+UPDATE stat_defenders SET club='НХК' WHERE last_name='Густафссон';
+UPDATE stat_attacks SET club='КРС' WHERE last_name='Брюле';
+UPDATE stat_attacks SET club='ЛАД' WHERE last_name='капустин';
+UPDATE stat_attacks SET club='СЮЛ' WHERE last_name='Бурдасов';
+UPDATE stat_attacks SET club='АМР' WHERE last_name='Рассказов';
+UPDATE stat_attacks SET club='АДМ' WHERE last_name='Сен-Пьер';
+UPDATE stat_attacks SET club='СОЧ' WHERE last_name='Акмальдинов';
+UPDATE stat_attacks SET club='НХК' WHERE last_name='Галимов';
+
+
+Жильбер
+

@@ -1,0 +1,3142 @@
+<!DOCTYPE html>
+<!--suppress JSUnresolvedFunction -->
+<html prefix="og: http://ogp.me/ns#">
+<head>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5HS55GV');</script>
+  <!-- End Google Tag Manager -->
+
+    <title>Протокол игры: Автомобилист - Югра : Континентальная Хоккейная Лига (КХЛ)</title>
+
+  <meta name="viewport" content="width=device-width, maximum-scale=1.6, minimum-scale=0.25">
+
+  <link rel="stylesheet" type="text/css" href="/bitrix/templates/khl.ru-8.0/css/main.min.css?v8.7" media="all">
+  <script type="text/javascript" src="/bitrix/templates/khl.ru-8.0/js/main.min.js?v9"></script>
+      <script type='text/javascript' src='/bitrix/templates/khl.ru-8.0/js/lib/datepicker-ru.min.js'></script>
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="/bitrix/templates/khl.ru-8.0/styles.css?1473925364168" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "a65a28955fced7da73c455ce41e994e4"]); _ba.push(["host", "www.khl.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+
+      <meta name="apple-itunes-app" content="app-id=455938766, affiliate-data=Web, app-argument=se://open/">
+    <meta name="google-play-app" content="app-id=ru.zennex.khl">
+  
+  <meta name='yandex-verification' content='6f1e0247d01a70c9'>
+
+  <link rel="android-touch-icon" href="/img/icons/ru10/57x57.png">
+  <link rel="apple-touch-icon" sizes="57x57" href="/img/icons/ru10/57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/img/icons/ru10/60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/img/icons/ru10/72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/img/icons/ru10/76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/img/icons/ru10/114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/img/icons/ru10/120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/img/icons/ru10/144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/img/icons/ru10/152x152.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/img/icons/ru10/16x16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/img/icons/ru10/32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/img/icons/ru10/96x96.png">
+  <meta name="msapplication-config" content="/browserconfig.xml">
+
+
+      <meta property="og:image" content="http://www.khl.ru/img/icons/season10-300x300.png">
+  
+  <script type='text/javascript'><!--// <![CDATA[
+    var OA_source = 'game';
+    // ]]> --></script>
+  <script type='text/javascript' src='//lama.khl.ru/www/delivery/spcjs.php?id=12&amp;charset=UTF-8'></script>
+
+    <script type="text/javascript">
+
+    if (!localStorage.getItem('atSite')) {
+      localStorage.setItem('atSite', '1');
+      if ((navigator.languages !== undefined) && navigator.languages.length && (navigator.languages[0].substr(0,2) === 'zh')) {
+        location.href = 'http://cn.khl.ru/';
+      }
+      else if (navigator.userLanguage && navigator.userLanguage.substr(0,2) === 'zh' ) {
+        location.href = 'http://cn.khl.ru/';
+      }
+      else if (navigator.language && navigator.language.substr(0,2) === 'zh' ) {
+        location.href = 'http://cn.khl.ru/';
+      }
+    }
+
+    banner = undefined;
+    function run() {
+      var n = document.querySelector('.smartbanner');
+      if (n) {
+        n.parentNode.removeChild(n);
+      }
+      new SmartBanner({
+        daysHidden: 15,
+        daysReminder: 90,
+        appStoreLanguage: 'ru',
+        title: 'KHL',
+        author: 'KHL',
+        button: 'Загрузить',
+        force: 'android'
+      });
+    }
+    var ua = navigator.userAgent.toLowerCase();
+    var isAndroid = ua.indexOf("android") > -1;
+    if(isAndroid) {
+      run();
+    }
+  </script>
+  
+  <script type='text/javascript' src='/_adfox/adfox.asyn.code.scroll.js'></script>
+  <script type='text/javascript' src='/_adfox/adfox.asyn.code.ver3.js'></script>
+
+    <style type="text/css">
+    .e-lang_btn a {
+      color: #fff;
+    }
+    .e-lang_btn a:hover {
+      color: #076eae;
+    }
+    .red-article ol li {
+      list-style-type: decimal;margin-left: 2em;
+    }
+    .mastercard {
+      position:absolute;
+      width:12%;
+      left:45%;
+      top:-45px;
+      line-height:48px;
+      height:48px;
+      color:#aeafb0;
+      text-align:center;
+      min-width:120px;
+    }
+    .e-header_social {
+      width: 33%;
+      left: 57%;
+    }
+    .e-header_apps {
+      width: 15%;
+    }
+    .e-search_field {
+      width: 73%;
+    }
+    @media (max-width: 1024px) {
+      .e-search_field {
+        width: 57%;
+      }
+      .e-header_apps, .e-header_social, .mastercard {
+        width: 100%!important;
+        left: 0!important;
+      }
+      .mastercard {
+        display: block;
+        width: 100%;
+        position: relative;
+        top: 0;
+        left: 0;
+        border-right: none;
+        line-height: 1.8em;
+        height: auto;
+        text-align: left;
+        background: #fff;
+      }
+    }
+
+    #haier-button {
+      transition: none;
+      background: url('http://www.khl.ru/_adfox/Haier-RGB.png') no-repeat 34px 3px;
+      background-size: 40px;
+    }
+    #haier-button:hover {
+      background: url('http://www.khl.ru/_adfox/Haier-blue-RGB.png') no-repeat 34px 3px;
+      background-size: 40px;
+      transition: none;
+      color:#fff;
+    }
+    @media (max-width: 1024px) {
+      #haier-button{
+        transition: none;
+        background: url('http://www.khl.ru/_adfox/Haier-blue-RGB.png') no-repeat 34px 3px!important;
+        background-size: 40px!important;
+        color:#000!important;
+      }
+    }
+
+  </style>
+  
+  
+  <link rel="stylesheet" type="text/css" href="/css/fullscreen.css" media="all">
+
+</head>
+<body id="game">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5HS55GV" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!--UdmComment-->
+<div id="panel"></div>
+
+  <div class="e-top_main_bnr">
+    <script type='text/javascript'>
+      if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 4294967295) + 1; }
+      if (typeof(document.referrer) != 'undefined') {
+        if (typeof(afReferrer) == 'undefined') {
+          afReferrer = encodeURIComponent(document.referrer);
+        }
+      } else {
+        afReferrer = '';
+      }
+      var addate = new Date();
+      var dl = encodeURIComponent(document.location);
+      var pr1 = Math.floor(Math.random() * 4294967295) + 1;
+      if (window.innerWidth > 1024) {
+        OA_show(69);
+      } else if (window.innerWidth <= 1023 && window.innerWidth >= 640) {
+        document.write('<div id="AdFox_banner_'+pr1+'" style="margin:0 auto;"><\/div>');
+        document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');
+        AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/219729/prepareCode?p1=bvowx&p2=fksm&pct=a&pfc=a&pfb=a&plp=a&pli=a&pop=a&pr=' + pr +'&pt=b&pd=' + addate.getDate() + '&pw=' + addate.getDay() + '&pv=' + addate.getHours() + '&prr=' + afReferrer + '&dl='+dl+'&pr1='+pr1);
+      }
+      else if (window.innerWidth <= 639) {
+        document.write('<div id="AdFox_banner_'+pr1+'" style="margin:0 auto;"><\/div>');
+        document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');
+        AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/219729/prepareCode?p1=bvoww&p2=fksp&pct=a&pfc=a&pfb=a&plp=a&pli=a&pop=a&pr=' + pr +'&pt=b&pd=' + addate.getDate() + '&pw=' + addate.getDay() + '&pv=' + addate.getHours() + '&prr=' + afReferrer + '&dl='+dl+'&pr1='+pr1);
+      }
+    </script>
+  </div>
+
+  <div id="wrapper">
+    <div id="header">
+      <div class="b-mobile_move">
+        <div class="b-header_top_cover">
+          <a href="/" class="e-logo_main e-logo_main_ru"></a>
+          <div class="b-header_nav_cover">
+
+            <div class="e-logo_ico">
+              <a href="http://www.vhlru.ru/" target="_blank"><img src="/bitrix/templates/khl.ru-8.0/img/vhl.png" alt=""></a>
+              <a href="http://mhl.khl.ru/" target="_blank"><img src="/bitrix/templates/khl.ru-8.0/img/mhl.png" alt=""></a>
+              <a href="http://whl.khl.ru/" target="_blank"><img src="/bitrix/templates/khl.ru-8.0/img/whl.png" alt=""></a>
+            </div>
+
+            <form class="e-header_search" action="/search/">
+              <input type="text" name="s" value="" placeholder="" class="e-search_field">
+              <input type="button" name="" value=")" class="e-search_btn m-icomoon">
+            </form>
+            <span class="e-mobile_menu_btn m-icomoon"></span>
+
+          </div>
+
+          <div class="b-header_menu_cover m-clear">
+            <ul class="b-header_menu">
+              <li class="e-header_menu_item"><a href="/news/">Новости</a></li>
+                            <li class="e-header_menu_item"><a href="https://video.khl.ru/?locale=ru">Видео</a></li>
+                            <li class="e-header_menu_item"><a href="/calendar/">Календарь</a>
+              </li><li class="e-header_menu_item"><a href="/standings/">Таблицы</a>
+              </li><li class="e-header_menu_item"><a href="/clubs/">Клубы</a>
+              </li><li class="e-header_menu_item"><a href="/players/">Игроки</a>
+              </li><li class="e-header_menu_item"><a href="/officials/">Судьи</a>
+              </li><li class="e-header_menu_item"><a href="/stat/">Статистика</a>
+              </li><li class="e-header_menu_item"><a href="http://photo.khl.ru/" target="_blank">Фото</a>
+              </li><li class="e-header_menu_item"><a href="/tickets/">Билеты</a>
+              </li>
+                            <li class="e-header_menu_item"><a href="http://store.khl.ru/" target="_blank">Магазин</a></li>
+              <li class="e-header_menu_item"><a href="http://fantasy.khl.ru/promo/" target="_blank" id="haier-button"><span>КХЛ</span><span style="position: relative; left:48px;">Fantasy</span></a></li>
+                          </ul>
+
+            <div class="e-header_clubs">
+              <span id="s-popup_n_1">Клубы</span>
+              <div class="b-dropdown_menu">
+                <div class="b-left_col">
+                  <div class="b-line_conf"><span class="e-bevel">Конференция «Запад»</span></div>
+                  <dl class="b-division">
+                    <dt class="b-division_title">Дивизион Боброва</dt>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/207" alt=""><a href="/clubs/dinamo_mn/">Динамо Мн</a>
+<!--                    <dd class="b-division_item m-multi"><img src="/images/teams//468/207" alt=""><a href="/clubs/dinamo_mn/"></a>
+--><!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/390234/"></a></li>
+                      </ul>
+-->
+                    </dd>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/208" alt=""><a href="/clubs/dinamo_r/">Динамо Р</a>
+<!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/2282/"></a></li>
+                      </ul>
+-->
+                    </dd>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/450" alt=""><a href="/clubs/jokerit/">Йокерит</a></dd>
+<!--                    <dd class="b-division_item"><img src="/images/teams//468/419" alt=""><a href="/clubs/medvescak/"></a></dd>
+-->                    <dd class="b-division_item"><img src="/images/teams/ru/468/24" alt=""><a href="/clubs/ska/">СКА</a>
+<!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/28/"></a></li>
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/2281/"></a></li>
+                        <li class="b-subdivision_item"><img src="/img/vhl.png" alt=""><a href="http://www.vhlru.ru/teams/376/"></a></li>
+                      </ul>
+-->                    </dd>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/246" alt=""><a href="/clubs/slovan/">Слован</a></dd>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/7" alt=""><a href="/clubs/spartak/">Спартак</a>
+<!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/25/"></a></li>
+                        <li class="b-subdivision_item"><img src="/img/vhl.png" alt=""><a href="http://www.vhlru.ru/teams/67715/"></a></li>
+                      </ul>
+-->                    </dd>
+                  </dl>
+
+                  <dl class="b-division">
+                    <dt class="b-division_title">Дивизион Тарасова</dt>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/19" alt=""><a href="/clubs/vityaz/">Витязь</a>
+<!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/27/"></a></li>
+                        <li class="b-subdivision_item"><img src="/img/vhl.png" alt=""><a href="http://www.vhlru.ru/teams/20794/"></a></li>
+                      </ul>
+-->                    </dd>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/608" alt=""><a href="/clubs/hc_dynamo_m/">ХК Динамо</a>
+<!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/32/"></a></li>
+                        <li class="b-subdivision_item"><img src="/img/vhl.png" alt=""><a href="http://www.vhlru.ru/teams/374/"></a></li>
+                      </ul>
+-->                    </dd>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/1" alt=""><a href="/clubs/lokomotiv/">Локомотив</a>
+<!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/24/"></a></li>
+                        <li class="b-subdivision_item"><img src="/img/vhl.png" alt=""><a href="http://www.vhlru.ru/teams/378/"></a></li>
+                      </ul>
+-->                    </dd>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/56" alt=""><a href="/clubs/severstal/">Северсталь</a>
+<!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/22/"></a></li>
+                        <li class="b-subdivision_item"><img src="/img/vhl.png" alt=""><a href="http://www.vhlru.ru/teams/387/"></a></li>
+                      </ul>
+-->                    </dd>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/26" alt=""><a href="/clubs/torpedo/">Торпедо</a>
+<!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/31/"></a></li>
+                        <li class="b-subdivision_item"><img src="/img/vhl.png" alt=""><a href="http://www.vhlru.ru/teams/380/"></a></li>
+                      </ul>
+-->                    </dd>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/451" alt=""><a href="/clubs/hc_sochi/">ХК Сочи</a>
+<!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/vhl.png" alt=""><a href="http://www.vhlru.ru/teams/20790/"></a></li>
+                      </ul>
+-->                    </dd>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/2" alt=""><a href="/clubs/cska/">ЦСКА</a>
+<!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/30/"></a></li>
+                        <li class="b-subdivision_item"><img src="/img/vhl.png" alt=""><a href="http://www.vhlru.ru/teams/67713/"></a></li>
+                      </ul>
+-->                    </dd>
+                  </dl>
+                </div>
+
+                <div class="b-right_col">
+                  <div class="b-line_conf"><span class="e-bevel">Конференция «Восток»</span></div>
+                  <dl class="b-division">
+                    <dt class="b-division_title">Дивизион Харламова</dt>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/190" alt=""><a href="/clubs/avtomobilist/">Автомобилист</a>
+<!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/33/"></a></li>
+                        <li class="b-subdivision_item"><img src="/img/vhl.png" alt=""><a href="http://www.vhlru.ru/teams/385/"></a></li>
+                      </ul>
+-->                    </dd>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/53" alt=""><a href="/clubs/ak_bars/">Ак Барс</a>
+<!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/34/"></a></li>
+                        <li class="b-subdivision_item"><img src="/img/vhl.png" alt=""><a href="http://www.vhlru.ru/teams/47617/"></a></li>
+                      </ul>
+-->                    </dd>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/66" alt=""><a href="/clubs/lada/">Лада</a>
+<!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/37/"></a></li>
+                        <li class="b-subdivision_item"><img src="/img/vhl.png" alt=""><a href="http://www.vhlru.ru/teams/373/"></a></li>
+                      </ul>
+-->                    </dd>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/37" alt=""><a href="/clubs/metallurg_mg/">Металлург Мг</a>
+<!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/41/"></a></li>
+                        <li class="b-subdivision_item"><img src="/img/vhl.png" alt=""><a href="http://www.vhlru.ru/teams/388/"></a></li>
+                      </ul>
+-->                    </dd>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/71" alt=""><a href="/clubs/neftekhimik/">Нефтехимик</a>
+<!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/39/"></a></li>
+                        <li class="b-subdivision_item"><img src="/img/vhl.png" alt=""><a href="http://www.vhlru.ru/teams/377/"></a></li>
+                      </ul>
+-->                    </dd>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/25" alt=""><a href="/clubs/traktor/">Трактор</a>
+<!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/35/"></a></li>
+                        <li class="b-subdivision_item"><img src="/img/vhl.png" alt=""><a href="http://www.vhlru.ru/teams/20795/"></a></li>
+                      </ul>
+-->                    </dd>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/213" alt=""><a href="/clubs/ugra/">Югра</a>
+<!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/7153/"></a></li>
+                        <li class="b-subdivision_item"><img src="/img/vhl.png" alt=""><a href="http://www.vhlru.ru/teams/384/"></a></li>
+                      </ul>
+-->                    </dd>
+                  </dl>
+                  <dl class="b-division">
+                    <dt class="b-division_title">Дивизион Чернышева</dt>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/34" alt=""><a href="/clubs/avangard/">Авангард</a>
+<!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/38/"></a></li>
+                        <li class="b-subdivision_item"><img src="/img/vhl.png" alt=""><a href="http://www.vhlru.ru/teams/20793/"></a></li>
+                      </ul>
+-->                    </dd>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/418" alt=""><a href="/clubs/admiral/">Адмирал</a>
+<!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/339785/"></a></li>
+                        <li class="b-subdivision_item"><img src="/img/vhl.png" alt=""><a href="http://www.vhlru.ru/teams/8016/"></a></li>
+                      </ul>
+-->                    </dd>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/54" alt=""><a href="/clubs/amur/">Амур</a>
+<!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/2284/"></a></li>
+                        <li class="b-subdivision_item"><img src="/img/vhl.png" alt=""><a href="http://www.vhlru.ru/teams/67714/"></a></li>
+                      </ul>
+-->                    </dd>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/198" alt=""><a href="/clubs/barys/">Барыс</a>
+<!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/7152/"></a></li>
+                      </ul>
+-->                    </dd>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/568" alt=""><a href="/clubs/kunlun/">Куньлунь Ред Стар</a>
+                    </dd>
+<!--                    <dd class="b-division_item"><img src="/images/teams//468/31" alt=""><a href="/clubs/metallurg_nk/"></a>
+--><!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/36/"></a></li>
+                        <li class="b-subdivision_item"><img src="/img/vhl.png" alt=""><a href="http://www.vhlru.ru/teams/391/"></a></li>
+                      </ul>
+--><!--                    </dd>-->
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/38" alt=""><a href="/clubs/salavat_yulaev/">Салават Юлаев</a>
+<!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/42/"></a></li>
+                        <li class="b-subdivision_item"><img src="/img/vhl.png" alt=""><a href="http://www.vhlru.ru/teams/390/"></a></li>
+                      </ul>
+-->                    </dd>
+                    <dd class="b-division_item"><img src="/images/teams/ru/468/29" alt=""><a href="/clubs/sibir/">Сибирь</a>
+<!--                      <ul class="b-subdivision">
+                        <li class="b-subdivision_item"><img src="/img/mhl.png" alt=""><a href="http://mhl.khl.ru/teams/40/"></a></li>
+                        <li class="b-subdivision_item"><img src="/img/vhl.png" alt=""><a href="http://www.vhlru.ru/teams/389/"></a></li>
+                      </ul>
+-->                    </dd>
+                  </dl>
+                </div>
+              </div>
+            </div>
+
+            <div class="e-header_project">
+              <span id="s-popup_n_2">Проекты</span>
+              <div class="b-dropdown_menu">
+                <div class="b-left_col">
+                  <div class="b-line_conf"><span class="e-bevel">Сайты лиги</span></div>
+                  <dl class="b-division">
+                    <dd class="b-division_item"><img src="/bitrix/templates/khl.ru-8.0/img/icons/khl-tv.png" alt=""><a href="http://www.khl.ru/tv/">Телеканал КХЛ</a></dd>
+                    <dd class="b-division_item"><img src="/bitrix/templates/khl.ru-8.0/img/icons/store.png" alt=""><a href="http://store.khl.ru/" target="_blank">Магазин</a></dd>
+                    <dd class="b-division_item"><img src="/bitrix/templates/khl.ru-8.0/img/icons/video.png" alt=""><a href="https://video.khl.ru/" target="_blank">Видеотрансляции</a></dd>
+                  </dl><dl class="b-division">
+                    <dd class="b-division_item"><img src="/bitrix/templates/khl.ru-8.0/img/icons/txt.png" alt=""><a href="http://text.khl.ru/" target="_blank">Текстовые трансляции</a></dd>
+                    <dd class="b-division_item"><img src="/bitrix/templates/khl.ru-8.0/img/icons/photo.png" alt=""><a href="http://photo.khl.ru/" target="_blank">Фотобанк</a></dd>
+                    <dd class="b-division_item"><img src="/bitrix/templates/khl.ru-8.0/img/icons/rss.png" alt=""><a href="/news/rss/">RSS Канал</a></dd>
+                  </dl>
+                </div><div class="b-right_col">
+                  <div class="b-line_conf"><span class="e-bevel">События</span></div>
+                  <dl class="b-division">
+                    <dd class="b-division_item"><img src="/bitrix/templates/khl.ru-8.0/img/icons/all-stars.png" alt=""><a href="http://khlallstar.com/" target="_blank">Матч звезд</a></dd>
+                    <dd class="b-division_item"><img src="/bitrix/templates/khl.ru-8.0/img/icons/gaspromneft.png" alt=""><a href="http://www.gazprom-neft.ru/hockey/cup/" target="_blank">Кубок «Газпром нефти»</a></dd>
+                  </dl>
+                </div>
+              </div>
+            </div>
+
+            <div class="e-header_apps">
+              <span>Приложения:</span>
+              <a href="https://itunes.apple.com/ru/app/id455938766?mt=8" target="_blank" class="m-ico_apple m-icomoon">&</a>
+              <a href="https://play.google.com/store/apps/details?id=ru.zennex.khl&amp;hl=ru" target="_blank" class="m-ico_android m-icomoon">%</a>
+            </div>
+
+                        <div class="mastercard">
+              <a href="https://mastercard.khl.ru/" target="_blank"><img src="/bitrix/templates/khl.ru-8.0/img/sponsors/mastercard-khl-ru.jpg" alt=""></a>
+            </div>
+            
+            <div class="e-header_social">
+              <span>КХЛ в соцсетях:</span>
+              <a href="http://www.youtube.com/khl" target="_blank" class="m-ico_yt m-icomoon">5</a>
+              <a href="http://vk.com/khl" target="_blank" class="m-ico_vk m-icomoon">4</a>              <a href="http://twitter.com/khl" target="_blank" class="m-ico_tw m-icomoon">3</a>
+              <a href="http://ok.ru/khl" target="_blank" class="m-ico_ok m-icomoon">/</a>              <a href="https://www.facebook.com/KHL.ru" target="_blank" class="m-ico_fb m-icomoon">(</a>
+              <a href="http://www.instagram.com/khl" target="_blank" class="m-ico_in m-icomoon">.</a>
+              <a href="https://plus.google.com/+khlru/" target="_blank" class="m-ico_gp m-icomoon">+</a>            </div>
+                        <span class="e-lang_btn">
+                                                        <a href="http://en.khl.ru/game/405/49591/protocol/">EN</a>&nbsp;
+                <a href="http://cn.khl.ru/game/405/49591/protocol/">CN</a>
+                          </span>
+          </div>
+        </div>
+      </div>
+
+    <div class="b-header_bottom_cover">
+  <div class="b-feed_matches m-slick_slider">
+
+      <div class="b-feed_matches_item m-past">
+      <table class="b-matches_data m-w_100">
+        <tr class="b-matches_data_top">
+          <td class="e-matches_data_left"><img src="/images/teams/ru/406/1" alt="ЛОК"></td>
+          <td class="e-matches_data_center">29 марта, Ср.</td>
+          <td class="e-matches_data_right"><img src="/images/teams/ru/406/24" alt="СКА"></td>
+        </tr>
+        <tr class="b-matches_data_middle">
+          <td class="e-matches_data_left">ЛОК</td>
+          <td class="e-matches_data_center">1 &ndash; <b>2</b></td>
+          <td class="e-matches_data_right"><b>СКА</b></td>
+        </tr>
+        <tr class="b-matches_data_bottom">
+          <td colspan="3" class="e-matches_data_left"><em>0:0</em><em>1:2</em><em>0:0</em></td>
+        </tr>
+      </table>
+      <div class="e-matches_popup_links">
+        <div class="b-title-option-wrapper">
+          <div class="b-title-option-inner">
+            <ul>
+              <li><a href="/game/406/54737/resume/">Резюме</a></li>
+              <li><a href="https://video.khl.ru/events/558469?locale=ru">Видео</a></li>
+              <li><a href="/game/406/54737/protocol/">Протокол</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+      <div class="b-feed_matches_item m-past">
+      <table class="b-matches_data m-w_100">
+        <tr class="b-matches_data_top">
+          <td class="e-matches_data_left"><img src="/images/teams/ru/406/53" alt="АКБ"></td>
+          <td class="e-matches_data_center">30 марта, Чт.</td>
+          <td class="e-matches_data_right"><img src="/images/teams/ru/406/37" alt="ММГ"></td>
+        </tr>
+        <tr class="b-matches_data_middle">
+          <td class="e-matches_data_left">АКБ</td>
+          <td class="e-matches_data_center">1 &ndash; <b>4</b></td>
+          <td class="e-matches_data_right"><b>ММГ</b></td>
+        </tr>
+        <tr class="b-matches_data_bottom">
+          <td colspan="3" class="e-matches_data_left"><em>1:2</em><em>0:1</em><em>0:1</em></td>
+        </tr>
+      </table>
+      <div class="e-matches_popup_links">
+        <div class="b-title-option-wrapper">
+          <div class="b-title-option-inner">
+            <ul>
+              <li><a href="/game/406/54773/resume/">Резюме</a></li>
+              <li><a href="https://video.khl.ru/events/558801?locale=ru">Видео</a></li>
+              <li><a href="/game/406/54773/protocol/">Протокол</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+      <div class="b-feed_matches_item m-past">
+      <table class="b-matches_data m-w_100">
+        <tr class="b-matches_data_top">
+          <td class="e-matches_data_left"><img src="/images/teams/ru/406/37" alt="ММГ"></td>
+          <td class="e-matches_data_center"> 8 апр., Сб.</td>
+          <td class="e-matches_data_right"><img src="/images/teams/ru/406/24" alt="СКА"></td>
+        </tr>
+        <tr class="b-matches_data_middle">
+          <td class="e-matches_data_left">ММГ</td>
+          <td class="e-matches_data_center">4 &ndash; <b>5</b></td>
+          <td class="e-matches_data_right"><b>СКА</b></td>
+        </tr>
+        <tr class="b-matches_data_bottom">
+          <td colspan="3" class="e-matches_data_left"><em>0:1</em><em>3:2</em><em>1:2</em></td>
+        </tr>
+      </table>
+      <div class="e-matches_popup_links">
+        <div class="b-title-option-wrapper">
+          <div class="b-title-option-inner">
+            <ul>
+              <li><a href="/game/406/54872/resume/">Резюме</a></li>
+              <li><a href="https://video.khl.ru/events/563017?locale=ru">Видео</a></li>
+              <li><a href="/game/406/54872/protocol/">Протокол</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+      <div class="b-feed_matches_item m-past">
+      <table class="b-matches_data m-w_100">
+        <tr class="b-matches_data_top">
+          <td class="e-matches_data_left"><img src="/images/teams/ru/406/37" alt="ММГ"></td>
+          <td class="e-matches_data_center">10 апр., Пн.</td>
+          <td class="e-matches_data_right"><img src="/images/teams/ru/406/24" alt="СКА"></td>
+        </tr>
+        <tr class="b-matches_data_middle">
+          <td class="e-matches_data_left"><b>ММГ</b></td>
+          <td class="e-matches_data_center"><b>3</b> &ndash; 1</td>
+          <td class="e-matches_data_right">СКА</td>
+        </tr>
+        <tr class="b-matches_data_bottom">
+          <td colspan="3" class="e-matches_data_left"><em>1:1</em><em>1:0</em><em>1:0</em></td>
+        </tr>
+      </table>
+      <div class="e-matches_popup_links">
+        <div class="b-title-option-wrapper">
+          <div class="b-title-option-inner">
+            <ul>
+              <li><a href="/game/406/54875/resume/">Резюме</a></li>
+              <li><a href="https://video.khl.ru/events/564053?locale=ru">Видео</a></li>
+              <li><a href="/game/406/54875/protocol/">Протокол</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+      <div class="b-feed_matches_item m-past">
+      <table class="b-matches_data m-w_100">
+        <tr class="b-matches_data_top">
+          <td class="e-matches_data_left"><img src="/images/teams/ru/406/24" alt="СКА"></td>
+          <td class="e-matches_data_center">12 апр., Ср.</td>
+          <td class="e-matches_data_right"><img src="/images/teams/ru/406/37" alt="ММГ"></td>
+        </tr>
+        <tr class="b-matches_data_middle">
+          <td class="e-matches_data_left"><b>СКА</b></td>
+          <td class="e-matches_data_center"><b>2</b> <span class="e-round m-bg_color_0">ОТ</span> 1</td>
+          <td class="e-matches_data_right">ММГ</td>
+        </tr>
+        <tr class="b-matches_data_bottom">
+          <td colspan="3" class="e-matches_data_left"><em>0:0</em><em>1:1</em><em>0:0</em><em>1:0</em></td>
+        </tr>
+      </table>
+      <div class="e-matches_popup_links">
+        <div class="b-title-option-wrapper">
+          <div class="b-title-option-inner">
+            <ul>
+              <li><a href="/game/406/54878/resume/">Резюме</a></li>
+              <li><a href="https://video.khl.ru/events/564953?locale=ru">Видео</a></li>
+              <li><a href="/game/406/54878/protocol/">Протокол</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+      <div class="b-feed_matches_item m-past">
+      <table class="b-matches_data m-w_100">
+        <tr class="b-matches_data_top">
+          <td class="e-matches_data_left"><img src="/images/teams/ru/406/24" alt="СКА"></td>
+          <td class="e-matches_data_center">14 апр., Пт.</td>
+          <td class="e-matches_data_right"><img src="/images/teams/ru/406/37" alt="ММГ"></td>
+        </tr>
+        <tr class="b-matches_data_middle">
+          <td class="e-matches_data_left"><b>СКА</b></td>
+          <td class="e-matches_data_center"><b>3</b> &ndash; 2</td>
+          <td class="e-matches_data_right">ММГ</td>
+        </tr>
+        <tr class="b-matches_data_bottom">
+          <td colspan="3" class="e-matches_data_left"><em>0:1</em><em>1:1</em><em>2:0</em></td>
+        </tr>
+      </table>
+      <div class="e-matches_popup_links">
+        <div class="b-title-option-wrapper">
+          <div class="b-title-option-inner">
+            <ul>
+              <li><a href="/game/406/54881/resume/">Резюме</a></li>
+              <li><a href="https://video.khl.ru/events/565553?locale=ru">Видео</a></li>
+              <li><a href="/game/406/54881/protocol/">Протокол</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+      <div class="b-feed_matches_item m-past">
+      <table class="b-matches_data m-w_100">
+        <tr class="b-matches_data_top">
+          <td class="e-matches_data_left"><img src="/images/teams/ru/406/37" alt="ММГ"></td>
+          <td class="e-matches_data_center">16 апр., Вс.</td>
+          <td class="e-matches_data_right"><img src="/images/teams/ru/406/24" alt="СКА"></td>
+        </tr>
+        <tr class="b-matches_data_middle">
+          <td class="e-matches_data_left">ММГ</td>
+          <td class="e-matches_data_center">3 &ndash; <b>5</b></td>
+          <td class="e-matches_data_right"><b>СКА</b></td>
+        </tr>
+        <tr class="b-matches_data_bottom">
+          <td colspan="3" class="e-matches_data_left"><em>1:0</em><em>1:3</em><em>1:2</em></td>
+        </tr>
+      </table>
+      <div class="e-matches_popup_links">
+        <div class="b-title-option-wrapper">
+          <div class="b-title-option-inner">
+            <ul>
+              <li><a href="/game/406/54962/resume/">Резюме</a></li>
+              <li><a href="https://video.khl.ru/events/566069?locale=ru">Видео</a></li>
+              <li><a href="/game/406/54962/protocol/">Протокол</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+
+
+
+      <div class="b-feed_matches_item m-now">
+      <table class="b-matches_data m-w_100">
+        <tr class="b-matches_data_top">
+          <td class="e-matches_data_left"><img src="/images/teams/ru/468/24" alt="СКА"></td>
+          <td class="e-matches_data_center">21 авг., Пн.</td>
+          <td class="e-matches_data_right"><img src="/images/teams/ru/468/2" alt="ЦСК"></td>
+        </tr>
+        <tr class="b-matches_data_middle">
+          <td class="e-matches_data_left"><b>СКА</b></td>
+          <td class="e-matches_data_center"><b>&ndash;</b></td>
+          <td class="e-matches_data_right"><b>ЦСК</b></td>
+        </tr>
+        <tr class="b-matches_data_bottom">
+          <td colspan="3" class="e-matches_data_left"><span class="e-cut"><em>19:30 <small>мск</small>&nbsp;</em><em>&nbsp;</em></span></td>
+        </tr>
+      </table>
+      <div class="e-matches_popup_links">
+        <div class="b-title-option-wrapper">
+          <div class="b-title-option-inner">
+            <ul>
+              <li><a href="/game/468/55144/preview/">Превью</a></li>
+              <li><a href="https://video.khl.ru/events/597445?locale=ru">Видео</a></li>
+              <li><a href="/game/468/55144/preview/#store">Магазин</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+      <div class="b-feed_matches_item m-now">
+      <table class="b-matches_data m-w_100">
+        <tr class="b-matches_data_top">
+          <td class="e-matches_data_left"><img src="/images/teams/ru/468/29" alt="СИБ"></td>
+          <td class="e-matches_data_center">22 авг., Вт.</td>
+          <td class="e-matches_data_right"><img src="/images/teams/ru/468/7" alt="СПР"></td>
+        </tr>
+        <tr class="b-matches_data_middle">
+          <td class="e-matches_data_left"><b>СИБ</b></td>
+          <td class="e-matches_data_center"><b>&ndash;</b></td>
+          <td class="e-matches_data_right"><b>СПР</b></td>
+        </tr>
+        <tr class="b-matches_data_bottom">
+          <td colspan="3" class="e-matches_data_left"><span class="e-cut"><em>15:30 <small>мск</small>&nbsp;</em><em>&nbsp;</em></span></td>
+        </tr>
+      </table>
+      <div class="e-matches_popup_links">
+        <div class="b-title-option-wrapper">
+          <div class="b-title-option-inner">
+            <ul>
+              <li><a href="/game/468/55148/preview/">Превью</a></li>
+              <li></li>
+              <li><a href="/game/468/55148/preview/#store">Магазин</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+      <div class="b-feed_matches_item m-now">
+      <table class="b-matches_data m-w_100">
+        <tr class="b-matches_data_top">
+          <td class="e-matches_data_left"><img src="/images/teams/ru/468/34" alt="АВГ"></td>
+          <td class="e-matches_data_center">22 авг., Вт.</td>
+          <td class="e-matches_data_right"><img src="/images/teams/ru/468/208" alt="ДРГ"></td>
+        </tr>
+        <tr class="b-matches_data_middle">
+          <td class="e-matches_data_left"><b>АВГ</b></td>
+          <td class="e-matches_data_center"><b>&ndash;</b></td>
+          <td class="e-matches_data_right"><b>ДРГ</b></td>
+        </tr>
+        <tr class="b-matches_data_bottom">
+          <td colspan="3" class="e-matches_data_left"><span class="e-cut"><em>16:00 <small>мск</small>&nbsp;</em><em>&nbsp;</em></span></td>
+        </tr>
+      </table>
+      <div class="e-matches_popup_links">
+        <div class="b-title-option-wrapper">
+          <div class="b-title-option-inner">
+            <ul>
+              <li><a href="/game/468/55152/preview/">Превью</a></li>
+              <li></li>
+              <li><a href="/game/468/55152/preview/#store">Магазин</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+      <div class="b-feed_matches_item m-now">
+      <table class="b-matches_data m-w_100">
+        <tr class="b-matches_data_top">
+          <td class="e-matches_data_left"><img src="/images/teams/ru/468/38" alt="СЮЛ"></td>
+          <td class="e-matches_data_center">22 авг., Вт.</td>
+          <td class="e-matches_data_right"><img src="/images/teams/ru/468/418" alt="АДМ"></td>
+        </tr>
+        <tr class="b-matches_data_middle">
+          <td class="e-matches_data_left"><b>СЮЛ</b></td>
+          <td class="e-matches_data_center"><b>&ndash;</b></td>
+          <td class="e-matches_data_right"><b>АДМ</b></td>
+        </tr>
+        <tr class="b-matches_data_bottom">
+          <td colspan="3" class="e-matches_data_left"><span class="e-cut"><em>17:00 <small>мск</small>&nbsp;</em><em>&nbsp;</em></span></td>
+        </tr>
+      </table>
+      <div class="e-matches_popup_links">
+        <div class="b-title-option-wrapper">
+          <div class="b-title-option-inner">
+            <ul>
+              <li><a href="/game/468/55156/preview/">Превью</a></li>
+              <li></li>
+              <li><a href="/game/468/55156/preview/#store">Магазин</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+      <div class="b-feed_matches_item m-now">
+      <table class="b-matches_data m-w_100">
+        <tr class="b-matches_data_top">
+          <td class="e-matches_data_left"><img src="/images/teams/ru/468/213" alt="ЮГР"></td>
+          <td class="e-matches_data_center">22 авг., Вт.</td>
+          <td class="e-matches_data_right"><img src="/images/teams/ru/468/56" alt="СЕВ"></td>
+        </tr>
+        <tr class="b-matches_data_middle">
+          <td class="e-matches_data_left"><b>ЮГР</b></td>
+          <td class="e-matches_data_center"><b>&ndash;</b></td>
+          <td class="e-matches_data_right"><b>СЕВ</b></td>
+        </tr>
+        <tr class="b-matches_data_bottom">
+          <td colspan="3" class="e-matches_data_left"><span class="e-cut"><em>17:00 <small>мск</small>&nbsp;</em><em>&nbsp;</em></span></td>
+        </tr>
+      </table>
+      <div class="e-matches_popup_links">
+        <div class="b-title-option-wrapper">
+          <div class="b-title-option-inner">
+            <ul>
+              <li><a href="/game/468/55160/preview/">Превью</a></li>
+              <li></li>
+              <li><a href="/game/468/55160/preview/#store">Магазин</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+      <div class="b-feed_matches_item m-now">
+      <table class="b-matches_data m-w_100">
+        <tr class="b-matches_data_top">
+          <td class="e-matches_data_left"><img src="/images/teams/ru/468/71" alt="НХК"></td>
+          <td class="e-matches_data_center">22 авг., Вт.</td>
+          <td class="e-matches_data_right"><img src="/images/teams/ru/468/54" alt="АМР"></td>
+        </tr>
+        <tr class="b-matches_data_middle">
+          <td class="e-matches_data_left"><b>НХК</b></td>
+          <td class="e-matches_data_center"><b>&ndash;</b></td>
+          <td class="e-matches_data_right"><b>АМР</b></td>
+        </tr>
+        <tr class="b-matches_data_bottom">
+          <td colspan="3" class="e-matches_data_left"><span class="e-cut"><em>19:00 <small>мск</small>&nbsp;</em><em>&nbsp;</em></span></td>
+        </tr>
+      </table>
+      <div class="e-matches_popup_links">
+        <div class="b-title-option-wrapper">
+          <div class="b-title-option-inner">
+            <ul>
+              <li><a href="/game/468/55164/preview/">Превью</a></li>
+              <li></li>
+              <li><a href="/game/468/55164/preview/#store">Магазин</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+      <div class="b-feed_matches_item m-now">
+      <table class="b-matches_data m-w_100">
+        <tr class="b-matches_data_top">
+          <td class="e-matches_data_left"><img src="/images/teams/ru/468/451" alt="СОЧ"></td>
+          <td class="e-matches_data_center">22 авг., Вт.</td>
+          <td class="e-matches_data_right"><img src="/images/teams/ru/468/568" alt="КРС"></td>
+        </tr>
+        <tr class="b-matches_data_middle">
+          <td class="e-matches_data_left"><b>СОЧ</b></td>
+          <td class="e-matches_data_center"><b>&ndash;</b></td>
+          <td class="e-matches_data_right"><b>КРС</b></td>
+        </tr>
+        <tr class="b-matches_data_bottom">
+          <td colspan="3" class="e-matches_data_left"><span class="e-cut"><em>19:30 <small>мск</small>&nbsp;</em><em>&nbsp;</em></span></td>
+        </tr>
+      </table>
+      <div class="e-matches_popup_links">
+        <div class="b-title-option-wrapper">
+          <div class="b-title-option-inner">
+            <ul>
+              <li><a href="/game/468/55168/preview/">Превью</a></li>
+              <li></li>
+              <li><a href="/game/468/55168/preview/#store">Магазин</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+      <div class="b-feed_matches_item m-now">
+      <table class="b-matches_data m-w_100">
+        <tr class="b-matches_data_top">
+          <td class="e-matches_data_left"><img src="/images/teams/ru/468/37" alt="ММГ"></td>
+          <td class="e-matches_data_center">23 авг., Ср.</td>
+          <td class="e-matches_data_right"><img src="/images/teams/ru/468/190" alt="АВТ"></td>
+        </tr>
+        <tr class="b-matches_data_middle">
+          <td class="e-matches_data_left"><b>ММГ</b></td>
+          <td class="e-matches_data_center"><b>&ndash;</b></td>
+          <td class="e-matches_data_right"><b>АВТ</b></td>
+        </tr>
+        <tr class="b-matches_data_bottom">
+          <td colspan="3" class="e-matches_data_left"><span class="e-cut"><em>17:00 <small>мск</small>&nbsp;</em><em>&nbsp;</em></span></td>
+        </tr>
+      </table>
+      <div class="e-matches_popup_links">
+        <div class="b-title-option-wrapper">
+          <div class="b-title-option-inner">
+            <ul>
+              <li><a href="/game/468/55172/preview/">Превью</a></li>
+              <li></li>
+              <li><a href="/game/468/55172/preview/#store">Магазин</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+      <div class="b-feed_matches_item m-now">
+      <table class="b-matches_data m-w_100">
+        <tr class="b-matches_data_top">
+          <td class="e-matches_data_left"><img src="/images/teams/ru/468/66" alt="ЛАД"></td>
+          <td class="e-matches_data_center">23 авг., Ср.</td>
+          <td class="e-matches_data_right"><img src="/images/teams/ru/468/25" alt="ТРК"></td>
+        </tr>
+        <tr class="b-matches_data_middle">
+          <td class="e-matches_data_left"><b>ЛАД</b></td>
+          <td class="e-matches_data_center"><b>&ndash;</b></td>
+          <td class="e-matches_data_right"><b>ТРК</b></td>
+        </tr>
+        <tr class="b-matches_data_bottom">
+          <td colspan="3" class="e-matches_data_left"><span class="e-cut"><em>18:00 <small>мск</small>&nbsp;</em><em>&nbsp;</em></span></td>
+        </tr>
+      </table>
+      <div class="e-matches_popup_links">
+        <div class="b-title-option-wrapper">
+          <div class="b-title-option-inner">
+            <ul>
+              <li><a href="/game/468/55176/preview/">Превью</a></li>
+              <li></li>
+              <li><a href="/game/468/55176/preview/#store">Магазин</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+      <div class="b-feed_matches_item m-now">
+      <table class="b-matches_data m-w_100">
+        <tr class="b-matches_data_top">
+          <td class="e-matches_data_left"><img src="/images/teams/ru/468/1" alt="ЛОК"></td>
+          <td class="e-matches_data_center">23 авг., Ср.</td>
+          <td class="e-matches_data_right"><img src="/images/teams/ru/468/2" alt="ЦСК"></td>
+        </tr>
+        <tr class="b-matches_data_middle">
+          <td class="e-matches_data_left"><b>ЛОК</b></td>
+          <td class="e-matches_data_center"><b>&ndash;</b></td>
+          <td class="e-matches_data_right"><b>ЦСК</b></td>
+        </tr>
+        <tr class="b-matches_data_bottom">
+          <td colspan="3" class="e-matches_data_left"><span class="e-cut"><em>19:30 <small>мск</small>&nbsp;</em><em>&nbsp;</em></span></td>
+        </tr>
+      </table>
+      <div class="e-matches_popup_links">
+        <div class="b-title-option-wrapper">
+          <div class="b-title-option-inner">
+            <ul>
+              <li><a href="/game/468/55180/preview/">Превью</a></li>
+              <li></li>
+              <li><a href="/game/468/55180/preview/#store">Магазин</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+      <div class="b-feed_matches_item m-now">
+      <table class="b-matches_data m-w_100">
+        <tr class="b-matches_data_top">
+          <td class="e-matches_data_left"><img src="/images/teams/ru/468/207" alt="ДМН"></td>
+          <td class="e-matches_data_center">23 авг., Ср.</td>
+          <td class="e-matches_data_right"><img src="/images/teams/ru/468/450" alt="ЙОК"></td>
+        </tr>
+        <tr class="b-matches_data_middle">
+          <td class="e-matches_data_left"><b>ДМН</b></td>
+          <td class="e-matches_data_center"><b>&ndash;</b></td>
+          <td class="e-matches_data_right"><b>ЙОК</b></td>
+        </tr>
+        <tr class="b-matches_data_bottom">
+          <td colspan="3" class="e-matches_data_left"><span class="e-cut"><em>19:30 <small>мск</small>&nbsp;</em><em>&nbsp;</em></span></td>
+        </tr>
+      </table>
+      <div class="e-matches_popup_links">
+        <div class="b-title-option-wrapper">
+          <div class="b-title-option-inner">
+            <ul>
+              <li><a href="/game/468/55184/preview/">Превью</a></li>
+              <li></li>
+              <li><a href="/game/468/55184/preview/#store">Магазин</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+      <div class="b-feed_matches_item m-now">
+      <table class="b-matches_data m-w_100">
+        <tr class="b-matches_data_top">
+          <td class="e-matches_data_left"><img src="/images/teams/ru/468/24" alt="СКА"></td>
+          <td class="e-matches_data_center">23 авг., Ср.</td>
+          <td class="e-matches_data_right"><img src="/images/teams/ru/468/246" alt="СЛВ"></td>
+        </tr>
+        <tr class="b-matches_data_middle">
+          <td class="e-matches_data_left"><b>СКА</b></td>
+          <td class="e-matches_data_center"><b>&ndash;</b></td>
+          <td class="e-matches_data_right"><b>СЛВ</b></td>
+        </tr>
+        <tr class="b-matches_data_bottom">
+          <td colspan="3" class="e-matches_data_left"><span class="e-cut"><em>19:30 <small>мск</small>&nbsp;</em><em>&nbsp;</em></span></td>
+        </tr>
+      </table>
+      <div class="e-matches_popup_links">
+        <div class="b-title-option-wrapper">
+          <div class="b-title-option-inner">
+            <ul>
+              <li><a href="/game/468/55192/preview/">Превью</a></li>
+              <li></li>
+              <li><a href="/game/468/55192/preview/#store">Магазин</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+      <div class="b-feed_matches_item m-now">
+      <table class="b-matches_data m-w_100">
+        <tr class="b-matches_data_top">
+          <td class="e-matches_data_left"><img src="/images/teams/ru/468/608" alt="ДИН"></td>
+          <td class="e-matches_data_center">23 авг., Ср.</td>
+          <td class="e-matches_data_right"><img src="/images/teams/ru/468/19" alt="ВИТ"></td>
+        </tr>
+        <tr class="b-matches_data_middle">
+          <td class="e-matches_data_left"><b>ДИН</b></td>
+          <td class="e-matches_data_center"><b>&ndash;</b></td>
+          <td class="e-matches_data_right"><b>ВИТ</b></td>
+        </tr>
+        <tr class="b-matches_data_bottom">
+          <td colspan="3" class="e-matches_data_left"><span class="e-cut"><em>19:30 <small>мск</small>&nbsp;</em><em>&nbsp;</em></span></td>
+        </tr>
+      </table>
+      <div class="e-matches_popup_links">
+        <div class="b-title-option-wrapper">
+          <div class="b-title-option-inner">
+            <ul>
+              <li><a href="/game/468/55188/preview/">Превью</a></li>
+              <li></li>
+              <li><a href="/game/468/55188/preview/#store">Магазин</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+
+  </div>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+  var SScnt = 9;
+
+  if (window.innerWidth > 1400 && window.innerWidth <= 1600) {
+    SScnt = 8;
+  } else if (window.innerWidth <= 1400 && window.innerWidth > 1280) {
+    SScnt = 7;
+  } else if (window.innerWidth <= 1280 && window.innerWidth > 1024) {
+    SScnt = 7;
+  } else if (window.innerWidth <= 1024 && window.innerWidth > 800) {
+    SScnt = 5;
+  } else if (window.innerWidth <= 800 && window.innerWidth > 640) {
+    SScnt = 4;
+  } else if (window.innerWidth <= 640 && window.innerWidth > 480) {
+    SScnt = 3;
+  } else if (window.innerWidth <= 480) {
+    SScnt = 2;
+  }
+  $('.b-feed_matches.m-slick_slider').slick({
+    slidesToShow: 9,
+    slidesToScroll: 1,
+    initialSlide: 7,
+/*
+    initialSlide: parseInt(20-SScnt),
+*/
+    infinite: false,
+    responsive: [
+      {
+        breakpoint: 1600,
+        settings: {
+          slidesToShow: 8
+        }
+      },
+      {
+        breakpoint: 1400,
+        settings: {
+          slidesToShow: 7
+        }
+      },
+      {
+        breakpoint: 1280,
+        settings: {
+          slidesToShow: 6
+        }
+      },
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 5
+        }
+      },
+      {
+        breakpoint: 800,
+        settings: {
+          slidesToShow: 4
+        }
+      },
+      {
+        breakpoint: 640,
+        settings: {
+          slidesToShow: 3
+        }
+      },
+      {
+        breakpoint: 480,
+        settings: {
+          slidesToShow: 2
+        }
+      }
+    ]
+  });
+});
+</script>
+
+    </div> <!-- #header -->
+<div class="b-content_section m-match_info s-float_panel_start">
+  <div class="b-float_panel">
+    <div class="b-float_panel_cover m-slick_slider" style="min-height: 197px;">
+            <div class="b-float_panel_item">
+        <a href="/news/2016/09/04/317837.html" class="m-cover_link">
+          <p><b>Большинство по-казански и мотиватор Ржига. Неделя клубов короткой строкой</b></p>
+          <span class="e-date">04.09.2016</span>
+        </a>
+      </div>
+                    <div class="b-float_panel_item">
+        <a href="/news/2016/09/04/317816.html" class="m-cover_link">
+          <p><b>Судейский вопрос. Спорные моменты недели с Алексеем Бадюковым</b></p>
+          <span class="e-date">04.09.2016</span>
+        </a>
+      </div>
+                    <div class="b-float_panel_item">
+        <a href="/news/2016/09/03/317756.html" class="m-cover_link">
+          <p><b>Ткачев выручает «Ак Барс». Обзор матчей 3 сентября</b></p>
+          <span class="e-date">03.09.2016</span>
+        </a>
+      </div>
+                  <div align="center" class="b-float_panel_item">
+            <script type='text/javascript' src="/js/adfox/left_top.js"></script>
+          </div>
+                    <div class="b-float_panel_item">
+        <a href="/news/2016/09/03/317744.html" class="m-cover_link">
+          <p><b>Нарушитель ПДД Голышев, Овечкин и СКА на линейке и другое в обзоре соцсетей</b></p>
+          <span class="e-date">03.09.2016</span>
+        </a>
+      </div>
+                    <div class="b-float_panel_item">
+        <a href="/news/2016/09/02/317711.html" class="m-cover_link">
+          <p><b>«Динамо» на вершине. Обзор матчей 2 сентября</b></p>
+          <span class="e-date">02.09.2016</span>
+        </a>
+      </div>
+                    <div class="b-float_panel_item">
+        <a href="/news/2016/09/02/317675.html" class="m-cover_link">
+          <p><b>Изменения в составах на 2 сентября</b></p>
+          <span class="e-date">02.09.2016</span>
+        </a>
+      </div>
+                    <div class="b-float_panel_item">
+        <a href="/news/2016/09/02/317657.html" class="m-cover_link">
+          <p><b>Список травмированных на 2 сентября</b></p>
+          <span class="e-date">02.09.2016</span>
+        </a>
+      </div>
+                    <div class="b-float_panel_item">
+        <a href="/news/2016/09/02/317654.html" class="m-cover_link">
+          <p><b>Перенос времени начала шести матчей чемпионата КХЛ</b></p>
+          <span class="e-date">02.09.2016</span>
+        </a>
+      </div>
+                    <div class="b-float_panel_item">
+        <a href="/news/2016/09/02/317528.html" class="m-cover_link">
+          <p><b>Премьера Белова в Подольске. Превью матчей 2 сентября</b></p>
+          <span class="e-date">02.09.2016</span>
+        </a>
+      </div>
+                    <div class="b-float_panel_item">
+        <a href="/news/2016/09/01/317525.html" class="m-cover_link">
+          <p><b>«Куньлунь Ред Стар»: победный дебют. Обзор матчей 1 сентября.  </b></p>
+          <span class="e-date">01.09.2016</span>
+        </a>
+      </div>
+              
+    </div>
+  </div>
+
+  <div class="b-wide_block b-wide_tile m-wide_tile">
+    <dl class="b-details m-club">
+      <dt class="e-details_img">
+        <img src="/images/teams/ru/405/190" alt="" />
+      </dt>
+      <dd class="b-details_txt">
+        <h3 class="e-club_name">Автомобилист</h3>
+        <p class="e-club_sity">Екатеринбург</p>
+        <ul class="e-player_honors">
+          Тренер: <a href="/news/key/d090d0bdd0b4d180d0b5d0b920d0a0d0b0d0b7d0b8d0bd/" style="color: #fff;">Андрей Разин</a>
+        </ul>
+      </dd>
+    </dl>
+    <dl class="b-score">
+      <dt class="b-total_score">
+        <span class="e-goal_time">&nbsp;<!--44′22′′--></span>
+        <h3>2&nbsp;&ndash;&nbsp;<b>3</b> </h3>
+      </dt>
+      <dd class="b-period_score">
+        0:1&nbsp;2:0&nbsp;0:2
+      </dd>
+    </dl>
+    <dl class="b-details m-club m-rightward">
+      <dd class="b-details_txt">
+        <h3 class="e-club_name">Югра</h3>
+        <p class="e-club_sity">Ханты-Мансийск</p>
+        <ul class="e-player_honors">
+          Тренер: <a href="/news/key/d09fd0b0d0b2d0b5d0bb20d095d0b7d0bed0b2d181d0bad0b8d185/" style="color: #fff;">Павел Езовских</a>
+        </ul>
+      </dd>
+      <dt class="e-details_img">
+        <img src="/images/teams/ru/405/213" alt="" />
+      </dt>
+    </dl>
+    <ul class="b-match_add_info">
+      <li class="b-match_add_info_item">
+        <span class="e-num"><sup>№</sup>71</span>
+        <span>05.09.2016<br/>17:00</span>
+      </li><li class="b-match_add_info_item">
+        <span class="m-icomoon">J</span>
+        <span>КРК «Уралец», Екатеринбург<br/>3600 зрителей</span>
+      </li><li class="b-match_add_info_item m-last">
+        <span class="m-icomoon">K</span>
+        <span>Главные судьи: <a href="/officials/952/">Владимир Балушка</a>, <a href="/officials/893/">Павел Овчинников</a><br/>Линейные судьи: <a href="/officials/821/">Дмитрий Головлёв</a>, <a href="/officials/732/">Александр Чернышёв</a></span>
+      </li>
+    </ul>
+    <dl class="b-match_video">
+      <h2 class="e-match_name">Трансляция</h2>
+      <h5 class="e-match_subname"><a href="http://text.khl.ru/text/49591.html"><b>Текстовая трансляция</b></a></h5>
+      <h5 class="e-match_subname"></h5>
+      <div class="m-clear"></div>
+          </dl>
+  </div>
+
+</div>
+
+<div class="b-content_section">
+  <div class="b-wide_block">
+    <div class="b-title_cover">
+      <h2>Матчи</h2>
+      <div class="b-title_tab_cover">
+        <div class="m-scroll_block">
+          <b class="e-title_tab_item" data-link="/game/405/49591/preview/">превью</b>
+          <b class="e-title_tab_item" data-link="/game/405/49591/stat/">очные встречи</b>
+          <b class="e-title_tab_item" data-link="/game/405/49591/teams/">составы</b>
+          <b class="e-title_tab_item m-active" data-link="/game/405/49591/protocol/">протокол</b>
+          <b class="e-title_tab_item" data-link="/game/405/49591/resume/">резюме</b>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="b-content_section">
+  <div class="b-wide_block">
+
+    <div class="b-data_row">
+      <div class="b-subtitle_nav_cover m-clear">
+        <h4 class="m-fl">ЗАБРОШЕННЫЕ ШАЙБЫ</h4>
+        <div class="m-fr">
+          <span id="s-gloss_1" class="e-gloss_btn">Глоссарий</span>
+        </div>
+      </div>
+      <div class="b-gloss s-gloss_1">
+        <b class="e-close_btn"></b>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Ш</dt>
+          <dd class="e-gloss_transcript">Количество шайб</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Пер</dt>
+          <dd class="e-gloss_transcript">Период</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Вр</dt>
+          <dd class="e-gloss_transcript">Время события</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Сост</dt>
+          <dd class="e-gloss_transcript">Состояние (большинство, равенство, меньшинство, буллит)</dd>
+        </dl>
+      </div>
+      <table id="goals" class="nowrap stripe compact hover m-table_small" cellspacing="0" width="100%">
+        <thead>
+        <tr>
+          <th>Ш</th>
+          <th>Пер</th>
+          <th>Вр</th>
+          <th>Счет</th>
+          <th>Сост</th>
+          <th>Автор</th>
+          <th>Передача</th>
+          <th>Передача</th>
+          <th>Автомобилист</th>
+          <th>Югра</th>
+        </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <script>
+      var data_goals = [ [ "1", "1", "11′20′′", "0:1", "рав.", "<a href='/players/4351/'>95. Лапенков Евгений (1)</a>", "<a href='/players/19066/'>66. Варфоломеев Павел (1)</a>", "<a href='/players/19201/'>73. Горбунов Денис (4)</a>", "<a href='#oniceAp40'>40</a>,<a href='#oniceAp4'>4</a>,<a href='#oniceAp18'>18</a>,<a href='#oniceAp77'>77</a>,<a href='#oniceAp79'>79</a>,<a href='#oniceAp81'>81</a>", "<a href='#oniceBp39'>39</a>,<a href='#oniceBp5'>5</a>,<a href='#oniceBp13'>13</a>,<a href='#oniceBp66'>66</a>,<a href='#oniceBp73'>73</a>,<a href='#oniceBp95'>95</a>" ],[ "2", "2", "29′02′′", "1:1", "рав.", "<a href='/players/14822/'>22. Чесалин Евгений (2)</a>", "<a href='/players/22016/'>55. Щемеров Александр (1)</a>", "", "<a href='#oniceAp40'>40</a>,<a href='#oniceAp4'>4</a>,<a href='#oniceAp10'>10</a>,<a href='#oniceAp22'>22</a>,<a href='#oniceAp24'>24</a>,<a href='#oniceAp77'>77</a>", "<a href='#oniceBp39'>39</a>,<a href='#oniceBp4'>4</a>,<a href='#oniceBp66'>66</a>,<a href='#oniceBp72'>72</a>,<a href='#oniceBp73'>73</a>,<a href='#oniceBp95'>95</a>" ],[ "3", "2", "33′48′′", "2:1", "рав.", "<a href='/players/16423/'>93. Василевский Алексей (1)</a>", "<a href='/players/19127/'>6. Андерсен Никлас (2)</a>", "<a href='/players/14822/'>22. Чесалин Евгений (2)</a>", "<a href='#oniceAp40'>40</a>,<a href='#oniceAp6'>6</a>,<a href='#oniceAp10'>10</a>,<a href='#oniceAp22'>22</a>,<a href='#oniceAp24'>24</a>,<a href='#oniceAp93'>93</a>", "<a href='#oniceBp39'>39</a>,<a href='#oniceBp5'>5</a>,<a href='#oniceBp13'>13</a>,<a href='#oniceBp84'>84</a>,<a href='#oniceBp92'>92</a>,<a href='#oniceBp97'>97</a>" ],[ "4", "3", "56′06′′", "2:2", "рав.", "<a href='/players/19201/'>73. Горбунов Денис (1)</a>", "<a href='/players/16186/'>72. Желдаков Григорий (2)</a>", "", "<a href='#oniceAp40'>40</a>,<a href='#oniceAp6'>6</a>,<a href='#oniceAp10'>10</a>,<a href='#oniceAp22'>22</a>,<a href='#oniceAp24'>24</a>,<a href='#oniceAp93'>93</a>", "<a href='#oniceBp39'>39</a>,<a href='#oniceBp66'>66</a>,<a href='#oniceBp72'>72</a>,<a href='#oniceBp73'>73</a>,<a href='#oniceBp75'>75</a>,<a href='#oniceBp95'>95</a>" ],[ "5", "3", "59′29′′", "2:3", "бол.", "<a href='/players/4351/'>95. Лапенков Евгений (2)</a>", "<a href='/players/15644/'>13. Угольников Александр (1)</a>", "<a href='/players/15512/'>39. Шарыченков Александр (1)</a>", "<a href='#oniceAp40'>40</a>,<a href='#oniceAp6'>6</a>,<a href='#oniceAp12'>12</a>,<a href='#oniceAp60'>60</a>,<a href='#oniceAp93'>93</a>", "<a href='#oniceBp39'>39</a>,<a href='#oniceBp13'>13</a>,<a href='#oniceBp66'>66</a>,<a href='#oniceBp73'>73</a>,<a href='#oniceBp75'>75</a>,<a href='#oniceBp95'>95</a>" ]];
+    </script>
+
+    
+          <div class="b-data_row">
+
+        <div class="b-title_cover b-commands_header">
+          <div class="e-header-left">
+            <div class="e-header-name">
+              <div class="e-header-img">
+                <img src="/images/teams/ru/405/190" width="50" height="50" alt=""/>
+              </div>
+              <div class="e-header-info">
+                <h3>Автомобилист</h3>
+                <!--<span class="muted">Тренер: Сергей Шепелев</span>-->
+              </div>
+            </div>
+          </div>
+          <div class="e-header-right">
+            <div class="e-header-name">
+              <div class="e-header-img">
+                <img src="/images/teams/ru/405/213" width="50" height="50" alt=""/>
+              </div>
+              <div class="e-header-info">
+                <h3>Югра</h3>
+                <!--<span class="muted">Тренер: Евгений Корноухов</span>-->
+              </div>
+            </div>
+          </div>
+          <div class="e-header-subname">
+            ШТРАФ
+          </div>
+        </div>
+
+        <div class="dataTables_wrapper">
+          <table class="dataTable nowrap stripe compact hover row-border no-footer m-table_small">
+            <thead>
+            <tr>
+              <th>Вр</th>
+              <th>Игрок</th>
+              <th>Мин</th>
+              <th>Нарушение</th>
+              <th>Вр</th>
+              <th>Игрок</th>
+              <th>Мин</th>
+              <th>Нарушение</th>
+            </tr>
+            </thead>
+            <tbody>
+                                                                  <tr class="odd">
+                                  <td>13:04</td>
+                  <td>
+                    <div align="left"><a href="/players/15646/">34. Турбин Павел</a></div>
+                  </td>
+                  <td>2</td>
+                  <td class="ws">
+                    <div align="left">Атака в область головы и шеи</div>
+                  </td>
+                  <td colspan="4"></td>
+                              </tr>
+                                                                    <tr class="even">
+                                  <td>15:04</td>
+                  <td>
+                    <div align="left"><a href="/players/15646/">34. Турбин Павел</a></div>
+                  </td>
+                  <td>10</td>
+                  <td class="ws">
+                    <div align="left">Дисциплинарный штраф</div>
+                  </td>
+                  <td colspan="4"></td>
+                              </tr>
+                                                                    <tr class="odd">
+                                  <td colspan="4"></td>
+                  <td>17:42</td>
+                  <td>
+                    <div align="left"><a href="/players/17803/">75. Погоришный Олег</a></div>
+                  </td>
+                  <td>2</td>
+                  <td class="ws">
+                    <div align="left">Задержка руками</div>
+                  </td>
+                              </tr>
+                                                                      <tr class="group">
+                  <td colspan="2">Всего за первый период:</td>
+                  <td>
+                    <div align="center">12</div>
+                  </td>
+                  <td></td>
+                  <td colspan="2">Всего за первый период:</td>
+                  <td>
+                    <div align="center">2</div>
+                  </td>
+                  <td></td>
+                </tr>
+                                            <tr class="even">
+                                  <td colspan="4"></td>
+                  <td>23:31</td>
+                  <td>
+                    <div align="left"><a href="/players/15644/">13. Угольников Александр</a></div>
+                  </td>
+                  <td>2</td>
+                  <td class="ws">
+                    <div align="left">Удар клюшкой</div>
+                  </td>
+                              </tr>
+                                                                    <tr class="odd">
+                                  <td>24:56</td>
+                  <td>
+                    <div align="left"><a href="/players/18944/">42. Коукал Петр</a></div>
+                  </td>
+                  <td>2</td>
+                  <td class="ws">
+                    <div align="left">Подножка</div>
+                  </td>
+                  <td colspan="4"></td>
+                              </tr>
+                                                                    <tr class="even">
+                                  <td colspan="4"></td>
+                  <td>35:35</td>
+                  <td>
+                    <div align="left"><i>командный штраф</i></div>
+                  </td>
+                  <td>2</td>
+                  <td class="ws">
+                    <div align="left">Нарушение численного состава</div>
+                  </td>
+                              </tr>
+                                                                    <tr class="odd">
+                                  <td>35:45</td>
+                  <td>
+                    <div align="left"><a href="/players/9851/">77. Мегалинский Дмитрий</a></div>
+                  </td>
+                  <td>2</td>
+                  <td class="ws">
+                    <div align="left">Подножка</div>
+                  </td>
+                  <td colspan="4"></td>
+                              </tr>
+                                                                      <tr class="group">
+                  <td colspan="2">Всего за второй период:</td>
+                  <td>
+                    <div align="center">4</div>
+                  </td>
+                  <td></td>
+                  <td colspan="2">Всего за второй период:</td>
+                  <td>
+                    <div align="center">4</div>
+                  </td>
+                  <td></td>
+                </tr>
+                                            <tr class="even">
+                                  <td colspan="4"></td>
+                  <td>45:14</td>
+                  <td>
+                    <div align="left"><a href="/players/15948/">78. Анкудинов Андрей</a></div>
+                  </td>
+                  <td>2</td>
+                  <td class="ws">
+                    <div align="left">Грубость</div>
+                  </td>
+                              </tr>
+                                                                    <tr class="odd">
+                                  <td>45:14</td>
+                  <td>
+                    <div align="left"><a href="/players/15646/">34. Турбин Павел</a></div>
+                  </td>
+                  <td>4</td>
+                  <td class="ws">
+                    <div align="left">Грубость</div>
+                  </td>
+                  <td colspan="4"></td>
+                              </tr>
+                                                                    <tr class="even">
+                                  <td colspan="4"></td>
+                  <td>56:38</td>
+                  <td>
+                    <div align="left"><a href="/players/4241/">70. Хлыстов Денис</a></div>
+                  </td>
+                  <td>2</td>
+                  <td class="ws">
+                    <div align="left">Удар клюшкой</div>
+                  </td>
+                              </tr>
+                                                                    <tr class="odd">
+                                  <td>56:38</td>
+                  <td>
+                    <div align="left"><a href="/players/18944/">42. Коукал Петр</a></div>
+                  </td>
+                  <td>5</td>
+                  <td class="ws">
+                    <div align="left">Удар головой</div>
+                  </td>
+                  <td colspan="4"></td>
+                              </tr>
+                                                                    <tr class="even">
+                                  <td colspan="4"></td>
+                  <td>56:38</td>
+                  <td>
+                    <div align="left"><a href="/players/6438/">17. Курьянов Антон</a></div>
+                  </td>
+                  <td>10</td>
+                  <td class="ws">
+                    <div align="left">Дисциплинарный штраф</div>
+                  </td>
+                              </tr>
+                                                                    <tr class="odd">
+                                  <td>56:38</td>
+                  <td>
+                    <div align="left"><a href="/players/18944/">42. Коукал Петр</a></div>
+                  </td>
+                  <td>20</td>
+                  <td class="ws">
+                    <div align="left">Дисциплинарный штраф до конца игры</div>
+                  </td>
+                  <td colspan="4"></td>
+                              </tr>
+                              <tr class="group">
+                  <td colspan="2">Всего за третий период:</td>
+                  <td>
+                    <div align="center">29</div>
+                  </td>
+                  <td></td>
+                  <td colspan="2">Всего за третий период:</td>
+                  <td>
+                    <div align="center">14</div>
+                  </td>
+                  <td></td>
+                </tr>
+                          
+            <tr class="group">
+              <td>Итого</td>
+              <td></td>
+              <td>
+                <div align="center">45</div>
+              </td>
+              <td></td>
+              <td>Итого</td>
+              <td></td>
+              <td>
+                <div align="center">20</div>
+              </td>
+              <td></td>
+            </tr>
+            </tbody>
+          </table>
+        </div><!--dataTables_wrapper-->
+      </div>
+    
+    <div class="b-data_row">
+
+      <div class="b-title_cover b-commands_header">
+        <div class="e-header-left">
+          <div class="e-header-name">
+            <div class="e-header-img">
+              <img src="/images/teams/ru/405/190" width="50" height="50" alt=""/>
+            </div>
+            <div class="e-header-info">
+              <h3>Автомобилист</h3>
+              <span class="muted">СТАТИСТИКА ИГРОКОВ</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="b-subtitle_nav_cover m-clear" style="padding:15px 0 0;">
+        <h4 class="m-fl">Вратари</h4>
+        <div class="m-fr">
+          <span id="s-gloss_2" class="e-gloss_btn">Глоссарий</span>
+        </div>
+      </div>
+      <div class="b-gloss s-gloss_2">
+        <b class="e-close_btn"></b>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">И</dt>
+          <dd class="e-gloss_transcript">количество проведенных игр</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ИБ</dt>
+          <dd class="e-gloss_transcript">игры с буллитными сериями</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ОБ</dt>
+          <dd class="e-gloss_transcript">отраженные броски</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Ш</dt>
+          <dd class="e-gloss_transcript">заброшенные шайбы</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Штр</dt>
+          <dd class="e-gloss_transcript">штрафное время</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">В</dt>
+          <dd class="e-gloss_transcript">выигрыши</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Бр</dt>
+          <dd class="e-gloss_transcript">броски в створ ворот</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">%ОБ</dt>
+          <dd class="e-gloss_transcript">процент отраженных бросков</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">А</dt>
+          <dd class="e-gloss_transcript">голевые передачи</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ВП</dt>
+          <dd class="e-gloss_transcript">время на площадке</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">П</dt>
+          <dd class="e-gloss_transcript">проигрыши</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ПШ</dt>
+          <dd class="e-gloss_transcript">пропущено шайб</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">КН</dt>
+          <dd class="e-gloss_transcript">коэффициент надежности<br/>
+            <nobr>= 60 мин × ПШ / ВП</nobr>
+          </dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">И&laquo;0&raquo;</dt>
+          <dd class="e-gloss_transcript">сухие игры</dd>
+        </dl>
+      </div>
+
+      <table id="goaliesA" class="nowrap stripe compact hover m-table_small" cellspacing="0" width="100%">
+        <thead>
+        <tr>
+          <th>#</th>
+          <th>Игрок</th>
+          <th title="Количество проведенных игр">И</th>
+          <th title="Выигрыши">В</th>
+          <th title="Проигрыши">П</th>
+          <th title="Игры с буллитными сериями">ИБ</th>
+          <th title="Броски">Бр</th>
+          <th title="Пропущенные шайбы">ПШ</th>
+          <th title="Отраженные броски">ОБ</th>
+          <th title="Процент отраженных бросков">%ОБ</th>
+          <th title="Коэффициент надежности = 60мин*ПШ/ВП">КН</th>
+          <th title="Заброшенные шайбы">Ш</th>
+          <th title="Передачи">А</th>
+          <th title="Сухие игры">И"0"</th>
+          <th title="Штрафное время">Штр</th>
+          <th title="Время на площадке">ВП</th>
+          <th></th>
+        </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <script>
+        var data_goalies_A = [ [ "<a name='oniceAp50'>50</a>", "<a href='/players/15802/'>Сохатский Владимир</a>", "0", "0", "0", "0", "0", "0", "0", "-", "-", "0", "0", "0", "0", "0", "" ],[ "<a name='oniceAp40'>40</a>", "<a href='/players/17562/'>Устинский Игорь</a>", "1", "0", "1", "0", "23", "3", "20", "87.0", "3.02", "0", "0", "0", "0", "59:41", "" ],];
+      </script>
+
+      <div class="b-subtitle_nav_cover m-clear" style="padding:15px 0 0;">
+        <h4 class="m-fl">Защитники</h4>
+        <div class="m-fr">
+          <span id="s-gloss_3" class="e-gloss_btn">Глоссарий</span>
+        </div>
+      </div>
+      <div class="b-gloss s-gloss_3">
+        <b class="e-close_btn"></b>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">И</dt>
+          <dd class="e-gloss_transcript">Количество проведенных игр</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Ш</dt>
+          <dd class="e-gloss_transcript">Заброшенные шайбы</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">А</dt>
+          <dd class="e-gloss_transcript">Передачи</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">О</dt>
+          <dd class="e-gloss_transcript">Очки</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">+/-</dt>
+          <dd class="e-gloss_transcript">Плюс/Минус</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Штр</dt>
+          <dd class="e-gloss_transcript">Штрафное время</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Штр/И</dt>
+          <dd class="e-gloss_transcript">Среднее время штрафа за игру</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШП</dt>
+          <dd class="e-gloss_transcript">Победные шайбы</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШР</dt>
+          <dd class="e-gloss_transcript">Шайбы, забитые в равенстве</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШБ</dt>
+          <dd class="e-gloss_transcript">Шайбы, забитые в большинстве</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШМ</dt>
+          <dd class="e-gloss_transcript">Шайбы, забитые в меньшинстве</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШО</dt>
+          <dd class="e-gloss_transcript">Шайбы, забитые в овертайме</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ВП</dt>
+          <dd class="e-gloss_transcript">Время на площадке</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ВП/И</dt>
+          <dd class="e-gloss_transcript">Среднее время на площадке за игру</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">РБ</dt>
+          <dd class="e-gloss_transcript">Решающие буллиты</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">БВ</dt>
+          <dd class="e-gloss_transcript">Броски по воротам</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">%БВ</dt>
+          <dd class="e-gloss_transcript">Процент реализованных бросков</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Вбр</dt>
+          <dd class="e-gloss_transcript">Вбрасывания</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ВВбр</dt>
+          <dd class="e-gloss_transcript">Выигранные вбрасывания</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">%Вбр</dt>
+          <dd class="e-gloss_transcript">Процент выигранных вбрасываний</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">См</dt>
+          <dd class="e-gloss_transcript">Количество смен</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">См/И</dt>
+          <dd class="e-gloss_transcript">Среднее количество смен за игру</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">СПр</dt>
+          <dd class="e-gloss_transcript">Силовые приемы</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ФоП</dt>
+          <dd class="e-gloss_transcript">Фолы против игрока</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">БлБ</dt>
+          <dd class="e-gloss_transcript">Блокированные броски</dd>
+        </dl>
+      </div>
+
+      <table id="defensesA" class="nowrap stripe compact hover m-table_small" cellspacing="0" width="100%">
+        <thead>
+        <tr>
+          <th>#</th>
+          <th>Игрок</th>
+          <th title="Количество проведенных игр">И</th>
+          <th title="Заброшенные шайбы">Ш</th>
+          <th title="Передачи">А</th>
+          <th title="Очки">О</th>
+          <th title="Плюс/Минус">+/-</th>
+          <th title="Штрафное время">Штр</th>
+          <th title="Шайбы в равенстве">ШР</th>
+          <th title="Шайбы в большинстве">ШБ</th>
+          <th title="Шайбы в меньшинстве">ШМ</th>
+          <th title="Шайбы в овертайме">ШО</th>
+          <th title="Победные шайбы">ШП</th>
+          <th title="Решающие буллиты">РБ</th>
+          <th title="Броски по воротам">БВ</th>
+          <th title="Процент реализованных бросков">%БВ</th>
+          <th title="Вбрасывания">Вбр</th>
+          <th title="Выигранные вбрасывания">ВВбр</th>
+          <th title="Процент выигранных вбрасываний">%Вбр</th>
+          <th title="Время на площадке">ВП</th>
+          <th title="Количество смен">См</th>
+          <th title="Силовые приемы">СПр</th>
+          <th title="Блокированные броски">БлБ</th>
+          <th title="Фолы против">ФоП</th>
+          <th></th>
+        </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <script>
+        var data_defenses_A = [ [ "<a name='oniceAp6'>6</a>", "<a href='/players/19127/'>Андерсен Никлас</a>", "1", "0", "1", "1", "0", "0", "0", "0", "0", "0", "0", "0", "1", "0.0", "0", "0", "-", "21:16", "34", "1", "0", "1", "" ],[ "<a name='oniceAp93'>93</a>", "<a href='/players/16423/'>Василевский Алексей</a>", "1", "1", "0", "1", "0", "0", "1", "0", "0", "0", "0", "0", "2", "50.0", "0", "0", "-", "18:58", "31", "0", "1", "0", "" ],[ "<a name='oniceAp4'>4</a>", "<a href='/players/23486/'>Кивистё Томми</a>", "1", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "-", "0", "0", "-", "19:21", "25", "1", "0", "0", "" ],[ "<a name='oniceAp77'>77</a>", "<a href='/players/9851/'>Мегалинский Дмитрий</a> (а)", "1", "0", "0", "0", "0", "2", "0", "0", "0", "0", "0", "0", "0", "-", "0", "0", "-", "19:24", "28", "2", "3", "0", "" ],[ "<a name='oniceAp7'>7</a>", "<a href='/players/17312/'>Тимашов Николай</a>", "1", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "-", "0", "0", "-", "18:28", "29", "3", "1", "0", "" ],[ "<a name='oniceAp34'>34</a>", "<a href='/players/15646/'>Турбин Павел</a>", "1", "0", "0", "0", "0", "16", "0", "0", "0", "0", "0", "0", "1", "0.0", "0", "0", "-", "11:51", "17", "2", "0", "0", "" ],[ "<a name='oniceAp55'>55</a>", "<a href='/players/22016/'>Щемеров Александр</a>", "1", "0", "1", "1", "0", "0", "0", "0", "0", "0", "0", "0", "1", "0.0", "0", "0", "-", "9:07", "14", "1", "0", "0", "" ]];
+      </script>
+
+      <div class="b-subtitle_nav_cover m-clear" style="padding:15px 0 0;">
+        <h4 class="m-fl">Нападающие</h4>
+        <div class="m-fr">
+          <span id="s-gloss_4" class="e-gloss_btn">Глоссарий</span>
+        </div>
+      </div>
+      <div class="b-gloss s-gloss_4">
+        <b class="e-close_btn"></b>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">И</dt>
+          <dd class="e-gloss_transcript">Количество проведенных игр</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Ш</dt>
+          <dd class="e-gloss_transcript">Заброшенные шайбы</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">А</dt>
+          <dd class="e-gloss_transcript">Передачи</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">О</dt>
+          <dd class="e-gloss_transcript">Очки</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">+/-</dt>
+          <dd class="e-gloss_transcript">Плюс/Минус</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Штр</dt>
+          <dd class="e-gloss_transcript">Штрафное время</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Штр/И</dt>
+          <dd class="e-gloss_transcript">Среднее время штрафа за игру</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШП</dt>
+          <dd class="e-gloss_transcript">Победные шайбы</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШР</dt>
+          <dd class="e-gloss_transcript">Шайбы, забитые в равенстве</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШБ</dt>
+          <dd class="e-gloss_transcript">Шайбы, забитые в большинстве</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШМ</dt>
+          <dd class="e-gloss_transcript">Шайбы, забитые в меньшинстве</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШО</dt>
+          <dd class="e-gloss_transcript">Шайбы, забитые в овертайме</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ВП</dt>
+          <dd class="e-gloss_transcript">Время на площадке</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ВП/И</dt>
+          <dd class="e-gloss_transcript">Среднее время на площадке за игру</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">РБ</dt>
+          <dd class="e-gloss_transcript">Решающие буллиты</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">БВ</dt>
+          <dd class="e-gloss_transcript">Броски по воротам</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">%БВ</dt>
+          <dd class="e-gloss_transcript">Процент реализованных бросков</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Вбр</dt>
+          <dd class="e-gloss_transcript">Вбрасывания</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ВВбр</dt>
+          <dd class="e-gloss_transcript">Выигранные вбрасывания</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">%Вбр</dt>
+          <dd class="e-gloss_transcript">Процент выигранных вбрасываний</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">См</dt>
+          <dd class="e-gloss_transcript">Количество смен</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">См/И</dt>
+          <dd class="e-gloss_transcript">Среднее количество смен за игру</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">СПр</dt>
+          <dd class="e-gloss_transcript">Силовые приемы</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ФоП</dt>
+          <dd class="e-gloss_transcript">Фолы против игрока</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">БлБ</dt>
+          <dd class="e-gloss_transcript">Блокированные броски</dd>
+        </dl>
+      </div>
+
+      <table id="forwardsA" class="nowrap stripe compact hover m-table_small" cellspacing="0" width="100%">
+        <thead>
+        <tr>
+          <th>#</th>
+          <th>Игрок</th>
+          <th title="Количество проведенных игр">И</th>
+          <th title="Заброшенные шайбы">Ш</th>
+          <th title="Передачи">А</th>
+          <th title="Очки">О</th>
+          <th title="Плюс/Минус">+/-</th>
+          <th title="Штрафное время">Штр</th>
+          <th title="Шайбы в равенстве">ШР</th>
+          <th title="Шайбы в большинстве">ШБ</th>
+          <th title="Шайбы в меньшинстве">ШМ</th>
+          <th title="Шайбы в овертайме">ШО</th>
+          <th title="Победные шайбы">ШП</th>
+          <th title="Решающие буллиты">РБ</th>
+          <th title="Броски по воротам">БВ</th>
+          <th title="Процент реализованных бросков">%БВ</th>
+          <th title="Вбрасывания">Вбр</th>
+          <th title="Выигранные вбрасывания">ВВбр</th>
+          <th title="Процент выигранных вбрасываний">%Вбр</th>
+          <th title="Время на площадке">ВП</th>
+          <th title="Количество смен">См</th>
+          <th title="Силовые приемы">СПр</th>
+          <th title="Блокированные броски">БлБ</th>
+          <th title="Фолы против">ФоП</th>
+          <th></th>
+        </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <script>
+        var data_forwards_A = [ [ "<a name='oniceAp10'>10</a>", "<a href='/players/14929/'>Алексеев Андрей</a>", "1", "0", "0", "0", "1", "0", "0", "0", "0", "0", "0", "0", "0", "-", "7", "6", "85.7", "18:31", "22", "0", "1", "0", "" ],[ "<a name='oniceAp47'>47</a>", "<a href='/players/19632/'>Бухтеле Ян</a>", "1", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1", "0.0", "0", "0", "-", "15:39", "24", "3", "1", "0", "" ],[ "<a name='oniceAp60'>60</a>", "<a href='/players/15977/'>Гареев Артём</a>", "1", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "-", "0", "0", "-", "15:30", "22", "1", "1", "0", "" ],[ "<a name='oniceAp15'>15</a>", "<a href='/players/19058/'>Голышев Анатолий</a> (а)", "1", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1", "0.0", "0", "0", "-", "15:18", "22", "1", "0", "0", "" ],[ "<a name='oniceAp42'>42</a>", "<a href='/players/18944/'>Коукал Петр</a> (к)", "1", "0", "0", "0", "0", "27", "0", "0", "0", "0", "0", "0", "2", "0.0", "14", "10", "71.4", "14:33", "21", "0", "0", "1", "" ],[ "<a name='oniceAp79'>79</a>", "<a href='/players/17600/'>Мингалеев Денис</a>", "1", "0", "0", "0", "-1", "0", "0", "0", "0", "0", "0", "0", "1", "0.0", "0", "0", "-", "8:25", "14", "0", "0", "1", "" ],[ "<a name='oniceAp52'>52</a>", "<a href='/players/21309/'>Митякин Евгений</a>", "1", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "-", "0", "0", "-", "4:51", "9", "0", "0", "0", "" ],[ "<a name='oniceAp81'>81</a>", "<a href='/players/15070/'>Моня Дмитрий</a>", "1", "0", "0", "0", "-1", "0", "0", "0", "0", "0", "0", "0", "1", "0.0", "6", "3", "50.0", "11:11", "16", "1", "0", "0", "" ],[ "<a name='oniceAp14'>14</a>", "<a href='/players/3907/'>Симаков Алексей</a>", "1", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1", "0.0", "6", "4", "66.7", "11:41", "22", "0", "0", "0", "" ],[ "<a name='oniceAp24'>24</a>", "<a href='/players/19737/'>Тичар Рок</a>", "1", "0", "0", "0", "1", "0", "0", "0", "0", "0", "0", "0", "1", "0.0", "14", "8", "57.1", "17:56", "22", "0", "0", "0", "" ],[ "<a name='oniceAp12'>12</a>", "<a href='/players/15912/'>Торченюк Александр</a>", "1", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "-", "15", "10", "66.7", "15:06", "22", "1", "0", "0", "" ],[ "<a name='oniceAp22'>22</a>", "<a href='/players/14822/'>Чесалин Евгений</a>", "1", "1", "1", "2", "1", "0", "1", "0", "0", "0", "0", "0", "4", "25.0", "0", "0", "-", "17:41", "23", "0", "1", "0", "" ],[ "<a name='oniceAp18'>18</a>", "<a href='/players/17328/'>Шингареев Тимур</a>", "1", "0", "0", "0", "-1", "0", "0", "0", "0", "0", "0", "0", "1", "0.0", "0", "0", "-", "4:56", "7", "0", "0", "0", "" ],];
+      </script>
+    </div>
+
+    <div class="b-data_row">
+
+      <div class="b-title_cover b-commands_header">
+        <div class="e-header-left">
+          <div class="e-header-name">
+            <div class="e-header-img">
+              <img src="/images/teams/ru/405/213" width="50" height="50" alt=""/>
+            </div>
+            <div class="e-header-info">
+              <h3>Югра</h3>
+              <span class="muted">СТАТИСТИКА ИГРОКОВ</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="b-subtitle_nav_cover m-clear" style="padding:15px 0 0;">
+        <h4 class="m-fl">Вратари</h4>
+        <div class="m-fr">
+          <span id="s-gloss_5" class="e-gloss_btn">Глоссарий</span>
+        </div>
+      </div>
+      <div class="b-gloss s-gloss_5">
+        <b class="e-close_btn"></b>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">И</dt>
+          <dd class="e-gloss_transcript">количество проведенных игр</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ИБ</dt>
+          <dd class="e-gloss_transcript">игры с буллитными сериями</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ОБ</dt>
+          <dd class="e-gloss_transcript">отраженные броски</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Ш</dt>
+          <dd class="e-gloss_transcript">заброшенные шайбы</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Штр</dt>
+          <dd class="e-gloss_transcript">штрафное время</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">В</dt>
+          <dd class="e-gloss_transcript">выигрыши</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Бр</dt>
+          <dd class="e-gloss_transcript">броски в створ ворот</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">%ОБ</dt>
+          <dd class="e-gloss_transcript">процент отраженных бросков</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">А</dt>
+          <dd class="e-gloss_transcript">голевые передачи</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ВП</dt>
+          <dd class="e-gloss_transcript">время на площадке</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">П</dt>
+          <dd class="e-gloss_transcript">проигрыши</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ПШ</dt>
+          <dd class="e-gloss_transcript">пропущено шайб</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">КН</dt>
+          <dd class="e-gloss_transcript">коэффициент надежности<br/>
+            <nobr>= 60 мин × ПШ / ВП</nobr>
+          </dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">И&laquo;0&raquo;</dt>
+          <dd class="e-gloss_transcript">сухие игры</dd>
+        </dl>
+      </div>
+
+      <table id="goaliesB" class="nowrap stripe compact hover m-table_small" cellspacing="0" width="100%">
+        <thead>
+        <tr>
+          <th>#</th>
+          <th>Игрок</th>
+          <th title="Количество проведенных игр">И</th>
+          <th title="Выигрыши">В</th>
+          <th title="Проигрыши">П</th>
+          <th title="Игры с буллитными сериями">ИБ</th>
+          <th title="Броски">Бр</th>
+          <th title="Пропущенные шайбы">ПШ</th>
+          <th title="Отраженные броски">ОБ</th>
+          <th title="Процент отраженных бросков">%ОБ</th>
+          <th title="Коэффициент надежности = 60мин*ПШ/ВП">КН</th>
+          <th title="Заброшенные шайбы">Ш</th>
+          <th title="Передачи">А</th>
+          <th title="Сухие игры">И"0"</th>
+          <th title="Штрафное время">Штр</th>
+          <th title="Время на площадке">ВП</th>
+          <th></th>
+        </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <script>
+        var data_goalies_B = [ [ "<a name='oniceBp1'>1</a>", "<a href='/players/10541/'>Фокин Владислав</a>", "0", "0", "0", "0", "0", "0", "0", "-", "-", "0", "0", "0", "0", "0", "" ],[ "<a name='oniceBp39'>39</a>", "<a href='/players/15512/'>Шарыченков Александр</a>", "1", "1", "0", "0", "18", "2", "16", "88.9", "2.00", "0", "1", "0", "0", "60:00", "" ],];
+      </script>
+
+      <div class="b-subtitle_nav_cover m-clear" style="padding:15px 0 0;">
+        <h4 class="m-fl">Защитники</h4>
+        <div class="m-fr">
+          <span id="s-gloss_6" class="e-gloss_btn">Глоссарий</span>
+        </div>
+      </div>
+      <div class="b-gloss s-gloss_6">
+        <b class="e-close_btn"></b>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">И</dt>
+          <dd class="e-gloss_transcript">Количество проведенных игр</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Ш</dt>
+          <dd class="e-gloss_transcript">Заброшенные шайбы</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">А</dt>
+          <dd class="e-gloss_transcript">Передачи</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">О</dt>
+          <dd class="e-gloss_transcript">Очки</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">+/-</dt>
+          <dd class="e-gloss_transcript">Плюс/Минус</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Штр</dt>
+          <dd class="e-gloss_transcript">Штрафное время</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Штр/И</dt>
+          <dd class="e-gloss_transcript">Среднее время штрафа за игру</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШП</dt>
+          <dd class="e-gloss_transcript">Победные шайбы</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШР</dt>
+          <dd class="e-gloss_transcript">Шайбы, забитые в равенстве</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШБ</dt>
+          <dd class="e-gloss_transcript">Шайбы, забитые в большинстве</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШМ</dt>
+          <dd class="e-gloss_transcript">Шайбы, забитые в меньшинстве</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШО</dt>
+          <dd class="e-gloss_transcript">Шайбы, забитые в овертайме</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ВП</dt>
+          <dd class="e-gloss_transcript">Время на площадке</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ВП/И</dt>
+          <dd class="e-gloss_transcript">Среднее время на площадке за игру</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">РБ</dt>
+          <dd class="e-gloss_transcript">Решающие буллиты</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">БВ</dt>
+          <dd class="e-gloss_transcript">Броски по воротам</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">%БВ</dt>
+          <dd class="e-gloss_transcript">Процент реализованных бросков</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Вбр</dt>
+          <dd class="e-gloss_transcript">Вбрасывания</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ВВбр</dt>
+          <dd class="e-gloss_transcript">Выигранные вбрасывания</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">%Вбр</dt>
+          <dd class="e-gloss_transcript">Процент выигранных вбрасываний</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">См</dt>
+          <dd class="e-gloss_transcript">Количество смен</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">См/И</dt>
+          <dd class="e-gloss_transcript">Среднее количество смен за игру</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">СПр</dt>
+          <dd class="e-gloss_transcript">Силовые приемы</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ФоП</dt>
+          <dd class="e-gloss_transcript">Фолы против игрока</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">БлБ</dt>
+          <dd class="e-gloss_transcript">Блокированные броски</dd>
+        </dl>
+      </div>
+
+      <table id="defensesB" class="nowrap stripe compact hover m-table_small" cellspacing="0" width="100%">
+        <thead>
+        <tr>
+          <th>#</th>
+          <th>Игрок</th>
+          <th title="Количество проведенных игр">И</th>
+          <th title="Заброшенные шайбы">Ш</th>
+          <th title="Передачи">А</th>
+          <th title="Очки">О</th>
+          <th title="Плюс/Минус">+/-</th>
+          <th title="Штрафное время">Штр</th>
+          <th title="Шайбы в равенстве">ШР</th>
+          <th title="Шайбы в большинстве">ШБ</th>
+          <th title="Шайбы в меньшинстве">ШМ</th>
+          <th title="Шайбы в овертайме">ШО</th>
+          <th title="Победные шайбы">ШП</th>
+          <th title="Решающие буллиты">РБ</th>
+          <th title="Броски по воротам">БВ</th>
+          <th title="Процент реализованных бросков">%БВ</th>
+          <th title="Вбрасывания">Вбр</th>
+          <th title="Выигранные вбрасывания">ВВбр</th>
+          <th title="Процент выигранных вбрасываний">%Вбр</th>
+          <th title="Время на площадке">ВП</th>
+          <th title="Количество смен">См</th>
+          <th title="Силовые приемы">СПр</th>
+          <th title="Блокированные броски">БлБ</th>
+          <th title="Фолы против">ФоП</th>
+          <th></th>
+        </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <script>
+        var data_defenses_B = [ [ "<a name='oniceBp4'>4</a>", "<a href='/players/14529/'>Валентенко Павел</a>", "1", "0", "0", "0", "-1", "0", "0", "0", "0", "0", "0", "0", "5", "0.0", "0", "0", "-", "19:44", "32", "5", "3", "0", "" ],[ "<a name='oniceBp72'>72</a>", "<a href='/players/16186/'>Желдаков Григорий</a>", "1", "0", "1", "1", "0", "0", "0", "0", "0", "0", "0", "0", "3", "0.0", "0", "0", "-", "22:48", "32", "0", "0", "0", "" ],[ "<a name='oniceBp75'>75</a>", "<a href='/players/17803/'>Погоришный Олег</a>", "1", "0", "0", "0", "1", "2", "0", "0", "0", "0", "0", "0", "0", "-", "0", "0", "-", "19:49", "30", "8", "2", "0", "" ],[ "<a name='oniceBp36'>36</a>", "<a href='/players/13909/'>Селезнёв Яков</a>", "1", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "1", "0.0", "0", "0", "-", "20:32", "29", "3", "1", "0", "" ],[ "<a name='oniceBp13'>13</a>", "<a href='/players/15644/'>Угольников Александр</a>", "1", "0", "1", "1", "0", "2", "0", "0", "0", "0", "0", "0", "0", "-", "0", "0", "-", "19:06", "28", "0", "0", "0", "" ],[ "<a name='oniceBp5'>5</a>", "<a href='/players/6155/'>Шулаков Виталий</a>", "1", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "-", "0", "0", "-", "18:36", "26", "1", "0", "0", "" ]];
+      </script>
+
+      <div class="b-subtitle_nav_cover m-clear" style="padding:15px 0 0;">
+        <h4 class="m-fl">Нападающие</h4>
+        <div class="m-fr">
+          <span id="s-gloss_7" class="e-gloss_btn">Глоссарий</span>
+        </div>
+      </div>
+      <div class="b-gloss s-gloss_7">
+        <b class="e-close_btn"></b>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">И</dt>
+          <dd class="e-gloss_transcript">Количество проведенных игр</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Ш</dt>
+          <dd class="e-gloss_transcript">Заброшенные шайбы</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">А</dt>
+          <dd class="e-gloss_transcript">Передачи</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">О</dt>
+          <dd class="e-gloss_transcript">Очки</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">+/-</dt>
+          <dd class="e-gloss_transcript">Плюс/Минус</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Штр</dt>
+          <dd class="e-gloss_transcript">Штрафное время</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Штр/И</dt>
+          <dd class="e-gloss_transcript">Среднее время штрафа за игру</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШП</dt>
+          <dd class="e-gloss_transcript">Победные шайбы</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШР</dt>
+          <dd class="e-gloss_transcript">Шайбы, забитые в равенстве</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШБ</dt>
+          <dd class="e-gloss_transcript">Шайбы, забитые в большинстве</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШМ</dt>
+          <dd class="e-gloss_transcript">Шайбы, забитые в меньшинстве</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШО</dt>
+          <dd class="e-gloss_transcript">Шайбы, забитые в овертайме</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ВП</dt>
+          <dd class="e-gloss_transcript">Время на площадке</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ВП/И</dt>
+          <dd class="e-gloss_transcript">Среднее время на площадке за игру</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">РБ</dt>
+          <dd class="e-gloss_transcript">Решающие буллиты</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">БВ</dt>
+          <dd class="e-gloss_transcript">Броски по воротам</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">%БВ</dt>
+          <dd class="e-gloss_transcript">Процент реализованных бросков</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Вбр</dt>
+          <dd class="e-gloss_transcript">Вбрасывания</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ВВбр</dt>
+          <dd class="e-gloss_transcript">Выигранные вбрасывания</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">%Вбр</dt>
+          <dd class="e-gloss_transcript">Процент выигранных вбрасываний</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">См</dt>
+          <dd class="e-gloss_transcript">Количество смен</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">См/И</dt>
+          <dd class="e-gloss_transcript">Среднее количество смен за игру</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">СПр</dt>
+          <dd class="e-gloss_transcript">Силовые приемы</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ФоП</dt>
+          <dd class="e-gloss_transcript">Фолы против игрока</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">БлБ</dt>
+          <dd class="e-gloss_transcript">Блокированные броски</dd>
+        </dl>
+      </div>
+
+      <table id="forwardsB" class="nowrap stripe compact hover m-table_small" cellspacing="0" width="100%">
+        <thead>
+        <tr>
+          <th>#</th>
+          <th>Игрок</th>
+          <th title="Количество проведенных игр">И</th>
+          <th title="Заброшенные шайбы">Ш</th>
+          <th title="Передачи">А</th>
+          <th title="Очки">О</th>
+          <th title="Плюс/Минус">+/-</th>
+          <th title="Штрафное время">Штр</th>
+          <th title="Шайбы в равенстве">ШР</th>
+          <th title="Шайбы в большинстве">ШБ</th>
+          <th title="Шайбы в меньшинстве">ШМ</th>
+          <th title="Шайбы в овертайме">ШО</th>
+          <th title="Победные шайбы">ШП</th>
+          <th title="Решающие буллиты">РБ</th>
+          <th title="Броски по воротам">БВ</th>
+          <th title="Процент реализованных бросков">%БВ</th>
+          <th title="Вбрасывания">Вбр</th>
+          <th title="Выигранные вбрасывания">ВВбр</th>
+          <th title="Процент выигранных вбрасываний">%Вбр</th>
+          <th title="Время на площадке">ВП</th>
+          <th title="Количество смен">См</th>
+          <th title="Силовые приемы">СПр</th>
+          <th title="Блокированные броски">БлБ</th>
+          <th title="Фолы против">ФоП</th>
+          <th></th>
+        </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <script>
+        var data_forwards_B = [ [ "<a name='oniceBp84'>84</a>", "<a href='/players/19232/'>Акмальдинов Александр</a>", "1", "0", "0", "0", "-1", "0", "0", "0", "0", "0", "0", "0", "0", "-", "12", "4", "33.3", "13:31", "18", "2", "1", "0", "" ],[ "<a name='oniceBp78'>78</a>", "<a href='/players/15948/'>Анкудинов Андрей</a>", "1", "0", "0", "0", "0", "2", "0", "0", "0", "0", "0", "0", "1", "0.0", "3", "0", "0.0", "14:32", "19", "2", "0", "0", "" ],[ "<a name='oniceBp66'>66</a>", "<a href='/players/19066/'>Варфоломеев Павел</a>", "1", "0", "1", "1", "1", "0", "0", "0", "0", "0", "0", "0", "2", "0.0", "2", "0", "0.0", "14:20", "20", "0", "0", "0", "" ],[ "<a name='oniceBp73'>73</a>", "<a href='/players/19201/'>Горбунов Денис</a>", "1", "1", "1", "2", "1", "0", "1", "0", "0", "0", "0", "0", "1", "100.0", "14", "2", "14.3", "16:40", "22", "0", "0", "0", "" ],[ "<a name='oniceBp86'>86</a>", "<a href='/players/24261/'>Кожевников Кирилл</a>", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "-", "0", "0", "-", "-", "-", "0", "0", "0", "" ],[ "<a name='oniceBp17'>17</a>", "<a href='/players/6438/'>Курьянов Антон</a> (а)", "1", "0", "0", "0", "0", "10", "0", "0", "0", "0", "0", "0", "0", "-", "15", "8", "53.3", "13:14", "21", "1", "0", "0", "" ],[ "<a name='oniceBp95'>95</a>", "<a href='/players/4351/'>Лапенков Евгений</a> (а)", "1", "2", "0", "2", "1", "0", "1", "1", "0", "0", "1", "0", "3", "66.7", "0", "0", "-", "15:34", "20", "1", "0", "0", "" ],[ "<a name='oniceBp51'>51</a>", "<a href='/players/14476/'>Майоров Константин</a>", "1", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "-", "12", "6", "50.0", "13:25", "21", "1", "0", "1", "" ],[ "<a name='oniceBp92'>92</a>", "<a href='/players/16190/'>Медведев Павел</a>", "1", "0", "0", "0", "-1", "0", "0", "0", "0", "0", "0", "0", "0", "-", "0", "0", "-", "13:06", "19", "0", "1", "0", "" ],[ "<a name='oniceBp26'>26</a>", "<a href='/players/13031/'>Панов Константин</a> (к)", "1", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "-", "3", "1", "33.3", "15:21", "22", "0", "0", "1", "" ],[ "<a name='oniceBp97'>97</a>", "<a href='/players/3641/'>Радулов Игорь</a>", "1", "0", "0", "0", "-1", "0", "0", "0", "0", "0", "0", "0", "2", "0.0", "0", "0", "-", "13:08", "19", "2", "0", "0", "" ],[ "<a name='oniceBp14'>14</a>", "<a href='/players/15759/'>Соколов Константин</a>", "1", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "4", "0.0", "0", "0", "-", "11:39", "18", "1", "1", "1", "" ],[ "<a name='oniceBp70'>70</a>", "<a href='/players/4241/'>Хлыстов Денис</a>", "1", "0", "0", "0", "0", "2", "0", "0", "0", "0", "0", "0", "1", "0.0", "1", "0", "0.0", "17:29", "23", "3", "0", "0", "" ],];
+      </script>
+    </div>
+
+
+    <div class="b-data_row">
+
+      <div class="b-title_cover b-commands_header">
+        <div class="e-header-subname">
+          КОМАНДНАЯ СТАТИСТИКА
+        </div>
+      </div>
+
+      <div class="b-subtitle_nav_cover m-clear" style="padding:15px 0 0;">
+        <h4 class="m-fl">В неравных составах</h4>
+        <div class="m-fr">
+          <span id="s-gloss_t1" class="e-gloss_btn">Глоссарий</span>
+        </div>
+      </div>
+      <div class="b-gloss s-gloss_t1">
+        <b class="e-close_btn"></b>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">И</dt>
+          <dd class="e-gloss_transcript">Количество проведенных игр</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Бол</dt>
+          <dd class="e-gloss_transcript">Количество полученных численных преимуществ</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШБ</dt>
+          <dd class="e-gloss_transcript">Шайбы, забитые в большинстве</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">%Б</dt>
+          <dd class="e-gloss_transcript">Процент реализованных численных преимуществ</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ПШБ</dt>
+          <dd class="e-gloss_transcript">Шайбы, пропущенные в большинстве</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Мен</dt>
+          <dd class="e-gloss_transcript">Количество численных преимуществ, полученных соперниками</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ПШМ</dt>
+          <dd class="e-gloss_transcript">Шайбы, пропущенные в меньшинстве</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">%М</dt>
+          <dd class="e-gloss_transcript">Процент нереализованных численных преимуществ соперников</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШМ</dt>
+          <dd class="e-gloss_transcript">Шайбы, забитые в меньшинстве</dd>
+        </dl>
+      </div>
+
+      <div class="dataTables_wrapper">
+
+        <table class="dataTable stripe compact row-border hl no-footer rc m-table_small">
+          <thead>
+          <tr>
+            <th>Клуб</th>
+            <th title="Количество проведенных игр">И</th>
+            <th title="Количество полученных численных преимуществ">Бол</th>
+            <th title="Шайбы, забитые в большинстве">ШБ</th>
+            <th title="Процент реализованных численных преимуществ">%Б</th>
+            <th title="Шайбы, пропущенные в большинстве">ПШБ</th>
+            <th title="Количество численных преимуществ, полученных соперниками">Мен</th>
+            <th title="Шайбы, пропущенные в меньшинстве">ПШМ</th>
+            <th title="Процент нереализованных численных преимуществ соперников">%М</th>
+            <th title="Шайбы, забитые в меньшинстве">ШМ</th>
+          </tr>
+          </thead>
+          <tbody>
+                      <tr>
+              <td>Югра</td>
+              <td>1</td>
+              <td>6</td>
+              <td>1</td>
+              <td>16.7</td>
+              <td>0</td>
+              <td>3</td>
+              <td>0</td>
+              <td>100.0</td>
+              <td>0</td>
+            </tr>
+                      <tr>
+              <td>Автомобилист</td>
+              <td>1</td>
+              <td>3</td>
+              <td>0</td>
+              <td>0.0</td>
+              <td>0</td>
+              <td>6</td>
+              <td>1</td>
+              <td>83.3</td>
+              <td>0</td>
+            </tr>
+          
+          </tbody>
+        </table>
+      </div>
+
+      <div class="b-subtitle_nav_cover m-clear" style="padding:15px 0 0;">
+        <h4 class="m-fl">Все забитые голы</h4>
+      </div>
+      <div class="dataTables_wrapper">
+        <table class="dataTable stripe compact row-border hl no-footer rc m-table_small">
+          <thead>
+          <tr>
+            <th>Клуб</th>
+            <th>И</th>
+            <th>5 на 5</th>
+            <th>5 на 4</th>
+            <th>5 на 3</th>
+            <th>4 на 4</th>
+            <th>4 на 3</th>
+            <th>3 на 3</th>
+            <th>3 на 4</th>
+            <th>3 на 5</th>
+            <th>4 на 5</th>
+            <th>ПВ</th>
+            <th>Б</th>
+            <th>Всего</th>
+          </tr>
+          </thead>
+          <tbody>
+                      <tr>
+              <td>Югра</td>
+              <td>1</td>
+              <td>2</td>
+              <td>1</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>3</td>
+            </tr>
+                      <tr>
+              <td>Автомобилист</td>
+              <td>1</td>
+              <td>2</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>2</td>
+            </tr>
+          
+          </tbody>
+        </table>
+      </div>
+
+      <div class="b-subtitle_nav_cover m-clear" style="padding:15px 0 0;">
+        <h4 class="m-fl">Все пропущенные голы</h4>
+      </div>
+      <div class="dataTables_wrapper">
+        <table class="dataTable stripe compact row-border hl no-footer rc m-table_small" cellspacing="0" width="100%">
+          <thead>
+          <tr>
+            <th>Клуб</th>
+            <th>И</th>
+            <th>5 на 5</th>
+            <th>5 на 4</th>
+            <th>5 на 3</th>
+            <th>4 на 4</th>
+            <th>4 на 3</th>
+            <th>3 на 3</th>
+            <th>3 на 4</th>
+            <th>3 на 5</th>
+            <th>4 на 5</th>
+            <th>ПВ</th>
+            <th>Б</th>
+            <th>Всего</th>
+          </tr>
+          </thead>
+          <tbody>
+                      <tr>
+              <td>Югра</td>
+              <td>1</td>
+              <td>2</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>2</td>
+            </tr>
+                      <tr>
+              <td>Автомобилист</td>
+              <td>1</td>
+              <td>2</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>1</td>
+              <td>0</td>
+              <td>0</td>
+              <td>3</td>
+            </tr>
+          
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+          <div class="b-data_row">
+
+        <div class="b-title_cover b-commands_header">
+          <div class="e-header-subname">
+            БРОСКИ ПО ВОРОТАМ
+          </div>
+        </div>
+
+        <div class="dataTables_wrapper">
+          <table class="dataTable stripe compact row-border hl no-footer m-table_small" cellspacing="0" width="100%">
+            <thead>
+            <tr>
+              <th></th>
+              <td colspan="3">
+                <div class="e-header-left">
+                  <div class="e-header-img">
+                    <img src="/images/teams/ru/405/190" width="50" height="50" alt=""/>
+                  </div>
+                  <div class="e-header-info">
+                    <h3>Автомобилист</h3>
+                    <!--<span class="muted">Тренер: Сергей Шепелев</span>-->
+                  </div>
+                </div>
+              </td>
+              <td colspan="3">
+                <div class="e-header-left">
+                  <div class="e-header-img">
+                    <img src="/images/teams/ru/405/213" width="50" height="50" alt=""/>
+                  </div>
+                  <div class="e-header-info">
+                    <h3>Югра</h3>
+                    <!--<span class="muted">Тренер: Сергей Шепелев</span>-->
+                  </div>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <th>Период</th>
+              <th>Ш</th>
+              <th>БВ</th>
+              <th>%БВ</th>
+              <th>Ш</th>
+              <th>БВ</th>
+              <th>%БВ</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr class="odd">
+              <td>первый период</td>
+              <td>0</td>
+              <td>3</td>
+              <td>0.00</td>
+              <td>1</td>
+              <td>10</td>
+              <td>10.00</td>
+            </tr>
+            <tr class="even">
+              <td>второй период</td>
+              <td>2</td>
+              <td>11</td>
+              <td>18.18</td>
+              <td>0</td>
+              <td>5</td>
+              <td>0.00</td>
+            </tr>
+            <tr class="odd">
+              <td>третий период</td>
+              <td>0</td>
+              <td>4</td>
+              <td>0.00</td>
+              <td>2</td>
+              <td>8</td>
+              <td>25.00</td>
+            </tr>
+                        <tr class="group">
+              <td>Всего</td>
+              <td>
+                <div align="center">2</div>
+              </td>
+              <td>
+                <div align="center">18</div>
+              </td>
+              <td>
+                <div align="center">11.11</div>
+              </td>
+              <td>
+                <div align="center">3</div>
+              </td>
+              <td>
+                <div align="center">23</div>
+              </td>
+              <td>
+                <div align="center">13.04</div>
+              </td>
+            </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    
+          <div class="b-data_row">
+
+        <div class="b-title_cover b-commands_header">
+          <div class="e-header-subname">
+            СИЛОВЫЕ ПРИЕМЫ И БЛОКИРОВАННЫЕ БРОСКИ
+          </div>
+        </div>
+
+        <div class="dataTables_wrapper">
+          <table class="dataTable stripe compact row-border hl no-footer m-table_small" cellspacing="0" width="100%">
+            <thead>
+            <tr>
+              <th></th>
+              <td colspan="2">
+                <div class="e-header-left">
+                  <div class="e-header-img">
+                    <img src="/images/teams/ru/405/190" width="50" height="50" alt=""/>
+                  </div>
+                  <div class="e-header-info">
+                    <h3>Автомобилист</h3>
+                    <!--<span class="muted">Тренер: Сергей Шепелев</span>-->
+                  </div>
+                </div>
+              </td>
+              <td colspan="2">
+                <div class="e-header-left">
+                  <div class="e-header-img">
+                    <img src="/images/teams/ru/405/213" width="50" height="50" alt=""/>
+                  </div>
+                  <div class="e-header-info">
+                    <h3>Югра</h3>
+                    <!--<span class="muted">Тренер: Сергей Шепелев</span>-->
+                  </div>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <th>Период</th>
+              <th>БлБ</th>
+              <th>СПр</th>
+              <th>БлБ</th>
+              <th>СПр</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr class="odd">
+              <td>первый период</td>
+              <td>2</td>
+              <td>6</td>
+              <td>2</td>
+              <td>14</td>
+            </tr>
+            <tr class="even">
+              <td>второй период</td>
+              <td>4</td>
+              <td>3</td>
+              <td>4</td>
+              <td>8</td>
+            </tr>
+            <tr class="odd">
+              <td>третий период</td>
+              <td>3</td>
+              <td>8</td>
+              <td>3</td>
+              <td>8</td>
+            </tr>
+                        <tr class="group">
+              <td class="caption">Всего</td>
+              <td>
+                <div align="center">9</div>
+              </td>
+              <td>
+                <div align="center">17</div>
+              </td>
+              <td>
+                <div align="center">9</div>
+              </td>
+              <td>
+                <div align="center">30</div>
+              </td>
+            </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    
+  </div>
+</div>
+
+<script>
+  $(document).ready(function () {
+    jQuery.extend(jQuery.fn.dataTableExt.oSort, {
+      "timestring-pre": function (a) {
+        var x = (a == "-") ? 0 : a.replace(/:/, ".");
+        return parseFloat(x);
+      },
+      "timestring-asc": function (a, b) {
+        return ((a < b) ? -1 : ((a > b) ? 1 : 0));
+      },
+      "timestring-desc": function (a, b) {
+        return ((a < b) ? 1 : ((a > b) ? -1 : 0));
+      }
+    });
+
+    $.extend($.fn.dataTable.defaults, {
+      "order": [ [ 0, "asc" ] ],
+      "searching": false,
+      "paging": false,
+      "info": false,
+      responsive: {
+        details: {
+          type: 'column',
+          target: -1,
+          renderer: function (api, rowIdx) {
+            // Select hidden columns for the given row
+            var data = api.cells(rowIdx, ':hidden').eq(0).map(function (cell) {
+              var header = $(api.column(cell.column).header());
+              return '<tr>' +
+                '<td><div style="text-align:right;">' +
+                header.text() + '' +
+                '</div></td> ' +
+                '<td>' +
+                api.cell(cell).data() +
+                '</td>' +
+                '<td><div style="text-align:left;">' +
+                header.attr('title') +
+                '</div></td>' +
+                '</tr>';
+            }).toArray().join('');
+            return data ?
+              $('<table/>').append(data) :
+              false;
+          }
+        }
+      }
+    });
+    $('#defensesA').DataTable({
+      "data": data_defenses_A,
+      "deferRender": true,
+      "columnDefs": [
+        { className: 'control', orderable: false, targets: -1 },
+        { type: 'timestring', "targets": 19 },
+        { class: 'm-text_left', "targets": [ 1 ] }
+      ]
+    });
+    $('#forwardsA').DataTable({
+      "data": data_forwards_A,
+      "deferRender": true,
+      "columnDefs": [
+        { className: 'control', orderable: false, targets: -1 },
+        { type: 'timestring', "targets": 19 },
+        { class: 'm-text_left', "targets": [ 1 ] }
+      ]
+    });
+    $('#defensesB').DataTable({
+      "data": data_defenses_B,
+      "deferRender": true,
+      "columnDefs": [
+        { className: 'control', orderable: false, targets: -1 },
+        { type: 'timestring', "targets": 19 },
+        { class: 'm-text_left', "targets": [ 1 ] }
+      ]
+    });
+    $('#forwardsB').DataTable({
+      "data": data_forwards_B,
+      "deferRender": true,
+      "columnDefs": [
+        { className: 'control', orderable: false, targets: -1 },
+        { type: 'timestring', "targets": 19 },
+        { class: 'm-text_left', "targets": [ 1 ] }
+      ]
+    });
+    $('#goaliesA').DataTable({
+      "data": data_goalies_A,
+      "deferRender": true,
+      "columnDefs": [
+        { className: 'control', orderable: false, targets: -1 },
+        { type: 'timestring', "targets": 15 },
+        { class: 'm-text_left', "targets": [ 1 ] }
+      ]
+    });
+    $('#goaliesB').DataTable({
+      "data": data_goalies_B,
+      "deferRender": true,
+      "columnDefs": [
+        { className: 'control', orderable: false, targets: -1 },
+        { type: 'timestring', "targets": 15 },
+        { class: 'm-text_left', "targets": [ 1 ] }
+      ]
+    });
+    $('#goals').DataTable({
+      "data": data_goals,
+      "deferRender": true,
+      "ordering": false,
+      responsive: false,
+      "columnDefs": [
+        { class: 'm-text_left', "targets": [ 5, 6, 7, 8, 9 ] }
+      ]
+    });
+  });
+</script>
+  <div class="b-content_section">
+    <div class="b-wide_block">
+    <script type='text/javascript' src="/js/adfox/bottom.js"></script>
+    </div>
+  </div>
+
+  </div> <!--/wrapper-->
+
+  <div id="footer">
+    <div class="b-footer_cover">
+      <div class="b-footer_links">
+        <div class="b-footer_links_cover">
+          <ul class="b-partners_list m-smart_col">
+            <li class="e-partners_list_item">
+              <a href="http://www.sogaz.ru/" target="_blank">
+                <img src="/bitrix/templates/khl.ru-8.0/img/sponsors/ru_sogaz-color.png" alt="" class="e-ico_color"><br>
+                <img src="/bitrix/templates/khl.ru-8.0/img/sponsors/ru_sogaz-gray.png" alt="" class="e-ico_gray">
+                <span>Генеральный партнер</span>
+              </a>
+            </li>
+            <li class="e-partners_list_item">
+              <a href="http://mastercard.ru/" target="_blank">
+                <img src="/bitrix/templates/khl.ru-8.0/img/sponsors/mastercard-color.png" alt="" class="e-ico_color"><br>
+                <img src="/bitrix/templates/khl.ru-8.0/img/sponsors/mastercard-gray.png" alt="" class="e-ico_gray">
+                <span>Официальный партнер</span>
+              </a>
+            </li>
+            <li class="e-partners_list_item">
+              <a href="http://www.rt.ru/" target="_blank">
+                <img src="/bitrix/templates/khl.ru-8.0/img/sponsors/ru_rt-color.png" alt="" class="e-ico_color"><br>
+                <img src="/bitrix/templates/khl.ru-8.0/img/sponsors/ru_rt-gray.png" alt="" class="e-ico_gray">
+                <span>Партнер</span>
+              </a>
+            </li>
+            <li class="e-partners_list_item">
+              <a href="http://www.eriell.com/ru/" target="_blank">
+                <img src="/bitrix/templates/khl.ru-8.0/img/sponsors/ru_eriell-color.png" alt="" class="e-ico_color"><br>
+                <img src="/bitrix/templates/khl.ru-8.0/img/sponsors/ru_eriell-gray.png" alt="" class="e-ico_gray">
+                <span>Партнер</span>
+              </a>
+            </li>
+            <li class="e-partners_list_item">
+              <a href="http://www.megafon.ru/" target="_blank">
+                <img src="/bitrix/templates/khl.ru-8.0/img/sponsors/ru_megafon-color.png" alt="" class="e-ico_color"><br>
+                <img src="/bitrix/templates/khl.ru-8.0/img/sponsors/ru_megafon-gray.png" alt="" class="e-ico_gray">
+                <span>Партнер</span>
+              </a>
+            </li>
+            <li class="e-partners_list_item">
+              <a href="http://www.coca-cola.ru/" target="_blank">
+                <img src="/bitrix/templates/khl.ru-8.0/img/sponsors/cocacola_color.png" alt="" class="e-ico_color"><br>
+                <img src="/bitrix/templates/khl.ru-8.0/img/sponsors/cocacola_grey.png" alt="" class="e-ico_gray">
+                <span>Партнер</span>
+              </a>
+            </li>
+            <li class="e-partners_list_item">
+              <a href="http://haier.com/ru" target="_blank">
+                <img src="/bitrix/templates/khl.ru-8.0/img/sponsors/ru_haier-color.png" alt="" class="e-ico_color"><br>
+                <img src="/bitrix/templates/khl.ru-8.0/img/sponsors/ru_haier-gray.png" alt="" class="e-ico_gray">
+                <span>Поставщик</span>
+              </a>
+            </li>
+            <li class="e-partners_list_item">
+              <a href="http://www.hankooktire.com/ru/" target="_blank">
+                <img src="/bitrix/templates/khl.ru-8.0/img/sponsors/1n_ru_hankook-color.png" alt="" class="e-ico_color"><br>
+                <img src="/bitrix/templates/khl.ru-8.0/img/sponsors/1n_ru_hankook-gray.png" alt="" class="e-ico_gray">
+                <span>Поставщик</span>
+              </a>
+            </li>
+            <li class="e-partners_list_item">
+              <a href="http://www.championat.com/" target="_blank">
+                <img src="/bitrix/templates/khl.ru-8.0/img/sponsors/ru_championat_color.png" alt="" class="e-ico_color"><br>
+                <img src="/bitrix/templates/khl.ru-8.0/img/sponsors/ru_championat_gray.png" alt="" class="e-ico_gray">
+                <span>Интернет-партнер</span>
+              </a>
+            </li>
+            <li class="e-partners_list_item">
+              <a href="http://www.ey.com/ru/ru/home" target="_blank">
+                <img src="/bitrix/templates/khl.ru-8.0/img/sponsors/ru_ey_color.png" alt="" class="e-ico_color"><br>
+                <img src="/bitrix/templates/khl.ru-8.0/img/sponsors/ru_ey_gray.png" alt="" class="e-ico_gray">
+                <span>Поставщик</span>
+              </a>
+            </li>
+            <li class="e-partners_list_item">
+              <a href="http://sportfm.ru/" target="_blank">
+                <img src="/bitrix/templates/khl.ru-8.0/img/sponsors/ru_sportfm-color.png" alt="" class="e-ico_color"><br>
+                <img src="/bitrix/templates/khl.ru-8.0/img/sponsors/ru_sportfm-gray.png" alt="" class="e-ico_gray">
+                <span>Информационный партнер</span>
+              </a>
+            </li>
+          </ul>
+          <div class="b-rules_cover">
+            <p class="e-rules">Все права на материалы, находящиеся на сайте www.khl.ru, являются объектом исключительных прав, в том числе зарегистрированный товарный знак «КХЛ»/«KHL», фото- и видеоизображения, статьи и т.п., охраняются в соответствии с законодательством РФ. Размещение и/или использование товарного знака «КХЛ»/«KHL» без согласования с ООО «КХЛ» рассматриваются как нарушение прав собственности в соответствии с действующим законодательством. Запрещается автоматизированное извлечение информации сайта любыми сервисами без официального разрешения. Цитирование с сайта и сателлитных проектов официальных сообщений Лиги допускается только при наличии прямой ссылки на сайт www.khl.ru.</p>
+            <a href="#" class="e-counter"><img src="/bitrix/templates/khl.ru-8.0/img/li_counter.png" alt=""></a>
+          </div>
+        </div>
+      </div>
+      <div class="b-footer_nav">
+        <ul class="b-bottom_menu">
+          <li class="e-bottom_menu_item m-first"><a href="/" class="e-logo_main_footer language_ru"></a></li>
+          <li class="e-bottom_menu_item"><a href="http://tv.khl.ru/" target="_blank">КХЛ ТВ</a></li>
+                      <li class="e-bottom_menu_item"><a href="/inst/">Образование и развитие</a></li>
+            <li class="e-bottom_menu_item"><a href="/med/">Медицина</a></li>
+                    <li class="e-bottom_menu_item"><a href="/official/about/">О КХЛ</a></li>
+          <li class="e-bottom_menu_item"><a href="/official/contact-us/">Контакты</a></li>
+          <li class="e-bottom_menu_item"><a href="/official/advertising-website/">Реклама</a></li>
+        </ul>
+        <p class="e-copyright">КХЛ 2008&mdash;2017 <nobr>Все права защищены&nbsp; </nobr>
+          <br>
+          <nobr><a href="#" id="s-full_page">Полная версия сайта</a></nobr>
+        </p>
+      </div>
+    </div>
+    <ul class="m-adaptive_footer_bottom">
+      <li class="m-left">
+        <p class="e-copyright_copy">КХЛ 2008&mdash;2017 <nobr>Все права защищены</nobr>
+        </p>
+      </li>
+      <li class="m-right">
+        <div class="b-rules_cover_copy">
+          <p class="e-rules_copy">Все права на материалы, находящиеся на сайте www.khl.ru, являются объектом исключительных прав, в том числе зарегистрированный товарный знак «КХЛ»/«KHL», фото- и видеоизображения, статьи и т.п., охраняются в соответствии с законодательством РФ. Размещение и/или использование товарного знака «КХЛ»/«KHL» без согласования с ООО «КХЛ» рассматриваются как нарушение прав собственности в соответствии с действующим законодательством. Запрещается автоматизированное извлечение информации сайта любыми сервисами без официального разрешения. Цитирование с сайта и сателлитных проектов официальных сообщений Лиги допускается только при наличии прямой ссылки на сайт www.khl.ru.</p>
+          <a href="http://www.liveinternet.ru/click;KHLru" class="e-counter_copy" target="_blank"><img src="//counter.yadro.ru/logo;KHLru?12.3" alt=""></a>
+        </div>
+      </li>
+    </ul>
+  </div>
+
+<div style="visibility:hidden;position:absolute;display:none;">
+<!-- start counters -->
+<!-- Rating@Mail.ru counter -->
+  <script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "1472795", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+      if (d.getElementById(id)) return;
+      var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+      ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+      var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+      if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+  </script><noscript><div>
+      <img src="//top-fwz1.mail.ru/counter?id=1472795;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
+    </div></noscript>
+<!-- //Rating@Mail.ru counter -->
+<!--LiveInternet counter--><script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;KHLru?r" + escape(document.referrer) + ((typeof(screen)=="undefined")?"" : ";s"+screen.width+"*"+screen.height+"*" + (screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ";u"+escape(document.URL) + ";h"+escape(document.title.substring(0,80)) + ";" +Math.random();</script><!--/LiveInternet-->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter6571768 = new Ya.Metrika({id:6571768,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/6571768" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- tns-counter.ru -->
+<script language="JavaScript" type="text/javascript">
+  var img = new Image();
+  img.src = (document.location.protocol == "https:" ? "https://" : "http://") + 'www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*khl_ru/ru/UTF-8/tmsec=khl_total/' + Math.round(Math.random() * 1000000000);
+</script>
+<noscript>
+  <img src="//www.tns-counter.ru/V13a****khl_ru/ru/UTF-8/tmsec=khl_total/" width="1" height="1" alt="" />
+</noscript>
+<!--/ tns-counter.ru -->
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "15548144" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=15548144&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- end counters -->
+</div>
+
+<script type='text/javascript'>
+  OA_show(34);
+</script>
+
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-8042879-1']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+//    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+
+<script type="text/javascript">
+  if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 4294967295 ) + 1; }
+  if (typeof(document.referrer) != 'undefined') {
+    if (typeof(afReferrer) == 'undefined') {
+      afReferrer = encodeURIComponent(document.referrer);
+    }
+  } else {
+    afReferrer = '';
+  }
+  var addate = new Date();
+  var dl = encodeURIComponent(document.location);
+  var pr1 = Math.floor(Math.random() * 4294967295 ) + 1;
+  if (window.innerWidth <= 639) {
+    document.write('<div id="AdFox_banner_'+pr1+'"><\/div>');
+    document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');
+    AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/219729/prepareCode?p1=bsaja&p2=fdbf&pr=' + pr +'&pt=b&pd=' + addate.getDate() + '&pw=' + addate.getDay() + '&pv=' + addate.getHours() + '&prr=' + afReferrer + '&dl='+dl+'&pr1='+pr1);
+  }
+</script>
+
+</body>
+</html>

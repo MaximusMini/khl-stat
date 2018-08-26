@@ -1,0 +1,17 @@
+Таблицы проекта
+
+	result_match - таблица с результатами каждой команды НХЛ
+	
+	
+	result_match_nhl
+		id_team						id команды 
+		rival						имя команды соперника
+		place						место проведения игры
+		date_match					дата матча
+		time_end					время матча (njrmal, OT, B)
+		puck_team					количество заброшенных шайб командой
+		puck_rival					количество заброшенных шайб соперником
+		result						результат матча (win? lose)
+		
+		создание таблицы
+			CREATE TABLE result_match_nhl (id_team INT, name VARCHAR(255), clear_wins INT, clear_wins_home INT, clear_wins_guest INT, ot_wins INT, ot_wins_home INT, ot_wins_guest INT, b_wins INT, b_wins_home INT, b_wins_guest INT)

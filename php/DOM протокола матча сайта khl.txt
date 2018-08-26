@@ -1,0 +1,367 @@
+DOM протокола матча сайта khl
+
+тренеры команд
+	<dl class="b-details m-club">
+	...
+		<dd class="b-details_txt">
+			...
+			<ul class="e-player_honors">
+				  Тренер: 
+				  <a href="/news/key/d098d0bbd18cd18f20d092d0bed180d0bed0b1d18cd191d0b2/" style="color: #fff;">
+				  Илья Воробьёв
+				  </a>
+			</ul>
+			...
+		</dd>
+	...
+	</dl>
+	
+	jQuery
+		$('dd.b-details_txt ul.e-player_honors a').html();
+
+		
+номер матча
+	<ul class="b-match_add_info">
+		<li class="b-match_add_info_item">
+			<span class="e-num"><sup>№</sup>1</span>
+			<span>22.08.2016<br>17:00</span>
+		</li>
+		<li class="b-match_add_info_item">
+			<span class="m-icomoon">J</span>
+			<span>УКРК «Арена Металлург», Магнитогорск<br>7250 зрителей</span>
+		</li>
+		<li class="b-match_add_info_item m-last">
+			<span class="m-icomoon">K</span>
+			<span>Главные судьи: <a href="/officials/26/">Константин Оленин</a>, <a href="/officials/188/">Сергей Гусев</a><br>Линейные судьи: <a href="/officials/474/">Роман Шиханов</a>, <a href="/officials/599/">Александр Сысуев</a></span>
+		</li>
+	</ul>
+	  
+	jQuery
+		$('li.b-match_add_info_item span.e-num').html();
+	 
+	 
+дата матча
+	jQuery
+		$('ul.b-match_add_info li.b-match_add_info_item:first span:nth-child(2)').html();
+
+время матча
+	jQuery
+		$('ul.b-match_add_info li.b-match_add_info_item:first span:nth-child(2)').html();
+		
+арена
+	jQuery
+		$('ul.b-match_add_info li.b-match_add_info_item:eq(1) span:nth-child(2)').html();
+
+количество зрителей
+	
+
+название команд
+	<dl class="b-details m-club">
+		<dt class="e-details_img">
+			<img src="/images/teams/ru/405/37" alt="">
+		</dt>
+		<dd class="b-details_txt">
+			<h3 class="e-club_name">Металлург Мг</h3>
+			<p class="e-club_sity">Магнитогорск</p>
+			<ul class="e-player_honors">
+			Тренер: 
+				<a href="/news/key/d098d0bbd18cd18f20d092d0bed180d0bed0b1d18cd191d0b2/" style="color: #fff;">Илья Воробьёв</a>
+			</ul>
+		</dd>
+	</dl>
+	jQuery
+		$('dl.b-details.m-club dd.b-details_txt h3.e-club_name').html();
+	
+	  
+	<dl class="b-details m-club m-rightward">
+		<dd class="b-details_txt">
+			<h3 class="e-club_name">ЦСКА</h3>
+			<p class="e-club_sity">Москва</p>
+			<ul class="e-player_honors">
+			Тренер: 
+				<a href="/news/key/d094d0bcd0b8d182d180d0b8d0b920d09ad0b2d0b0d180d182d0b0d0bbd18cd0bdd0bed0b2/" style="color: #fff;">Дмитрий Квартальнов</a>
+			</ul>
+		</dd>
+		<dt class="e-details_img">
+			<img src="/images/teams/ru/405/2" alt="">
+		</dt>
+	</dl>
+	jQuery
+		$('dl.b-details.m-club.m-rightward dd.b-details_txt h3.e-club_name').html();
+
+
+судьи
+	<li class="b-match_add_info_item m-last">
+		<span class="m-icomoon">K</span>
+		<span>Главные судьи: 
+			<a href="/officials/26/">Константин Оленин</a>, 
+			<a href="/officials/188/">Сергей Гусев</a>
+			<br>
+			Линейные судьи: 
+			<a href="/officials/474/">Роман Шиханов</a>, 
+			<a href="/officials/599/">Александр Сысуев</a>
+		</span>
+	</li>
+	jQuery
+		$('ul.b-match_add_info li.m-last span:eq(1) a:eq(0)').html();
+		$('ul.b-match_add_info li.m-last span:eq(1) a:eq(1)').html();
+		$('ul.b-match_add_info li.m-last span:eq(1) a:eq(2)').html();
+		$('ul.b-match_add_info li.m-last span:eq(1) a:eq(3)').html();
+
+шайбы
+	<table id="goals" class="nowrap stripe compact hover m-table_small dataTable no-footer" cellspacing="0" width="100%" role="grid" style="width: 100%;">
+	...
+	<tr role="row" class="odd">
+		<td>1</td>
+		<td>1</td>
+		<td>02′30′′</td>
+		<td>0:1</td>
+		<td>рав.</td>
+		<td class=" m-text_left">
+			<a href="/players/15925/">18. Кугрышев Дмитрий (1)</a>
+		</td>
+		<td class=" m-text_left">
+			<a href="/players/21023/">52. Холлоуэй Бад (1)</a>
+		</td>
+		<td class=" m-text_left">
+			<a href="/players/14894/">55. Киселевич Богдан (1)</a>
+		</td>
+		<td class=" m-text_left">
+			<a href="#oniceAp83">83</a>,
+			<a href="#oniceAp13">13</a>,
+			<a href="#oniceAp51">51</a>,
+			<a href="#oniceAp52">52</a>,
+			<a href="#oniceAp68">68</a>,
+			<a href="#oniceAp92">92</a>
+		</td>
+		<td class=" m-text_left">
+			<a href="#oniceBp30">30</a>,
+			<a href="#oniceBp18">18</a>,
+			<a href="#oniceBp22">22</a>,
+			<a href="#oniceBp50">50</a>,
+			<a href="#oniceBp52">52</a>,
+			<a href="#oniceBp55">55</a>
+		</td>
+	</tr>
+	
+	jQuery
+	$(table#goals tbody tr:first td:first)
+
+	
+вратари команды хозяев
+<div class="b-data_row">
+	  
+	  <table id="goaliesA" class="nowrap stripe compact hover m-table_small dataTable no-footer dtr-column" cellspacing="0" width="100%" role="grid" style="width: 100%;">
+        <thead>
+        <tr role="row"><th class="sorting_asc" tabindex="0" aria-controls="goaliesA" rowspan="1" colspan="1" style="width: 22px;" aria-sort="ascending" aria-label="#: activate to sort column descending">#</th><th class="m-text_left sorting" tabindex="0" aria-controls="goaliesA" rowspan="1" colspan="1" style="width: 177px;" aria-label="Игрок: activate to sort column ascending">Игрок</th><th title="Количество проведенных игр" class="sorting" tabindex="0" aria-controls="goaliesA" rowspan="1" colspan="1" style="width: 27px;" aria-label="И: activate to sort column ascending">И</th><th title="Выигрыши" class="sorting" tabindex="0" aria-controls="goaliesA" rowspan="1" colspan="1" style="width: 24px;" aria-label="В: activate to sort column ascending">В</th><th title="Проигрыши" class="sorting" tabindex="0" aria-controls="goaliesA" rowspan="1" colspan="1" style="width: 26px;" aria-label="П: activate to sort column ascending">П</th><th title="Игры с буллитными сериями" class="sorting" tabindex="0" aria-controls="goaliesA" rowspan="1" colspan="1" style="width: 39px;" aria-label="ИБ: activate to sort column ascending">ИБ</th><th title="Броски" class="sorting" tabindex="0" aria-controls="goaliesA" rowspan="1" colspan="1" style="width: 36px;" aria-label="Бр: activate to sort column ascending">Бр</th><th title="Пропущенные шайбы" class="sorting" tabindex="0" aria-controls="goaliesA" rowspan="1" colspan="1" style="width: 48px;" aria-label="ПШ: activate to sort column ascending">ПШ</th><th title="Отраженные броски" class="sorting" tabindex="0" aria-controls="goaliesA" rowspan="1" colspan="1" style="width: 41px;" aria-label="ОБ: activate to sort column ascending">ОБ</th><th title="Процент отраженных бросков" class="sorting" tabindex="0" aria-controls="goaliesA" rowspan="1" colspan="1" style="width: 56px;" aria-label="%ОБ: activate to sort column ascending">%ОБ</th><th title="Коэффициент надежности = 60мин*ПШ/ВП" class="sorting" tabindex="0" aria-controls="goaliesA" rowspan="1" colspan="1" style="width: 41px;" aria-label="КН: activate to sort column ascending">КН</th><th title="Заброшенные шайбы" class="sorting" tabindex="0" aria-controls="goaliesA" rowspan="1" colspan="1" style="width: 33px;" aria-label="Ш: activate to sort column ascending">Ш</th><th title="Передачи" class="sorting" tabindex="0" aria-controls="goaliesA" rowspan="1" colspan="1" style="width: 26px;" aria-label="А: activate to sort column ascending">А</th><th title="Сухие игры" class="sorting" tabindex="0" aria-controls="goaliesA" rowspan="1" colspan="1" style="width: 53px;" aria-label="И&quot;0&quot;: activate to sort column ascending">И"0"</th><th title="Штрафное время" class="sorting" tabindex="0" aria-controls="goaliesA" rowspan="1" colspan="1" style="width: 56px;" aria-label="Штр: activate to sort column ascending">Штр</th><th title="Время на площадке" class="sorting" tabindex="0" aria-controls="goaliesA" rowspan="1" colspan="1" style="width: 51px;" aria-label="ВП: activate to sort column ascending">ВП</th><th class="control sorting_disabled" rowspan="1" colspan="1" style="width: 0px; display: none;" aria-label=""></th></tr>
+        </thead>
+        <tbody>
+		<tr role="row" class="odd">
+			<td class="sorting_1"><a name="oniceAp1">1</a></td>
+			<td class=" m-text_left"><a href="/players/19184/">Загидулин Артём</a></td>
+			<td>0</td>
+			<td>0</td>
+			<td>0</td>
+			<td>0</td>
+			<td>0</td>
+			<td>0</td>
+			<td>0</td>
+			<td>-</td>
+			<td>-</td>
+			<td>0</td>
+			<td>0</td>
+			<td>0</td>
+			<td>0</td>
+			<td>0</td>
+			<td class=" control" tabindex="0" style="display: none;"></td>
+		</tr>
+		<tr role="row" class="even">
+			<td class="sorting_1"><a name="oniceAp83">83</a></td>
+			<td class=" m-text_left"><a href="/players/5516/">Кошечкин Василий</a></td>
+			<td>1</td>
+			<td>1</td>
+			<td>0</td>
+			<td>0</td>
+			<td>29</td>
+			<td>2</td>
+			<td>27</td>
+			<td>93.1</td>
+			<td>2.00</td>
+			<td>0</td>
+			<td>0</td>
+			<td>0</td>
+			<td>0</td>
+			<td>60:00</td>
+			<td class=" control" tabindex="0" style="display: none;"></td>
+		</tr>
+		</tbody>
+      </table>
+	  ....
+	  </div>
+	  
+	  
+	  jQuery
+		$(div.b-data_row table#goaliesA tbody tr td )
+	  
+
+	  
+защитники команды хозяев
+
+	  
+	  <table id="defensesA" class="nowrap stripe compact hover m-table_small dataTable no-footer dtr-column" cellspacing="0" width="100%" role="grid" style="width: 100%;">
+        <thead>
+        <tr role="row"><th class="sorting_asc" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 7px;" aria-sort="ascending" aria-label="#: activate to sort column descending">#</th><th class="m-text_left sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 107px;" aria-label="Игрок: activate to sort column ascending">Игрок</th><th title="Количество проведенных игр" class="sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 10px;" aria-label="И: activate to sort column ascending">И</th><th title="Заброшенные шайбы" class="sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 13px;" aria-label="Ш: activate to sort column ascending">Ш</th><th title="Передачи" class="sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 9px;" aria-label="А: activate to sort column ascending">А</th><th title="Очки" class="sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 10px;" aria-label="О: activate to sort column ascending">О</th><th title="Плюс/Минус" class="sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 18px;" aria-label="+/-: activate to sort column ascending">+/-</th><th title="Штрафное время" class="sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 27px;" aria-label="Штр: activate to sort column ascending">Штр</th><th title="Шайбы в равенстве" class="sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 22px;" aria-label="ШР: activate to sort column ascending">ШР</th><th title="Шайбы в большинстве" class="sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 22px;" aria-label="ШБ: activate to sort column ascending">ШБ</th><th title="Шайбы в меньшинстве" class="sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 26px;" aria-label="ШМ: activate to sort column ascending">ШМ</th><th title="Шайбы в овертайме" class="sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 24px;" aria-label="ШО: activate to sort column ascending">ШО</th><th title="Победные шайбы" class="sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 23px;" aria-label="ШП: activate to sort column ascending">ШП</th><th title="Решающие буллиты" class="sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 16px;" aria-label="РБ: activate to sort column ascending">РБ</th><th title="Броски по воротам" class="sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 17px;" aria-label="БВ: activate to sort column ascending">БВ</th><th title="Процент реализованных бросков" class="sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 26px;" aria-label="%БВ: activate to sort column ascending">%БВ</th><th title="Вбрасывания" class="sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 23px;" aria-label="Вбр: activate to sort column ascending">Вбр</th><th title="Выигранные вбрасывания" class="sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 32px;" aria-label="ВВбр: activate to sort column ascending">ВВбр</th><th title="Процент выигранных вбрасываний" class="sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 33px;" aria-label="%Вбр: activate to sort column ascending">%Вбр</th><th title="Время на площадке" class="sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 25px;" aria-label="ВП: activate to sort column ascending">ВП</th><th title="Количество смен" class="sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 18px;" aria-label="См: activate to sort column ascending">См</th><th title="Силовые приемы" class="sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 26px;" aria-label="СПр: activate to sort column ascending">СПр</th><th title="Блокированные броски" class="sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 24px;" aria-label="БлБ: activate to sort column ascending">БлБ</th><th title="Фолы против" class="sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 27px;" aria-label="ФоП: activate to sort column ascending">ФоП</th><th title="Время в атаке" class="sorting" tabindex="0" aria-controls="defensesA" rowspan="1" colspan="1" style="width: 27px;" aria-label="ВВА: activate to sort column ascending">ВВА</th><th class="control sorting_disabled" rowspan="1" colspan="1" style="width: 0px; display: none;" aria-label=""></th></tr>
+        </thead>
+        <tbody><tr role="row" class="odd"><td class="sorting_1"><a name="oniceAp2">2</a></td><td class=" m-text_left"><a href="/players/23471/">Дронов Григорий</a></td><td>1</td><td>0</td><td>0</td><td>0</td><td>-1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>-</td><td>0</td><td>0</td><td>-</td><td>5:07</td><td>8</td><td>0</td><td>0</td><td>0</td><td></td><td class=" control" tabindex="0" style="display: none;"></td></tr><tr role="row" class="even"><td class="sorting_1"><a name="oniceAp4">4</a></td><td class=" m-text_left"><a href="/players/20721/">Ли Крис</a></td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0.0</td><td>1</td><td>0</td><td>0.0</td><td>26:08</td><td>30</td><td>1</td><td>1</td><td>0</td><td></td><td class=" control" tabindex="0" style="display: none;"></td></tr><tr role="row" class="odd"><td class="sorting_1"><a name="oniceAp5">5</a></td><td class=" m-text_left"><a href="/players/19185/">Жлоба Никита</a></td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>-</td><td>0</td><td>0</td><td>-</td><td>6:44</td><td>10</td><td>0</td><td>0</td><td>0</td><td></td><td class=" control" tabindex="0" style="display: none;"></td></tr><tr role="row" class="even"><td class="sorting_1"><a name="oniceAp9">9</a></td><td class=" m-text_left"><a href="/players/15999/">Антипин Виктор</a></td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0.0</td><td>0</td><td>0</td><td>-</td><td>23:32</td><td>30</td><td>0</td><td>0</td><td>0</td><td></td><td class=" control" tabindex="0" style="display: none;"></td></tr><tr role="row" class="odd"><td class="sorting_1"><a name="oniceAp48">48</a></td><td class=" m-text_left"><a href="/players/14307/">Бирюков Евгений</a> (а)</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>-</td><td>0</td><td>0</td><td>-</td><td>22:55</td><td>31</td><td>1</td><td>0</td><td>0</td><td></td><td class=" control" tabindex="0" style="display: none;"></td></tr><tr role="row" class="even"><td class="sorting_1"><a name="oniceAp51">51</a></td><td class=" m-text_left"><a href="/players/17609/">Береглазов Алексей</a></td><td>1</td><td>0</td><td>2</td><td>2</td><td>-1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0.0</td><td>0</td><td>0</td><td>-</td><td>20:35</td><td>27</td><td>1</td><td>0</td><td>0</td><td></td><td class=" control" tabindex="0" style="display: none;"></td></tr><tr role="row" class="odd"><td class="sorting_1"><a name="oniceAp52">52</a></td><td class=" m-text_left"><a href="/players/15947/">Терещенко Сергей</a></td><td>1</td><td>1</td><td>0</td><td>1</td><td>-1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>2</td><td>50.0</td><td>0</td><td>0</td><td>-</td><td>13:53</td><td>18</td><td>2</td><td>2</td><td>0</td><td></td><td class=" control" tabindex="0" style="display: none;"></td></tr></tbody>
+      </table>
+	  
+	 </div>
+
+	 jQuery
+		$(table#defensesA tbody tr td )
+	  
+	 
+	 
+	 
+	 
+	 
+      <div class="b-subtitle_nav_cover m-clear" style="padding:15px 0 0;">
+        <h4 class="m-fl">Нападающие</h4>
+        <div class="m-fr">
+          <span id="s-gloss_4" class="e-gloss_btn">Глоссарий</span>
+        </div>
+      </div>
+      <div class="b-gloss s-gloss_4">
+        <b class="e-close_btn"></b>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">И</dt>
+          <dd class="e-gloss_transcript">Количество проведенных игр</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Ш</dt>
+          <dd class="e-gloss_transcript">Заброшенные шайбы</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">А</dt>
+          <dd class="e-gloss_transcript">Передачи</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">О</dt>
+          <dd class="e-gloss_transcript">Очки</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">+/-</dt>
+          <dd class="e-gloss_transcript">Плюс/Минус</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Штр</dt>
+          <dd class="e-gloss_transcript">Штрафное время</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Штр/И</dt>
+          <dd class="e-gloss_transcript">Среднее время штрафа за игру</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШП</dt>
+          <dd class="e-gloss_transcript">Победные шайбы</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШР</dt>
+          <dd class="e-gloss_transcript">Шайбы, забитые в равенстве</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШБ</dt>
+          <dd class="e-gloss_transcript">Шайбы, забитые в большинстве</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШМ</dt>
+          <dd class="e-gloss_transcript">Шайбы, забитые в меньшинстве</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ШО</dt>
+          <dd class="e-gloss_transcript">Шайбы, забитые в овертайме</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ВП</dt>
+          <dd class="e-gloss_transcript">Время на площадке</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ВП/И</dt>
+          <dd class="e-gloss_transcript">Среднее время на площадке за игру</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">РБ</dt>
+          <dd class="e-gloss_transcript">Решающие буллиты</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">БВ</dt>
+          <dd class="e-gloss_transcript">Броски по воротам</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">%БВ</dt>
+          <dd class="e-gloss_transcript">Процент реализованных бросков</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">Вбр</dt>
+          <dd class="e-gloss_transcript">Вбрасывания</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ВВбр</dt>
+          <dd class="e-gloss_transcript">Выигранные вбрасывания</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">%Вбр</dt>
+          <dd class="e-gloss_transcript">Процент выигранных вбрасываний</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">См</dt>
+          <dd class="e-gloss_transcript">Количество смен</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">См/И</dt>
+          <dd class="e-gloss_transcript">Среднее количество смен за игру</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">СПр</dt>
+          <dd class="e-gloss_transcript">Силовые приемы</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ФоП</dt>
+          <dd class="e-gloss_transcript">Фолы против игрока</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">БлБ</dt>
+          <dd class="e-gloss_transcript">Блокированные броски</dd>
+        </dl>
+        <dl class="b-gloss_item">
+          <dt class="e-gloss_abbreviation">ВВА</dt>
+          <dd class="e-gloss_transcript">Время в атаке</dd>
+        </dl>
+      </div>
+
+      <div id="forwardsA_wrapper" class="dataTables_wrapper no-footer"><table id="forwardsA" class="nowrap stripe compact hover m-table_small dataTable no-footer dtr-column" cellspacing="0" width="100%" role="grid" style="width: 100%;">
+        <thead>
+        <tr role="row"><th class="sorting_asc" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 7px;" aria-sort="ascending" aria-label="#: activate to sort column descending">#</th><th class="m-text_left sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 111px;" aria-label="Игрок: activate to sort column ascending">Игрок</th><th title="Количество проведенных игр" class="sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 10px;" aria-label="И: activate to sort column ascending">И</th><th title="Заброшенные шайбы" class="sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 13px;" aria-label="Ш: activate to sort column ascending">Ш</th><th title="Передачи" class="sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 9px;" aria-label="А: activate to sort column ascending">А</th><th title="Очки" class="sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 10px;" aria-label="О: activate to sort column ascending">О</th><th title="Плюс/Минус" class="sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 18px;" aria-label="+/-: activate to sort column ascending">+/-</th><th title="Штрафное время" class="sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 27px;" aria-label="Штр: activate to sort column ascending">Штр</th><th title="Шайбы в равенстве" class="sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 22px;" aria-label="ШР: activate to sort column ascending">ШР</th><th title="Шайбы в большинстве" class="sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 22px;" aria-label="ШБ: activate to sort column ascending">ШБ</th><th title="Шайбы в меньшинстве" class="sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 26px;" aria-label="ШМ: activate to sort column ascending">ШМ</th><th title="Шайбы в овертайме" class="sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 24px;" aria-label="ШО: activate to sort column ascending">ШО</th><th title="Победные шайбы" class="sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 23px;" aria-label="ШП: activate to sort column ascending">ШП</th><th title="Решающие буллиты" class="sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 16px;" aria-label="РБ: activate to sort column ascending">РБ</th><th title="Броски по воротам" class="sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 17px;" aria-label="БВ: activate to sort column ascending">БВ</th><th title="Процент реализованных бросков" class="sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 26px;" aria-label="%БВ: activate to sort column ascending">%БВ</th><th title="Вбрасывания" class="sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 23px;" aria-label="Вбр: activate to sort column ascending">Вбр</th><th title="Выигранные вбрасывания" class="sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 31px;" aria-label="ВВбр: activate to sort column ascending">ВВбр</th><th title="Процент выигранных вбрасываний" class="sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 32px;" aria-label="%Вбр: activate to sort column ascending">%Вбр</th><th title="Время на площадке" class="sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 24px;" aria-label="ВП: activate to sort column ascending">ВП</th><th title="Количество смен" class="sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 18px;" aria-label="См: activate to sort column ascending">См</th><th title="Силовые приемы" class="sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 26px;" aria-label="СПр: activate to sort column ascending">СПр</th><th title="Блокированные броски" class="sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 23px;" aria-label="БлБ: activate to sort column ascending">БлБ</th><th title="Фолы против" class="sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 27px;" aria-label="ФоП: activate to sort column ascending">ФоП</th><th title="Время в атаке" class="sorting" tabindex="0" aria-controls="forwardsA" rowspan="1" colspan="1" style="width: 27px;" aria-label="ВВА: activate to sort column ascending">ВВА</th><th class="control sorting_disabled" rowspan="1" colspan="1" style="width: 0px; display: none;" aria-label=""></th></tr>
+        </thead>
+        <tbody><tr role="row" class="odd"><td class="sorting_1"><a name="oniceAp10">10</a></td><td class=" m-text_left"><a href="/players/3550/">Мозякин Сергей</a> (к)</td><td>1</td><td>1</td><td>0</td><td>1</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>20.0</td><td>0</td><td>0</td><td>-</td><td>20:16</td><td>24</td><td>0</td><td>0</td><td>1</td><td></td><td class=" control" tabindex="0" style="display: none;"></td></tr><tr role="row" class="even"><td class="sorting_1"><a name="oniceAp13">13</a></td><td class=" m-text_left"><a href="/players/18426/">Калетник Владислав</a></td><td>1</td><td>0</td><td>0</td><td>0</td><td>-1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0.0</td><td>5</td><td>1</td><td>20.0</td><td>9:23</td><td>14</td><td>0</td><td>0</td><td>0</td><td></td><td class=" control" tabindex="0" style="display: none;"></td></tr><tr role="row" class="odd"><td class="sorting_1"><a name="oniceAp16">16</a></td><td class=" m-text_left"><a href="/players/20260/">Железков Артём</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>-</td><td>0</td><td>0</td><td>-</td><td>-</td><td>-</td><td>0</td><td>0</td><td>0</td><td></td><td class=" control" tabindex="0" style="display: none;"></td></tr><tr role="row" class="even"><td class="sorting_1"><a name="oniceAp23">23</a></td><td class=" m-text_left"><a href="/players/15513/">Тимкин Евгений</a></td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>-</td><td>0</td><td>0</td><td>-</td><td>12:11</td><td>20</td><td>4</td><td>1</td><td>0</td><td></td><td class=" control" tabindex="0" style="display: none;"></td></tr><tr role="row" class="odd"><td class="sorting_1"><a name="oniceAp25">25</a></td><td class=" m-text_left"><a href="/players/4416/">Зарипов Данис</a> (а)</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0.0</td><td>1</td><td>1</td><td>100.0</td><td>16:17</td><td>22</td><td>2</td><td>0</td><td>1</td><td></td><td class=" control" tabindex="0" style="display: none;"></td></tr><tr role="row" class="even"><td class="sorting_1"><a name="oniceAp28">28</a></td><td class=" m-text_left"><a href="/players/6395/">Сёмин Александр</a></td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0.0</td><td>1</td><td>0</td><td>0.0</td><td>13:59</td><td>22</td><td>0</td><td>0</td><td>1</td><td></td><td class=" control" tabindex="0" style="display: none;"></td></tr><tr role="row" class="odd"><td class="sorting_1"><a name="oniceAp41">41</a></td><td class=" m-text_left"><a href="/players/16738/">Филиппи Томаш</a></td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>-</td><td>20</td><td>11</td><td>55.0</td><td>16:54</td><td>24</td><td>0</td><td>0</td><td>0</td><td></td><td class=" control" tabindex="0" style="display: none;"></td></tr><tr role="row" class="even"><td class="sorting_1"><a name="oniceAp43">43</a></td><td class=" m-text_left"><a href="/players/20720/">Коварж Ян</a></td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0.0</td><td>14</td><td>5</td><td>35.7</td><td>19:56</td><td>25</td><td>3</td><td>0</td><td>0</td><td></td><td class=" control" tabindex="0" style="display: none;"></td></tr><tr role="row" class="odd"><td class="sorting_1"><a name="oniceAp62">62</a></td><td class=" m-text_left"><a href="/players/17925/">Осала Оскар</a></td><td>1</td><td>1</td><td>1</td><td>2</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>20.0</td><td>7</td><td>4</td><td>57.1</td><td>17:32</td><td>29</td><td>3</td><td>2</td><td>0</td><td></td><td class=" control" tabindex="0" style="display: none;"></td></tr><tr role="row" class="even"><td class="sorting_1"><a name="oniceAp67">67</a></td><td class=" m-text_left"><a href="/players/86/">Казионов Дмитрий</a></td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0.0</td><td>10</td><td>5</td><td>50.0</td><td>11:56</td><td>21</td><td>2</td><td>1</td><td>0</td><td></td><td class=" control" tabindex="0" style="display: none;"></td></tr><tr role="row" class="odd"><td class="sorting_1"><a name="oniceAp68">68</a></td><td class=" m-text_left"><a href="/players/16271/">Косов Ярослав</a></td><td>1</td><td>0</td><td>0</td><td>0</td><td>-1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0.0</td><td>0</td><td>0</td><td>-</td><td>10:42</td><td>18</td><td>1</td><td>0</td><td>2</td><td></td><td class=" control" tabindex="0" style="display: none;"></td></tr><tr role="row" class="even"><td class="sorting_1"><a name="oniceAp77">77</a></td><td class=" m-text_left"><a href="/players/14299/">Казионов Денис</a></td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0.0</td><td>1</td><td>0</td><td>0.0</td><td>12:47</td><td>23</td><td>2</td><td>1</td><td>0</td><td></td><td class=" control" tabindex="0" style="display: none;"></td></tr><tr role="row" class="odd"><td class="sorting_1"><a name="oniceAp92">92</a></td><td class=" m-text_left"><a href="/players/16001/">Потехин Богдан</a></td><td>1</td><td>0</td><td>0</td><td>0</td><td>-2</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0.0</td><td>0</td><td>0</td><td>-</td><td>9:15</td><td>14</td><td>1</td><td>1</td><td>0</td><td></td><td class=" control" tabindex="0" style="display: none;"></td></tr></tbody>
+      </table></div>
+      <script>
+       
+      </script>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

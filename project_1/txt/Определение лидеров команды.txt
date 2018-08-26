@@ -1,0 +1,31 @@
+
+Определение лидеров команды
+1	Лучшие бомбардиры команды (тор 5)
+		SELECT * FROM stat_defenders UNION SELECT * FROM stat_attacks ORDER BY scores DESC LIMIT 10 - выборка общая
+		SELECT * FROM stat_defenders WHERE club='СКА'  UNION SELECT * FROM stat_attacks WHERE club='СКА' ORDER BY scores DESC, pucks DESC LIMIT 5 - выборка для клуба
+		
+		команда Адмирал
+			SELECT * FROM stat_defenders WHERE club='АДМ'  UNION SELECT * FROM stat_attacks WHERE club='АДМ' ORDER BY pucks DESC, games DESC LIMIT 5
+		
+		
+
+2	Лучшие снайперы
+
+		команда Адмирал
+			SELECT * FROM stat_defenders WHERE club='АДМ'  UNION SELECT * FROM stat_attacks WHERE club='АДМ' ORDER BY pucks DESC, games DESC LIMIT 5
+	
+3	Лучшие ассистенты
+		команда Адмирал
+			SELECT * FROM stat_defenders WHERE club='АДМ'  UNION SELECT * FROM stat_attacks WHERE club='АДМ' ORDER BY pass DESC, games DESC LIMIT 5	
+	
+4	Лучшие по системе плюс/минус
+			SELECT * FROM stat_defenders WHERE club='АДМ'  UNION SELECT * FROM stat_attacks WHERE club='АДМ' ORDER BY plus_minus DESC, games DESC LIMIT 5
+
+
+5	Лучший бомбардир защитник
+6	Лучший снайпер защитник
+7	Лидеры по штрафному времени
+8	Лидеры по времени на площадке
+9	Лидеры по силовым приемам
+10	Лидеры по блокированным броскам
+	

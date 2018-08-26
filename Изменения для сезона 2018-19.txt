@@ -1,0 +1,9 @@
+
+Изменения для сезона 2018/19
+
+1	В файле c:\OpenServer\domains\KHL-stat\project_1\result_teams.php
+		меняем адрес
+			было:	$res_curl = curl_get ('https://www.championat.com/hockey/_superleague/2202/table/all.html');
+			надо:		$res_curl = curl_get ('https://www.championat.com/hockey/_superleague/2593/table/all.html');
+			
+2	

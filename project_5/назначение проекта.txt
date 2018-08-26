@@ -1,0 +1,24 @@
+Проект для парсинга лидеров в плей-офф
+	https://www.khl.ru/stat/
+	
+	1. парсинг результатов в массивы
+	2. формирование на основе массивов слайдов
+	
+	МАССИВЫ
+		arr_scores[]
+			arr_scores[0] Array{
+				'last_name'
+				'first_name'
+				'number'
+				'images'
+				'profile'
+				'team'
+				'games'
+				'puck'
+				'pass'
+				'scores'
+			}
+			
+			
+
+цвет имени d1e3cf 209,227,207
