@@ -1,4 +1,4 @@
-перезаписан 19.08.2018 в 23:11- <table class="table">
+перезаписан 01.09.2018 в 20:59- <table class="table">
 <tr><th class="_group_thead" colspan="4"><div class="sport__table__head">Восточная Конференция</div></th></tr>
 <tr>
 <th colspan="5" class="_group_head _noborder"></th>
@@ -129,7 +129,7 @@
 <tr>
 <td class="_num">3</td>
                             <td class="_color _color_up2"></td>
-                            <td class="_pic"><img src="https://img.championat.com/team/icon/1467223363277753575.jpg"></td>
+                            <td class="_pic"><img src="https://img.championat.com/team/icon/15355411441669221666.png"></td>
                             <td class="_big"><a href="/hockey/_superleague/2593/team/99239/result.html">Адмирал</a></td>
                             <td class="_right"><strong>0</strong></td>
 
@@ -177,54 +177,6 @@
 <tr>
 <td class="_num">4</td>
                             <td class="_color _color_up2"></td>
-                            <td class="_pic"><img src="https://img.championat.com/team/icon/1467223627181616212.gif"></td>
-                            <td class="_big"><a href="/hockey/_superleague/2593/team/99227/result.html">Ак Барс</a></td>
-                            <td class="_right"><strong>0</strong></td>
-
-                            
-                                                            <td class="_right _group_start">0</td>
-                                <td class="_right _group">0</td>
-                                <td class="_right _group_end">0</td>
-                            
-                            
-                                                            <td class="_right _group_start">0</td>
-                                <td class="_right _group">0</td>
-                                <td class="_right _group_end">0</td>
-                            
-                            
-                            
-                            <td class="_aligned">
-<span>0</span><span>-</span><span>0</span>
-</td>
-                            <td class="_right"><strong>0</strong></td>
-
-                            
-                                                            <td class="_right">0,0</td>
-                            
-                            <td class="_outcome">
-                                                                                                                                        <a href="/hockey/_superleague/2593/match/708567.html">
-                                                                                <span class="_no" title="01.09.2018. Ак Барс - СКА (-:-)"></span>
-                                                                            </a>
-                                                                                                                                                <a href="/hockey/_superleague/2593/match/708581.html">
-                                                                                <span class="_no" title="03.09.2018. Ак Барс - Динамо Мн (-:-)"></span>
-                                                                            </a>
-                                                                                                                                                <a href="/hockey/_superleague/2593/match/708605.html">
-                                                                                <span class="_no" title="05.09.2018. Ак Барс - Витязь (-:-)"></span>
-                                                                            </a>
-                                                                                                                                                <a href="/hockey/_superleague/2593/match/708627.html">
-                                                                                <span class="_no" title="07.09.2018. Ак Барс - Барыс (-:-)"></span>
-                                                                            </a>
-                                                                                                                                                <a href="/hockey/_superleague/2593/match/708675.html">
-                                                                                <span class="_no" title="12.09.2018. Авангард - Ак Барс (-:-)"></span>
-                                                                            </a>
-                                                                                                                                                <a href="/hockey/_superleague/2593/match/708701.html">
-                                                                                <span class="_no" title="14.09.2018. Салават Юлаев - Ак Барс (-:-)"></span>
-                                                                            </a>
-                                                                                                                            </td>
-                        </tr>
-<tr>
-<td class="_num">5</td>
-                            <td class="_color _color_up2"></td>
                             <td class="_pic"><img src="https://img.championat.com/team/icon/14672236811427839427.jpg"></td>
                             <td class="_big"><a href="/hockey/_superleague/2593/team/99241/result.html">Амур</a></td>
                             <td class="_right"><strong>0</strong></td>
@@ -271,7 +223,7 @@
                                                                                                                             </td>
                         </tr>
 <tr>
-<td class="_num">6</td>
+<td class="_num">5</td>
                             <td class="_color _color_up2"></td>
                             <td class="_pic"><img src="https://img.championat.com/team/icon/14672239071525096327.gif"></td>
                             <td class="_big"><a href="/hockey/_superleague/2593/team/99243/result.html">Барыс</a></td>
@@ -319,7 +271,7 @@
                                                                                                                             </td>
                         </tr>
 <tr>
-<td class="_num">7</td>
+<td class="_num">6</td>
                             <td class="_color _color_up2"></td>
                             <td class="_pic"><img src="https://img.championat.com/team/icon/1469643774961218353.png"></td>
                             <td class="_big"><a href="/hockey/_superleague/2593/team/99245/result.html">Куньлунь Ред Стар</a></td>
@@ -359,7 +311,7 @@
                                                                                 <span class="_no" title="09.09.2018. Металлург Мг - Куньлунь Ред Стар (-:-)"></span>
                                                                             </a>
                                                                                                                                                 <a href="/hockey/_superleague/2593/match/708709.html">
-                                                                                <span class="_no" title="15.09.2018. Куньлунь Ред Стар - Динамо Р (-:-)"></span>
+                                                                                <span class="_no" title="16.09.2018. Куньлунь Ред Стар - Динамо Р (-:-)"></span>
                                                                             </a>
                                                                                                                                                 <a href="/hockey/_superleague/2593/match/708727.html">
                                                                                 <span class="_no" title="17.09.2018. Куньлунь Ред Стар - Слован (-:-)"></span>
@@ -367,7 +319,7 @@
                                                                                                                             </td>
                         </tr>
 <tr>
-<td class="_num">8</td>
+<td class="_num">7</td>
                             <td class="_color _color_up2"></td>
                             <td class="_pic"><img src="https://img.championat.com/team/icon/14873432861801804045.png"></td>
                             <td class="_big"><a href="/hockey/_superleague/2593/team/99229/result.html">Металлург Мг</a></td>
@@ -415,8 +367,8 @@
                                                                                                                             </td>
                         </tr>
 <tr>
-<td class="_num">9</td>
-                            <td class="_color _color_1"></td>
+<td class="_num">8</td>
+                            <td class="_color _color_up2"></td>
                             <td class="_pic"><img src="https://img.championat.com/team/icon/1503388331177192431.png"></td>
                             <td class="_big"><a href="/hockey/_superleague/2593/team/99231/result.html">Нефтехимик</a></td>
                             <td class="_right"><strong>0</strong></td>
@@ -463,9 +415,9 @@
                                                                                                                             </td>
                         </tr>
 <tr>
-<td class="_num">10</td>
-                            <td class="_color _color_0"></td>
-                            <td class="_pic"><img src="https://img.championat.com/team/icon/14672232832043571932.jpg"></td>
+<td class="_num">9</td>
+                            <td class="_color _color_1"></td>
+                            <td class="_pic"><img src="https://img.championat.com/team/icon/1535540728821472389.png"></td>
                             <td class="_big"><a href="/hockey/_superleague/2593/team/99247/result.html">Салават Юлаев</a></td>
                             <td class="_right"><strong>0</strong></td>
 
@@ -511,9 +463,9 @@
                                                                                                                             </td>
                         </tr>
 <tr>
-<td class="_num">11</td>
-                            <td class="_color _color_1"></td>
-                            <td class="_pic"><img src="https://img.championat.com/team/icon/14672249311245143934.jpg"></td>
+<td class="_num">10</td>
+                            <td class="_color _color_0"></td>
+                            <td class="_pic"><img src="https://img.championat.com/team/icon/15355414511989260974.png"></td>
                             <td class="_big"><a href="/hockey/_superleague/2593/team/99249/result.html">Сибирь</a></td>
                             <td class="_right"><strong>0</strong></td>
 
@@ -559,9 +511,9 @@
                                                                                                                             </td>
                         </tr>
 <tr>
-<td class="_num">12</td>
-                            <td class="_color _color_0"></td>
-                            <td class="_pic"><img src="https://img.championat.com/team/icon/14873427611553770832.png"></td>
+<td class="_num">11</td>
+                            <td class="_color _color_1"></td>
+                            <td class="_pic"><img src="https://img.championat.com/team/icon/15355409441026005497.png"></td>
                             <td class="_big"><a href="/hockey/_superleague/2593/team/99233/result.html">Торпедо</a></td>
                             <td class="_right"><strong>0</strong></td>
 
@@ -607,9 +559,9 @@
                                                                                                                             </td>
                         </tr>
 <tr>
-<td class="_num">13</td>
-                            <td class="_color _color_1"></td>
-                            <td class="_pic"><img src="https://img.championat.com/team/icon/1467225191498481703.jpg"></td>
+<td class="_num">12</td>
+                            <td class="_color _color_0"></td>
+                            <td class="_pic"><img src="https://img.championat.com/team/icon/1535626894581377021.png"></td>
                             <td class="_big"><a href="/hockey/_superleague/2593/team/99235/result.html">Трактор</a></td>
                             <td class="_right"><strong>0</strong></td>
 
@@ -651,6 +603,54 @@
                                                                             </a>
                                                                                                                                                 <a href="/hockey/_superleague/2593/match/708733.html">
                                                                                 <span class="_no" title="17.09.2018. Йокерит - Трактор (-:-)"></span>
+                                                                            </a>
+                                                                                                                            </td>
+                        </tr>
+<tr>
+<td class="_num">13</td>
+                            <td class="_color _color_1"></td>
+                            <td class="_pic"><img src="https://img.championat.com/team/icon/1467223627181616212.gif"></td>
+                            <td class="_big"><a href="/hockey/_superleague/2593/team/99227/result.html">Ак Барс</a></td>
+                            <td class="_right"><strong>1</strong></td>
+
+                            
+                                                            <td class="_right _group_start">0</td>
+                                <td class="_right _group">0</td>
+                                <td class="_right _group_end">0</td>
+                            
+                            
+                                                            <td class="_right _group_start">0</td>
+                                <td class="_right _group">0</td>
+                                <td class="_right _group_end">1</td>
+                            
+                            
+                            
+                            <td class="_aligned">
+<span>1</span><span>-</span><span>6</span>
+</td>
+                            <td class="_right"><strong>0</strong></td>
+
+                            
+                                                            <td class="_right">0,0</td>
+                            
+                            <td class="_outcome">
+                                                                                                                                        <a href="/hockey/_superleague/2593/match/708567.html">
+                                                                                <span class="_lose" title="01.09.2018. Ак Барс - СКА (1:6)"></span>
+                                                                            </a>
+                                                                                                                                                <a href="/hockey/_superleague/2593/match/708581.html">
+                                                                                <span class="_no" title="03.09.2018. Ак Барс - Динамо Мн (-:-)"></span>
+                                                                            </a>
+                                                                                                                                                <a href="/hockey/_superleague/2593/match/708605.html">
+                                                                                <span class="_no" title="05.09.2018. Ак Барс - Витязь (-:-)"></span>
+                                                                            </a>
+                                                                                                                                                <a href="/hockey/_superleague/2593/match/708627.html">
+                                                                                <span class="_no" title="07.09.2018. Ак Барс - Барыс (-:-)"></span>
+                                                                            </a>
+                                                                                                                                                <a href="/hockey/_superleague/2593/match/708675.html">
+                                                                                <span class="_no" title="12.09.2018. Авангард - Ак Барс (-:-)"></span>
+                                                                            </a>
+                                                                                                                                                <a href="/hockey/_superleague/2593/match/708701.html">
+                                                                                <span class="_no" title="14.09.2018. Салават Юлаев - Ак Барс (-:-)"></span>
                                                                             </a>
                                                                                                                             </td>
                         </tr>

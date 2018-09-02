@@ -273,15 +273,15 @@ function truncate_table(){
         
        
         /*
-        TRUNCATE TABLE stat_puck
-        TRUNCATE TABLE stat_allow_puck
-        TRUNCATE TABLE stat_penalty
-        TRUNCATE TABLE stat_throw
-        TRUNCATE TABLE stat_throw_rival
-        TRUNCATE TABLE stat_wins
-        TRUNCATE TABLE stat_trow_percent
-        TRUNCATE TABLE stat_faceoff
-        TRUNCATE TABLE stat_loss
+        TRUNCATE TABLE stat_puck;
+        TRUNCATE TABLE stat_allow_puck;
+        TRUNCATE TABLE stat_penalty;
+        TRUNCATE TABLE stat_throw;
+        TRUNCATE TABLE stat_throw_rival;
+        TRUNCATE TABLE stat_wins;
+        TRUNCATE TABLE stat_trow_percent;
+        TRUNCATE TABLE stat_faceoff;
+        TRUNCATE TABLE stat_loss;
         */
     }else{
         echo '<br> соединение с БД не установлено';

@@ -49,7 +49,8 @@ echo '<br>id 1--'.$id_team_1;
 echo '<br>id 2--'.$id_team_2;
 
 // подключаем БД
-$id_connect_DB = new mysqli('localhost', 'root', '07011989', 'db_preview');
+//$id_connect_DB = new mysqli('localhost', 'root', '07011989', 'db_preview');
+$id_connect_DB = new mysqli('localhost', 'root', '', 'db_preview');
     if($id_connect_DB){
         // формируем и выполняем запрос к таблице table_conf 
             $query_team_1 = 'SELECT * FROM table_conf WHERE id_team='.$id_team_1;
@@ -82,8 +83,8 @@ $id_connect_DB = new mysqli('localhost', 'root', '07011989', 'db_preview');
 function template_1($row_team_1, $row_team_2, $conf_team_1, $conf_team_2, $date_match, $number_match){
 
 // загружаем изображение
-$image = imagecreatefrompng('../template_img/temp_1-1.png');
-
+//$image = imagecreatefrompng('../template_img/temp_1-1.png');
+$image = imagecreatefrompng('../template_img/temp_1-1_2018.png');
 // вставляем данные 
 $grey = imagecolorallocate($image, 249, 230, 85);
 $green = imagecolorallocate($image, 206, 225, 199);

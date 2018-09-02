@@ -44,7 +44,8 @@ echo '<br>id 1--'.$id_team_1;
 echo '<br>id 2--'.$id_team_2;
 
 // подключаем БД
-$id_connect_DB = new mysqli('localhost', 'root', '07011989', 'db_preview');
+$id_connect_DB = new mysqli('localhost', 'root', '', 'db_preview');
+//$id_connect_DB = new mysqli('localhost', 'root', '07011989', 'db_preview');
     if($id_connect_DB){
         // формируем и выполняем запрос к таблице table_conf 
             $query_team_1 = 'SELECT * FROM stat_penalty WHERE id_team='.$id_team_1;

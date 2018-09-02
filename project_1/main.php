@@ -14,12 +14,18 @@
     <div class="container">
         <div class="col-md-4">
             <a href="result_teams.php" class="btn btn-info" target="_self">Обновить табличные данные</a>
+            <br><br>
+            <a href="result_teams.php" class="btn btn-info" target="_self">Обновить табличные данные 2018/19</a> 
             <p><code>собирает информацию с таблицы КХЛ<br>перед использование нужно обновить файлы<br>table_conf\west.php<br>table_conf\west.php</code></p>
             <hr>
             <a href="stat_team.php" class="btn btn-primary" target="_self">Обновить данные champ</a>
+            <br><br>
+            <a href="stat_team.php" class="btn btn-primary" target="_self">Обновить данные champ 2018/19</a>
             <p><code>собирает информацию с профиля каждой команды и раскладывает по таблицам БД<br>перед использование нужно обновить файлы</code></p>
             <hr>
             <a href="images.php" class="btn btn-warning" target="_self">Формировать картинки</a>
+            <br><br>
+            <a href="images.php" class="btn btn-warning" target="_self">Формировать картинки 2018/19</a>
             <p></p>
             <hr>
             <a href="pars_results.php" class="btn btn-default" target="_self">Парсинг результатов</a>
