@@ -84,7 +84,7 @@ function template_1($row_team_1, $row_team_2, $conf_team_1, $conf_team_2, $date_
 
 // загружаем изображение
 //$image = imagecreatefrompng('../template_img/temp_1-1.png');
-$image = imagecreatefrompng('../template_img/temp_1-1_2018.png');
+$image = imagecreatefrompng('../template_img/temp_1-1.png');
 // вставляем данные 
 $grey = imagecolorallocate($image, 249, 230, 85);
 $green = imagecolorallocate($image, 206, 225, 199);

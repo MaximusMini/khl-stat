@@ -25,7 +25,7 @@
             <hr>
             <a href="images.php" class="btn btn-warning" target="_self">Формировать картинки</a>
             <br><br>
-            <a href="images.php" class="btn btn-warning" target="_self">Формировать картинки 2018/19</a>
+            <a href="images_2018.php" class="btn btn-warning" target="_self">Формировать картинки 2018/19</a>
             <p></p>
             <hr>
             <a href="pars_results.php" class="btn btn-default" target="_self">Парсинг результатов</a>
