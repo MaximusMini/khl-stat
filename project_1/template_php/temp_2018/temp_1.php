@@ -86,70 +86,74 @@ function template_1($row_team_1, $row_team_2, $conf_team_1, $conf_team_2, $date_
 //$image = imagecreatefrompng('../../template_img/temp_1-1.png');
 $image = imagecreatefrompng('../../template_img/temp2018_1-1.png');
 // вставляем данные 
-$grey = imagecolorallocate($image, 249, 230, 85);
+$grey = imagecolorallocate($image, 250, 250, 250);
 $green = imagecolorallocate($image, 206, 225, 199);
 $black = imagecolorallocate($image, 0, 0, 0);
+$white = imagecolorallocate($image, 250, 250, 250);
 // Замена пути к шрифту на пользовательский
-$font = '../../font/soviet.ttf';
-$font_name_team = '../../font/BigNoodleTitlingCyr.ttf';
+$font__ = '../../font/soviet.ttf';
+$font = '../../font/BigNoodleTitlingCyr.ttf';
 // логотипы
-$path_logo_temp_1 = '../../logo/'.$row_team_1['id_team'].'.gif';
-$path_logo_temp_2 = '../../logo/'.$row_team_2['id_team'].'.gif';
-$logo_team_1 = imagecreatefromgif($path_logo_temp_1);
-$logo_team_2 = imagecreatefromgif($path_logo_temp_2);
+$path_logo_temp_1 = '..\..\logo\logo_2018\\'.$row_team_1['id_team'].'.png';
+$path_logo_temp_2 = '../../logo/logo_2018/'.$row_team_2['id_team'].'.png';
+    $logo_team_1 = imagecreatefrompng($path_logo_temp_1);
+    $logo_team_2 = imagecreatefrompng($path_logo_temp_2);
+    
+    
+    $size_logo=200;
     // Копирование и наложение логотипов команд
-    imagecopymerge($image, $logo_team_1, 70, 20, 0, 0, 200, 200, 100);
-    imagecopymerge($image, $logo_team_2, 430, 20, 0, 0, 200, 200, 100);
+    imagecopyresized($image, $logo_team_1, 90, 50, 0, 0, $size_logo, $size_logo, $size_logo, $size_logo);
+    imagecopyresized($image, $logo_team_2, 420, 50, 0, 0, $size_logo, $size_logo, $size_logo, $size_logo);
 
 
 //echo '***'.$path_logo_temp_2;
 
 // название команд
     // корректировка некоторых имен команд
-    if ($row_team_1['name'] == 'Куньлунь Ред Стар') {$row_team_1['name'] = 'Куньлунь РC';};
-    if ($row_team_2['name'] == 'Куньлунь Ред Стар') {$row_team_2['name'] = 'Куньлунь РC';};
+    //if ($row_team_1['name'] == 'Куньлунь Ред Стар') {$row_team_1['name'] = 'Куньлунь РC';};
+    //if ($row_team_2['name'] == 'Куньлунь Ред Стар') {$row_team_2['name'] = 'Куньлунь РC';};
     // !!! для каждой команды нужно подгонять позицию по гор - в отдельную функцию
     $place_name_1 = place_name_1($row_team_1['name']);
     $place_name_2 = place_name_2($row_team_2['name']);
-    imagettftext($image, 40, 0, $place_name_1, 255, $black , $font_name_team, $row_team_1['name']);
-    imagettftext($image, 40, 0, $place_name_2, 255, $black, $font_name_team,$row_team_2['name']);
+    //imagettftext($image, 40, 0, $place_name_1, 255, $black , $font_name_team, $row_team_1['name']);
+    //imagettftext($image, 40, 0, $place_name_2, 255, $black, $font_name_team,$row_team_2['name']);
 // дата
-    imagettftext($image, 13, 0, 305, 124, $green , $font, $date_match);
+    imagettftext($image, 25, 0, 300, 140, $white , $font, $date_match);
 // конференция
     //imagettftext($image, 11, 0, 100, 338, $grey, $font, $conf_team_1[0]);
     //imagettftext($image, 11, 0, 515, 338, $grey, $font, $conf_team_2[0]);
 // место в конференции
-    imagettftext($image, 14, 0, 120, 380, $grey, $font, $row_team_1['place']);
-    imagettftext($image, 14, 0, 565, 380, $grey, $font, $row_team_2['place']);
+    imagettftext($image, 23, 0, 120, 380, $grey, $font, $row_team_1['place']);
+    imagettftext($image, 23, 0, 565, 380, $grey, $font, $row_team_2['place']);
 // проведенные игры
-    imagettftext($image, 14, 0, 120, 430, $grey, $font, $row_team_1['games']);
-    imagettftext($image, 14, 0, 565, 430, $grey, $font, $row_team_2['games']);
+    imagettftext($image, 23, 0, 120, 430, $grey, $font, $row_team_1['games']);
+    imagettftext($image, 23, 0, 565, 430, $grey, $font, $row_team_2['games']);
 // набранные очки
     //echo "<br>row_team_1['scores']".$row_team_1['scores'];
     //echo "<br>row_team_1['scores']".$row_team_1['scores'];
-    imagettftext($image, 14, 0, 120, 476, $grey, $font, $row_team_1['scores']);
-    imagettftext($image, 14, 0, 565, 476, $grey, $font, $row_team_2['scores']);
+    imagettftext($image, 23, 0, 120, 476, $grey, $font, $row_team_1['scores']);
+    imagettftext($image, 23, 0, 565, 476, $grey, $font, $row_team_2['scores']);
 // победы
-    imagettftext($image, 14, 0, 120, 524, $grey, $font, $row_team_1['clear_wins']);
-    imagettftext($image, 14, 0, 565, 524, $grey, $font, $row_team_2['clear_wins']);
+    imagettftext($image, 23, 0, 120, 524, $grey, $font, $row_team_1['clear_wins']);
+    imagettftext($image, 23, 0, 565, 524, $grey, $font, $row_team_2['clear_wins']);
 // победы ОТ
-    imagettftext($image, 14, 0, 120, 570, $grey, $font, $row_team_1['ot_wins']);
-    imagettftext($image, 14, 0, 565, 570, $grey, $font, $row_team_2['ot_wins']);
+    imagettftext($image, 23, 0, 120, 570, $grey, $font, $row_team_1['ot_wins']);
+    imagettftext($image, 23, 0, 565, 570, $grey, $font, $row_team_2['ot_wins']);
 // победы Б
-    imagettftext($image, 14, 0, 120, 617, $grey, $font, $row_team_1['b_wins']);
-    imagettftext($image, 14, 0, 565, 617, $grey, $font, $row_team_2['b_wins']);
+    imagettftext($image, 23, 0, 120, 617, $grey, $font, $row_team_1['b_wins']);
+    imagettftext($image, 23, 0, 565, 617, $grey, $font, $row_team_2['b_wins']);
 // поражения
-    imagettftext($image, 14, 0, 120, 667, $grey, $font, $row_team_1['clear_defeat']);
-    imagettftext($image, 14, 0, 565, 667, $grey, $font, $row_team_2['clear_defeat']);
+    imagettftext($image, 23, 0, 120, 667, $grey, $font, $row_team_1['clear_defeat']);
+    imagettftext($image, 23, 0, 565, 667, $grey, $font, $row_team_2['clear_defeat']);
 // поражения ОТ
-    imagettftext($image, 14, 0, 120, 712, $grey, $font, $row_team_1['ot_defeat']);
-    imagettftext($image, 14, 0, 565, 712, $grey, $font, $row_team_2['ot_defeat']);
+    imagettftext($image, 23, 0, 120, 712, $grey, $font, $row_team_1['ot_defeat']);
+    imagettftext($image, 23, 0, 565, 712, $grey, $font, $row_team_2['ot_defeat']);
 // поражения Б
-    imagettftext($image, 14, 0, 120, 760, $grey, $font, $row_team_1['b_defeat']);
-    imagettftext($image, 14, 0, 565, 760, $grey, $font, $row_team_2['b_defeat']);
+    imagettftext($image, 23, 0, 120, 760, $grey, $font, $row_team_1['b_defeat']);
+    imagettftext($image, 23, 0, 565, 760, $grey, $font, $row_team_2['b_defeat']);
 // заброшенные шайбы
-    imagettftext($image, 14, 0, 120, 808, $grey, $font, $row_team_1['throw_puck']);
-    imagettftext($image, 14, 0, 565, 808, $grey, $font, $row_team_2['throw_puck']);
+    imagettftext($image, 23, 0, 120, 808, $grey, $font, $row_team_1['throw_puck']);
+    imagettftext($image, 23, 0, 565, 808, $grey, $font, $row_team_2['throw_puck']);
 // сохраняем изображение
     imagepng($image,'../../template_img/new_2018/match_'.$number_match.'_temp_1-1.png',9);
 

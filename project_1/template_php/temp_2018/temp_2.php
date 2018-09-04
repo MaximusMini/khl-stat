@@ -30,12 +30,12 @@
 // из файла images.php получаем параметры для определения команд и дату матча
 
 
-$id_team_1 = '25';
-$id_team_2 = '17';
+$id_team_1 = '1';
+$id_team_2 = '2';
 $id_team_1 = $_POST['team_1'];
 $id_team_2 = $_POST['team_2'];
 
-$date_match = '14.10.2017';
+$date_match = '04.09.2018';
 $date_match = $_POST['date_match'];
 
 $number_match = '307';
@@ -125,25 +125,27 @@ $id_connect_DB = new mysqli('localhost', 'root', '', 'db_preview');
 function template_2($row_team_1, $row_team_2, $row_stat_penalty_team_1, $row_stat_penalty_team_2, $row_stat_throw_team_1, $row_stat_throw_team_2, $row_stat_trow_percent_team_1, $row_stat_trow_percent_team_2, $row_stat_throw_rival_team_1, $row_stat_throw_rival_team_2, $row_stat_faceoff_team_1, $row_stat_faceoff_team_2, $row_stat_pow_play_pow_kill_team_1, $row_stat_pow_play_pow_kill_team_2, $date_match, $number_match){
 
 // загружаем изображение
-$image = imagecreatefrompng('../../template_img/temp_1-2+.png');
-
+//$image = imagecreatefrompng('../../template_img/temp_1-1.png');
+$image = imagecreatefrompng('../../template_img/temp2018_1-2.png');
 // вставляем данные 
-$grey = imagecolorallocate($image, 249, 230, 85);
+$grey = imagecolorallocate($image, 250, 250, 250);
 $green = imagecolorallocate($image, 206, 225, 199);
 $black = imagecolorallocate($image, 0, 0, 0);
+$white = imagecolorallocate($image, 250, 250, 250);
 // Замена пути к шрифту на пользовательский
-$font = '../../font/soviet.ttf';
-$font_name_team = '../../font/BigNoodleTitlingCyr.ttf';
-// размер основного шрифта
-$s_f=13;
+$font__ = '../../font/soviet.ttf';
+$font = '../../font/BigNoodleTitlingCyr.ttf';
 // логотипы
-$path_logo_temp_1 = '../../logo/'.$row_team_1['id_team'].'.gif';
-$path_logo_temp_2 = '../../logo/'.$row_team_2['id_team'].'.gif';
-$logo_team_1 = imagecreatefromgif($path_logo_temp_1);
-$logo_team_2 = imagecreatefromgif($path_logo_temp_2);
-    // Копирование и наложение
-    imagecopymerge($image, $logo_team_1, 70, 20, 0, 0, 200, 200, 100);
-    imagecopymerge($image, $logo_team_2, 430, 20, 0, 0, 200, 200, 100);
+$path_logo_temp_1 = '..\..\logo\logo_2018\\'.$row_team_1['id_team'].'.png';
+$path_logo_temp_2 = '../../logo/logo_2018/'.$row_team_2['id_team'].'.png';
+    $logo_team_1 = imagecreatefrompng($path_logo_temp_1);
+    $logo_team_2 = imagecreatefrompng($path_logo_temp_2);
+    
+    
+    $size_logo=200;
+    // Копирование и наложение логотипов команд
+    imagecopyresized($image, $logo_team_1, 90, 50, 0, 0, $size_logo, $size_logo, $size_logo, $size_logo);
+    imagecopyresized($image, $logo_team_2, 420, 50, 0, 0, $size_logo, $size_logo, $size_logo, $size_logo);
 
 
 //echo '***'.$path_logo_temp_2;
@@ -155,49 +157,50 @@ $logo_team_2 = imagecreatefromgif($path_logo_temp_2);
     // !!! для каждой команды нужно подгонять позицию по гор - в отдельную функцию
     $place_name_1 = place_name_1($row_team_1['name']);
     $place_name_2 = place_name_2($row_team_2['name']);
-    imagettftext($image, 40, 0, $place_name_1, 255, $black , $font_name_team, $row_team_1['name']);
-    imagettftext($image, 40, 0, $place_name_2, 255, $black, $font_name_team,$row_team_2['name']);
+    //imagettftext($image, 40, 0, $place_name_1, 255, $black , $font_name_team, $row_team_1['name']);
+    //imagettftext($image, 40, 0, $place_name_2, 255, $black, $font_name_team,$row_team_2['name']);
 // дата
-    imagettftext($image, 13, 0, 305, 124, $green , $font, $date_match);
+    imagettftext($image, 25, 0, 300, 140, $white , $font, $date_match);
+    $s_f = 23; $pos_x_2 = 560;
 // 1-пропущенные шайбы (таблица=table_conf cтолбец=miss_puck)
     imagettftext($image, $s_f, 0, 110, 383, $grey, $font, $row_team_1['miss_puck']);
-    imagettftext($image, $s_f, 0, 550, 383, $grey, $font, $row_team_2['miss_puck']);
+    imagettftext($image, $s_f, 0, $pos_x_2, 383, $grey, $font, $row_team_2['miss_puck']);
 // 2-штрафное время (таблица=stat_penalty столбец=penalty_time)
     imagettftext($image, $s_f, 0, 110, 430, $grey, $font, $row_stat_penalty_team_1['penalty_time']);
-    imagettftext($image, $s_f, 0, 550, 430, $grey, $font, $row_stat_penalty_team_2['penalty_time']);
+    imagettftext($image, $s_f, 0, $pos_x_2, 430, $grey, $font, $row_stat_penalty_team_2['penalty_time']);
 // 3-броски по воротам за матч (таблица=stat_throw столбец=total_throw_average)
     imagettftext($image, $s_f, 0, 110, 476, $grey, $font, $row_stat_throw_team_1['total_throw_average']);
-    imagettftext($image, $s_f, 0, 550, 476, $grey, $font, $row_stat_throw_team_2['total_throw_average']);
+    imagettftext($image, $s_f, 0, $pos_x_2, 476, $grey, $font, $row_stat_throw_team_2['total_throw_average']);
 // 4-реализация бросков (таблица=stat_trow_percent столбец=throw_perc_total)
     imagettftext($image, $s_f, 0, 110, 525, $grey, $font, $row_stat_trow_percent_team_1['throw_perc_total']);
     //imagettftext($image, 24, 0, 145, 524, $grey, $font_name_team,'%');
-    imagettftext($image, $s_f, 0, 550, 525, $grey, $font, $row_stat_trow_percent_team_2['throw_perc_total']);
+    imagettftext($image, $s_f, 0, $pos_x_2, 525, $grey, $font, $row_stat_trow_percent_team_2['throw_perc_total']);
     //imagettftext($image, 24, 0, 596, 524, $grey, $font_name_team,'%');
 // 5-броски соперника за матч (таблица=stat_throw_rival столбец=throw_rival_average)
     imagettftext($image, $s_f, 0, 110, 570, $grey, $font, $row_stat_throw_rival_team_1['throw_rival_average']);
-    imagettftext($image, $s_f, 0, 550, 570, $grey, $font, $row_stat_throw_rival_team_2['throw_rival_average']);
+    imagettftext($image, $s_f, 0, $pos_x_2, 570, $grey, $font, $row_stat_throw_rival_team_2['throw_rival_average']);
 // 6-реализация бросков соперником (таблица=stat_trow_percent столбец=throw_rival_perc_total)
     imagettftext($image, $s_f, 0, 110, 617, $grey, $font, $row_stat_trow_percent_team_1['throw_rival_perc_total']);
     //imagettftext($image, 24, 0, 145, 617, $grey, $font_name_team,'%');
-    imagettftext($image, $s_f, 0, 550, 617, $grey, $font, $row_stat_trow_percent_team_2['throw_rival_perc_total']);
+    imagettftext($image, $s_f, 0, $pos_x_2, 617, $grey, $font, $row_stat_trow_percent_team_2['throw_rival_perc_total']);
     //imagettftext($image, 24, 0, 596, 617, $grey, $font_name_team,'%');
 // 7-вбрасывания (таблица=stat_faceoff столбец=faceoff_total)
     imagettftext($image, $s_f, 0, 110, 667, $grey, $font, $row_stat_faceoff_team_1['faceoff_total']);
-    imagettftext($image, $s_f, 0, 550, 667, $grey, $font, $row_stat_faceoff_team_2['faceoff_total']);
+    imagettftext($image, $s_f, 0, $pos_x_2, 667, $grey, $font, $row_stat_faceoff_team_2['faceoff_total']);
 // 8-выигранные вбрасывания  (таблица=stat_faceoff столбец=faceoff_perc_wins_total)
     imagettftext($image, $s_f, 0, 110, 712, $grey, $font, $row_stat_faceoff_team_1['faceoff_perc_wins_total']);
     //imagettftext($image, 20, 0, 150, 712, $grey, $font_name_team,'%');
-    imagettftext($image, $s_f, 0, 550, 712, $grey, $font, $row_stat_faceoff_team_2['faceoff_perc_wins_total']);
+    imagettftext($image, $s_f, 0, $pos_x_2, 712, $grey, $font, $row_stat_faceoff_team_2['faceoff_perc_wins_total']);
     //imagettftext($image, 20, 0, 600, 712, $grey, $font_name_team,'%');
 // 9-реализация большинства (таблица=stat_pow_play_pow_kill столбец=perc_power_play)
     imagettftext($image, $s_f, 0, 110, 760, $grey, $font, $row_stat_pow_play_pow_kill_team_1['perc_power_play']);
-    imagettftext($image, $s_f, 0, 550, 760, $grey, $font, $row_stat_pow_play_pow_kill_team_2['perc_power_play']);
+    imagettftext($image, $s_f, 0, $pos_x_2, 760, $grey, $font, $row_stat_pow_play_pow_kill_team_2['perc_power_play']);
 // 10-реализация меньшинства соперником (таблица=stat_pow_play_pow_kill столбец=perc_power_kill)
     imagettftext($image, $s_f, 0, 110, 808, $grey, $font, $row_stat_pow_play_pow_kill_team_1['perc_power_kill']);
-    imagettftext($image, $s_f, 0, 550, 808, $grey, $font, $row_stat_pow_play_pow_kill_team_2['perc_power_kill']);
+    imagettftext($image, $s_f, 0, $pos_x_2, 808, $grey, $font, $row_stat_pow_play_pow_kill_team_2['perc_power_kill']);
     
     
-imagepng($image,'../template_img/new_2018/match_'.$number_match.'_temp_1-2.png',9);
+imagepng($image,'../../template_img/new_2018/match_'.$number_match.'_temp_1-2.png',9);
 
 }
 

@@ -20,7 +20,7 @@
             <hr>
             <a href="stat_team.php" class="btn btn-primary" target="_self">Обновить данные champ</a>
             <br><br>
-            <a href="stat_team.php" class="btn btn-primary" target="_self">Обновить данные champ 2018/19</a>
+            <a href="stat_team_2108.php" class="btn btn-primary" target="_self">Обновить данные champ 2018/19</a>
             <p><code>собирает информацию с профиля каждой команды и раскладывает по таблицам БД<br>перед использование нужно обновить файлы</code></p>
             <hr>
             <a href="images.php" class="btn btn-warning" target="_self">Формировать картинки</a>
