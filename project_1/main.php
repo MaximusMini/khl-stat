@@ -15,7 +15,7 @@
         <div class="col-md-4">
             <a href="result_teams.php" class="btn btn-info" target="_self">Обновить табличные данные</a>
             <br><br>
-            <a href="result_teams.php" class="btn btn-info" target="_self">Обновить табличные данные 2018/19</a> 
+            <a href="result_teams_2018.php" class="btn btn-info" target="_self">Обновить табличные данные 2018/19</a> 
             <p><code>собирает информацию с таблицы КХЛ<br>перед использование нужно обновить файлы<br>table_conf\west.php<br>table_conf\west.php</code></p>
             <hr>
             <a href="stat_team.php" class="btn btn-primary" target="_self">Обновить данные champ</a>
