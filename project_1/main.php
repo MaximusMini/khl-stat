@@ -32,7 +32,8 @@
             <p></p>
             <hr>
             <a href="scripts_php/p_play_p_kill.php" class="btn btn-success" target="_self">Меньшинстов/Большинство</a>
-            <p><code>Парсинг данных Меньшинстов/Большинство.</code></p>  
+            <p><code>Парсинг данных Меньшинстов/Большинство.</code></p>
+            <a href="scripts_php/p_play_p_kill_2018.php" class="btn btn-success" target="_self">Меньшинстов/Большинство 2018/19</a>  
         </div>
         <div class="col-md-3">
             <a href="total.php" class="btn btn-info" target="_self">Расчитать тотал для команд</a>

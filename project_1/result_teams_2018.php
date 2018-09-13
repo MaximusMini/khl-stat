@@ -62,7 +62,8 @@ include_once('..\php\phpQuery.php');
     //printArray($arr_west);
     //printArray($arr_east);
 
-    view_DB();
+    view_DB('west'); // вывод таблицы западной конференции
+    view_DB('east'); // вывод таблицы восточной конференции
 // **************************************************************************   
 
 
@@ -82,6 +83,7 @@ function name_team($t_conf,$team, $conf){
         
         // формирование массива team
         $count_arr = $count_team-3;
+        $team[$count_arr]['conf']           = $conf;
         $team[$count_arr]['name']           = pq($val)->find('td:nth-child(4)')->text();
         $team[$count_arr]['place']          = $count_team-3;
         $team[$count_arr]['games']          = pq($val)->find('td:nth-child(5)')->text();
@@ -139,7 +141,8 @@ function write_table_team($team,$arr_team){
             // в показателе процентов меняем , на .
             $arr_1['percent_scr'] = str_replace(',','.',$arr_1['percent_scr']);
             // формирование запроса
-            $query = "INSERT INTO table_conf (id_team,name, place, games, clear_wins, ot_wins, b_wins,clear_defeat,ot_defeat,b_defeat,throw_puck,miss_puck,scores,percent_scr,old_match_1,old_match_2,old_match_3,old_match_4,old_match_5,old_match_6) VALUES (".$key_name_team.",\"" .$arr_1['name']."\"," .$arr_1['place']."," .$arr_1['games']."," .$arr_1['clear_wins']. ",".$arr_1['ot_wins'].",". $arr_1['b_wins'].",".$arr_1['clear_defeat'].",".$arr_1['ot_defeat'].",".$arr_1['b_defeat'].",".$arr_1['throw_puck'].",".$arr_1['miss_puck'].",".$arr_1['scores'].",".$arr_1['percent_scr'].",\"".$arr_1['old_match_1']."\",\"".$arr_1['old_match_2']."\",\"".$arr_1['old_match_3']."\",\"".$arr_1['old_match_4']."\",\"".$arr_1['old_match_5']."\",\"" .$arr_1['old_match_6']."\")";
+            $query = "INSERT INTO table_conf (id_team, conf, name, place, games, clear_wins, ot_wins, b_wins,clear_defeat,ot_defeat,b_defeat,throw_puck,miss_puck,scores,percent_scr,old_match_1,old_match_2,old_match_3,old_match_4,old_match_5,old_match_6) VALUES (".$key_name_team.",\"".$arr_1['conf']."\", \"".$arr_1['name']."\"," .$arr_1['place']."," .$arr_1['games']."," .$arr_1['clear_wins']. ",".$arr_1['ot_wins'].",". $arr_1['b_wins'].",".$arr_1['clear_defeat'].",".$arr_1['ot_defeat'].",".$arr_1['b_defeat'].",".$arr_1['throw_puck'].",".$arr_1['miss_puck'].",".$arr_1['scores'].",".$arr_1['percent_scr'].",\"".$arr_1['old_match_1']."\",\"".$arr_1['old_match_2']."\",\"".$arr_1['old_match_3']."\",\"".$arr_1['old_match_4']."\",\"".$arr_1['old_match_5']."\",\"" .$arr_1['old_match_6']."\")";
+            //echo $query; 
             // запись данных в БД
             $result = $mysqli->query($query);
         }
@@ -165,14 +168,14 @@ function delete_table_team(){
 }
 
 // функция вывода данных из таблицы БД
-function view_DB(){
+function view_DB($conf){
     // подключение к БД
     $mysqli = new mysqli("localhost", "root", "", "khl_stat_2018");
 	//$mysqli = new mysqli("localhost", "root", "07011989", "db_preview");
     // получение данных
     if($mysqli){
         // формирование запрос
-        $query = 'SELECT * FROM table_conf';
+        $query = 'SELECT * FROM table_conf WHERE conf="'.$conf.'"';
     }else{
         echo '<br>Ошибка подключения к БД';
     }
@@ -181,15 +184,19 @@ function view_DB(){
     // форматирование данных из БД
     //$row = mysqli_fetch_array($result); table.table.table-striped.table-condensed 
     
-    echo '<div class="container"> <table class="table table-striped table-condensed"><thead><tr><th>id</th><th>команда</th><th>место</th><th>игр</th><th>побед</th><th>побед ОТ</th><th>побед Б</th><th>поражений</th><th>поражений ОТ</th><th>поражений Б</th><th>забр. шайб</th><th>пропущ. шайб</th><th>очки</th><th>процент</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr></thead><tbody>';
+    // вывод названия конференции
+    if($conf == 'west'){$name_conf = 'Западная конференция';}else{$name_conf = 'Восточная конференция';}
+    
+    echo '<div class="container"><h3>'.$name_conf.'</h3> <table class="table table-striped table-condensed"><thead><tr><th>id</th><th>конф.</th><th>команда</th><th>место</th><th>игр</th><th>побед</th><th>побед ОТ</th><th>побед Б</th><th>поражений</th><th>поражений ОТ</th><th>поражений Б</th><th>забр. шайб</th><th>пропущ. шайб</th><th>очки</th><th>процент</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr></thead><tbody>';
         
     while($row = mysqli_fetch_array($result)) 
         {
         //printArray($row);
         echo '<tr>';
         echo "<td>".$row['id_team']."</td>";
-        echo "<td>".$row['name']."</td>";
-        echo "<td>".$row['place']."</td>";
+        echo "<td>".$row['conf']."</td>";
+        echo "<td style='background-color:silver'>".$row['name']."</td>";
+        echo "<td style='color:blue; font:18px bold'>".$row['place']."</td>";
         echo "<td>".$row['games']."</td>";
         echo "<td>".$row['clear_wins']."</td>";
         echo "<td>".$row['ot_wins']."</td>";
@@ -199,7 +206,7 @@ function view_DB(){
         echo "<td>".$row['b_defeat']."</td>";
         echo "<td>".$row['throw_puck']."</td>";
         echo "<td>".$row['miss_puck']."</td>";
-        echo "<td>".$row['scores']."</td>";
+        echo "<td style='color:red; font:18px bold'>".$row['scores']."</td>";
         echo "<td>".$row['percent_scr']."</td>";
         echo "<td>".$row['old_match_1']."</td>";
         echo "<td>".$row['old_match_2']."</td>";

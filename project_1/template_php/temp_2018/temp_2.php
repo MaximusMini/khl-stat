@@ -46,7 +46,7 @@ echo '<br>id 1--'.$id_team_1;
 echo '<br>id 2--'.$id_team_2;
 
 // подключаем БД
-$id_connect_DB = new mysqli('localhost', 'root', '', 'db_preview');
+$id_connect_DB = new mysqli('localhost', 'root', '', 'khl_stat_2018');
 //$id_connect_DB = new mysqli('localhost', 'root', '07011989', 'db_preview');
     if($id_connect_DB){
         // формируем и выполняем запрос к таблице table_conf 
@@ -160,8 +160,8 @@ $path_logo_temp_2 = '../../logo/logo_2018/'.$row_team_2['id_team'].'.png';
     //imagettftext($image, 40, 0, $place_name_1, 255, $black , $font_name_team, $row_team_1['name']);
     //imagettftext($image, 40, 0, $place_name_2, 255, $black, $font_name_team,$row_team_2['name']);
 // дата
-    imagettftext($image, 25, 0, 300, 140, $white , $font, $date_match);
-    $s_f = 23; $pos_x_2 = 560;
+    imagettftext($image, 25, 0, 305, 140, $white , $font, $date_match);
+    $s_f = 21; $pos_x_2 = 560;
 // 1-пропущенные шайбы (таблица=table_conf cтолбец=miss_puck)
     imagettftext($image, $s_f, 0, 110, 383, $grey, $font, $row_team_1['miss_puck']);
     imagettftext($image, $s_f, 0, $pos_x_2, 383, $grey, $font, $row_team_2['miss_puck']);

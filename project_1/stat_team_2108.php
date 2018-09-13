@@ -31,33 +31,35 @@ include_once('..\php\phpQuery.php');
 
 // массив с сылками на статистику команд
 $link_stat_team = [
-        ['id_team'=>'1', 'name' => 'Авангард', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63634/tstat.html'],
-        ['id_team'=>'2', 'name' => 'Автомобилист', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63280/tstat.html'],
-        ['id_team'=>'3', 'name' => 'Адмирал', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63636/tstat.html'],
-        ['id_team'=>'4', 'name' => 'Ак Барс', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63282/tstat.html'],
-        ['id_team'=>'5', 'name' => 'Амур', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63638/tstat.html'],
-        ['id_team'=>'6', 'name' => 'Барыс', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63640/tstat.html'],
-        ['id_team'=>'7', 'name' => 'Витязь', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63266/tstat.html'],
-        ['id_team'=>'8', 'name' => 'Динамо М', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63268/tstat.html'],
-        ['id_team'=>'9', 'name' => 'Динамо Мн', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63254/tstat.html'],
-        ['id_team'=>'10', 'name' => 'Динамо Р', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63256/tstat.html'],
-        ['id_team'=>'11', 'name' => 'Йокерит', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63258/tstat.html'],
-        ['id_team'=>'12', 'name' => 'Куньлунь РС', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63642/tstat.html'],
-        ['id_team'=>'13', 'name' => 'Лада', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63284/tstat.html'],
-        ['id_team'=>'14', 'name' => 'Локомотив', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63270/tstat.html'],
-        ['id_team'=>'15', 'name' => 'Металлург Мг', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63626/tstat.html'],
-        ['id_team'=>'16', 'name' => 'Нефтехимик', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63628/tstat.html'],
-        ['id_team'=>'17', 'name' => 'Салават Юлаев', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63644/tstat.html'],
-        ['id_team'=>'18', 'name' => 'Северсталь', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63272/tstat.html'],
-        ['id_team'=>'19', 'name' => 'Сибирь', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63646/tstat.html'],
-        ['id_team'=>'20', 'name' => 'СКА', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63260/tstat.html'],
-        ['id_team'=>'21', 'name' => 'Слован', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63262/tstat.html'],
-        ['id_team'=>'22', 'name' => 'ХК Сочи', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63276/tstat.html'],
-        ['id_team'=>'23', 'name' => 'Спартак', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63264/tstat.html'],
-        ['id_team'=>'24', 'name' => 'Торпедо', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63274/tstat.html'],
-        ['id_team'=>'25', 'name' => 'Трактор', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63630/tstat.html'],
-        ['id_team'=>'26', 'name' => 'ЦСКА', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63278/tstat.html'],
-        ['id_team'=>'27', 'name' => 'Югра', 'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63632/tstat.html'],
+        ['id_team'=>'1', 'name' => 'Авангард',      'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99237/tstat.html'],
+        ['id_team'=>'2', 'name' => 'Автомобилист',  'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99225/tstat.html'],
+        ['id_team'=>'3', 'name' => 'Адмирал',       'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99239/tstat.html'],
+        ['id_team'=>'4', 'name' => 'Ак Барс',       'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99227/tstat.html'],
+        ['id_team'=>'5', 'name' => 'Амур',          'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99241/tstat.html'],
+        
+        ['id_team'=>'6', 'name' => 'Барыс',         'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99243/tstat.html'],
+        ['id_team'=>'7', 'name' => 'Витязь',        'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99213/tstat.html'],
+        ['id_team'=>'8', 'name' => 'Динамо М',      'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99201/tstat.html'],
+        ['id_team'=>'9', 'name' => 'Динамо Мн',     'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99215/tstat.html'],
+        ['id_team'=>'10', 'name' => 'Динамо Р',     'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99203/tstat.html'],
+        
+        ['id_team'=>'11', 'name' => 'Йокерит',      'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99205/tstat.html'],
+        ['id_team'=>'12', 'name' => 'Куньлунь РС',  'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99245/tstat.html'],
+        ['id_team'=>'13', 'name' => 'Локомотив',    'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99217/tstat.html'],
+        ['id_team'=>'14', 'name' => 'Металлург Мг', 'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99217/tstat.html'],
+        ['id_team'=>'15', 'name' => 'Нефтехимик',   'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99231/tstat.html'],
+        
+        ['id_team'=>'16', 'name' => 'Салават Юлаев', 'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99247/tstat.html'],
+        ['id_team'=>'17', 'name' => 'Северсталь',   'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99207/tstat.html'],
+        ['id_team'=>'18', 'name' => 'Сибирь',       'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99249/tstat.html'],
+        ['id_team'=>'19', 'name' => 'СКА',          'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99209/tstat.html'],
+        ['id_team'=>'20', 'name' => 'Слован',       'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99219/tstat.html'],
+        
+        ['id_team'=>'21', 'name' => 'Спартак',      'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99211/tstat.html'],
+        ['id_team'=>'22', 'name' => 'Торпедо',      'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99233/tstat.html'],
+        ['id_team'=>'23', 'name' => 'Трактор',      'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99235/tstat.html'],
+        ['id_team'=>'24', 'name' => 'ХК Сочи',      'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99221/tstat.html'],
+        ['id_team'=>'25', 'name' => 'ЦСКА',         'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63278/tstat.html'],
 ];
 
 // дескриптор подключения к БД
@@ -85,7 +87,7 @@ function link_go($arr){
     global $id_connect_DB;
     // очистка таблиц
     truncate_table();
-    $id_connect_DB = new mysqli('localhost', 'root', '', 'db_preview');
+    $id_connect_DB = new mysqli('localhost', 'root', '', 'khl_stat_2018');
     if($id_connect_DB){
        foreach($arr as $data){
             // получаем ссылку и передаем её для парсинга
@@ -129,31 +131,40 @@ function pars_stat_team($data_team){
     // штрафное время
     $stat_team['penalty_time'] = $doc_Dom->find('tr:nth-child(15) td:nth-child(2)')->text();
     $stat_team['penalty_time_average'] = $doc_Dom->find('tr:nth-child(15) td:nth-child(3)')->text();
-    $stat_team['penalty_time_home'] = $doc_Dom->find('tr:nth-child(15) td:nth-child(4)')->text();    
+    if ($doc_Dom->find('tr:nth-child(15) td:nth-child(4)')->text() == NULL){
+        $stat_team['penalty_time_home'] = 0;  
+    }else{
+        $stat_team['penalty_time_home'] = $doc_Dom->find('tr:nth-child(15) td:nth-child(4)')->text(); 
+    }  
     $stat_team['penalty_time_average_home'] = $doc_Dom->find('tr:nth-child(15) td:nth-child(5)')->text();
-    $stat_team['penalty_time_guest'] = $doc_Dom->find('tr:nth-child(15) td:nth-child(6)')->text();    
+    
+    if ($doc_Dom->find('tr:nth-child(15) td:nth-child(6)')->text() == NULL){
+        $stat_team['penalty_time_guest'] = 0;  
+    }else{
+        $stat_team['penalty_time_guest'] = $doc_Dom->find('tr:nth-child(15) td:nth-child(6)')->text(); 
+    }   
     $stat_team['penalty_time_average_guest'] = $doc_Dom->find('tr:nth-child(15) td:nth-child(7)')->text();
     // броски по воротам
-    $stat_team['total_throw'] = $doc_Dom->find('tr:nth-child(19) td:nth-child(2)')->text();
-    $stat_team['total_throw_average'] = $doc_Dom->find('tr:nth-child(19) td:nth-child(3)')->text();
-    $stat_team['total_throw_home'] = $doc_Dom->find('tr:nth-child(19) td:nth-child(4)')->text();    
-    $stat_team['total_throw_average_home'] = $doc_Dom->find('tr:nth-child(19) td:nth-child(5)')->text();
-    $stat_team['total_throw_guest'] = $doc_Dom->find('tr:nth-child(19) td:nth-child(6)')->text();    
-    $stat_team['total_throw_average_guest'] = $doc_Dom->find('tr:nth-child(19) td:nth-child(7)')->text();
+    $stat_team['total_throw'] = check_value($doc_Dom->find('tr:nth-child(19) td:nth-child(2)')->text());
+    $stat_team['total_throw_average'] = check_value($doc_Dom->find('tr:nth-child(19) td:nth-child(3)')->text());
+    $stat_team['total_throw_home'] = check_value($doc_Dom->find('tr:nth-child(19) td:nth-child(4)')->text());    
+    $stat_team['total_throw_average_home'] = check_value($doc_Dom->find('tr:nth-child(19) td:nth-child(5)')->text());
+    $stat_team['total_throw_guest'] = check_value($doc_Dom->find('tr:nth-child(19) td:nth-child(6)')->text());    
+    $stat_team['total_throw_average_guest'] = check_value($doc_Dom->find('tr:nth-child(19) td:nth-child(7)')->text());
     // броски соперника по воротам 
-    $stat_team['throw_rival'] = $doc_Dom->find('tr:nth-child(20) td:nth-child(2)')->text();
-    $stat_team['throw_rival_average'] = $doc_Dom->find('tr:nth-child(20) td:nth-child(3)')->text();
-    $stat_team['throw_rival_home'] = $doc_Dom->find('tr:nth-child(20) td:nth-child(4)')->text();    
-    $stat_team['throw_rival_average_home'] = $doc_Dom->find('tr:nth-child(20) td:nth-child(5)')->text();
-    $stat_team['throw_rival_guest'] = $doc_Dom->find('tr:nth-child(20) td:nth-child(6)')->text();    
-    $stat_team['throw_rival_average_guest'] = $doc_Dom->find('tr:nth-child(20) td:nth-child(7)')->text();
+    $stat_team['throw_rival'] = check_value($doc_Dom->find('tr:nth-child(20) td:nth-child(2)')->text());
+    $stat_team['throw_rival_average'] = check_value($doc_Dom->find('tr:nth-child(20) td:nth-child(3)')->text());
+    $stat_team['throw_rival_home'] = check_value($doc_Dom->find('tr:nth-child(20) td:nth-child(4)')->text());    
+    $stat_team['throw_rival_average_home'] = check_value($doc_Dom->find('tr:nth-child(20) td:nth-child(5)')->text());
+    $stat_team['throw_rival_guest'] = check_value($doc_Dom->find('tr:nth-child(20) td:nth-child(6)')->text());    
+    $stat_team['throw_rival_average_guest'] = check_value($doc_Dom->find('tr:nth-child(20) td:nth-child(7)')->text());
     // реализация бросков
-    $stat_team['throw_perc_total'] = del_last_word($doc_Dom->find('tr:nth-child(21) td:nth-child(2)')->text());
-    $stat_team['throw_perc_home'] = del_last_word($doc_Dom->find('tr:nth-child(21) td:nth-child(3)')->text());
-    $stat_team['throw_perc_guest'] = del_last_word($doc_Dom->find('tr:nth-child(21) td:nth-child(4)')->text());    
-    $stat_team['throw_rival_perc_total'] = del_last_word($doc_Dom->find('tr:nth-child(22) td:nth-child(2)')->text());
-    $stat_team['throw_rival_perc_home'] = del_last_word($doc_Dom->find('tr:nth-child(22) td:nth-child(3)')->text());    
-    $stat_team['throw_rival_perc_guest'] = del_last_word($doc_Dom->find('tr:nth-child(22) td:nth-child(4)')->text());
+    $stat_team['throw_perc_total'] = check_value(del_last_word($doc_Dom->find('tr:nth-child(21) td:nth-child(2)')->text()));
+    $stat_team['throw_perc_home'] = check_value(del_last_word($doc_Dom->find('tr:nth-child(21) td:nth-child(3)')->text()));
+    $stat_team['throw_perc_guest'] = check_value(del_last_word($doc_Dom->find('tr:nth-child(21) td:nth-child(4)')->text()));    
+    $stat_team['throw_rival_perc_total'] = check_value(del_last_word($doc_Dom->find('tr:nth-child(22) td:nth-child(2)')->text()));
+    $stat_team['throw_rival_perc_home'] = check_value(del_last_word($doc_Dom->find('tr:nth-child(22) td:nth-child(3)')->text()));    
+    $stat_team['throw_rival_perc_guest'] = check_value(del_last_word($doc_Dom->find('tr:nth-child(22) td:nth-child(4)')->text()));
     // вбрасывания
     $stat_team['faceoff_total'] = $doc_Dom->find('tr:nth-child(23) td:nth-child(2)')->text();
     $stat_team['faceoff_home'] = $doc_Dom->find('tr:nth-child(23) td:nth-child(3)')->text();
@@ -200,54 +211,54 @@ function write_stat($stat_team,$id_team, $name){
     global $id_connect_DB;
     
 
-    // формирования запроса на добавление данных о заброшенных шайбах
+    // формирования запроса на добавление данных о заброшенных шайбах - stat_puck
     $query_1 = 'INSERT INTO stat_puck (id_team, name , throw_puck, throw_puck_home, throw_puck_guest, throw_puck_average, throw_puck_average_home, throw_puck_average_guest) VALUES ('.$id_team.',\''.$name.'\','.$stat_team['throw_puck'].','.$stat_team['throw_puck_home'].','.$stat_team['throw_puck_guest'].','.str_replace(',','.',$stat_team['throw_puck_average']).','.str_replace(',','.',$stat_team['throw_puck_home_average']).','.str_replace(',','.',$stat_team['throw_puck_guest_average']).')';
     // добавление данных в БД
     $id_connect_DB->query($query_1);
     //------------------------------------------------------------------
-    // формирования запроса на добавление данных о пропущенных шайбах
+    // формирования запроса на добавление данных о пропущенных шайбах - stat_allow_puck
     $query_2 = 'INSERT INTO stat_allow_puck (id_team, name , allow_puck, allow_puck_home, allow_puck_guest, allow_puck_average, allow_puck_average_home, allow_puck_average_guest) VALUES ('.$id_team.',\''.$name.'\','.$stat_team['allow_puck'].','.$stat_team['allow_puck_home'].','.$stat_team['allow_puck_guest'].','.str_replace(',','.',$stat_team['allow_puck_average']).','.str_replace(',','.',$stat_team['allow_puck_average_home']).','.str_replace(',','.',$stat_team['allow_puck_average_guest']).')';
     // добавление данных в БД
     //echo '<br>'.$query_2;
     $id_connect_DB->query($query_2);
     //------------------------------------------------------------------
-    // формирования запроса на добавление данных о штрафном времени
+    // формирования запроса на добавление данных о штрафном времени - stat_penalty
     $query_3 = 'INSERT INTO stat_penalty (id_team, name , penalty_time, penalty_time_home, penalty_time_guest, penalty_time_average, penalty_time_average_home, penalty_time_average_guest) VALUES ('.$id_team.',\''.$name.'\','.$stat_team['penalty_time'].','.$stat_team['penalty_time_home'].','.$stat_team['penalty_time_guest'].','.str_replace(',','.',$stat_team['penalty_time_average']).','.str_replace(',','.',$stat_team['penalty_time_average_home']).','.str_replace(',','.',$stat_team['penalty_time_average_guest']).')';
     // добавление данных в БД
-    //echo '<br>'.$query_3;
+    echo '<br>'.$query_3;
     $id_connect_DB->query($query_3);
     //------------------------------------------------------------------
-    // формирования запроса на добавление данных о бросках по воротам
+    // формирования запроса на добавление данных о бросках по воротам - stat_throw
     $query_4 = 'INSERT INTO stat_throw (id_team, name , total_throw, total_throw_home, total_throw_guest, total_throw_average, total_throw_average_home, total_throw_average_guest) VALUES ('.$id_team.',\''.$name.'\','.$stat_team['total_throw'].','.$stat_team['total_throw_home'].','.$stat_team['total_throw_guest'].','.str_replace(',','.',$stat_team['total_throw_average']).','.str_replace(',','.',$stat_team['total_throw_average_home']).','.str_replace(',','.',$stat_team['total_throw_average_guest']).')';
     // добавление данных в БД
     //echo '<br>'.$query_4;
     $id_connect_DB->query($query_4);
     //------------------------------------------------------------------
-    // формирования запроса на добавление данных о бросках соперника по воротам
+    // формирования запроса на добавление данных о бросках соперника по воротам - stat_throw_rival
     $query_5 = 'INSERT INTO stat_throw_rival (id_team, name , throw_rival, throw_rival_home, throw_rival_guest, throw_rival_average, throw_rival_average_home, throw_rival_average_guest) VALUES ('.$id_team.',\''.$name.'\','.$stat_team['throw_rival'].','.$stat_team['throw_rival_home'].','.$stat_team['throw_rival_guest'].','.str_replace(',','.',$stat_team['throw_rival_average']).','.str_replace(',','.',$stat_team['throw_rival_average_home']).','.str_replace(',','.',$stat_team['throw_rival_average_guest']).')';
     // добавление данных в БД
     //echo '<br>'.$query_5;
     $id_connect_DB->query($query_5);
     //------------------------------------------------------------------
-    // формирования запроса на добавление данных о победах команды
+    // формирования запроса на добавление данных о победах команды - stat_wins
     $query_6 = 'INSERT INTO stat_wins (id_team, name, clear_wins, clear_wins_home, clear_wins_guest, ot_wins, ot_wins_home, ot_wins_guest, b_wins, b_wins_home, b_wins_guest) VALUES ('.$id_team.',\''.$name.'\','.$stat_team['clear_wins'].','.$stat_team['clear_wins_home'].','.$stat_team['clear_wins_guest'].','.$stat_team['ot_wins'].','.$stat_team['ot_wins_home'].','.$stat_team['ot_wins_guest'].','.$stat_team['b_wins'].','.$stat_team['b_wins_home'].','.$stat_team['b_wins_guest'].')';
     // добавление данных в БД
     //echo '<br>'.$query_6;
     $id_connect_DB->query($query_6);
     //------------------------------------------------------------------
-    // формирования запроса на добавление данных о реализации бросков команды и соперником
+    // формирования запроса на добавление данных о реализации бросков команды и соперником - stat_trow_percent
     $query_7 = 'INSERT INTO stat_trow_percent (id_team, name, throw_perc_total, throw_perc_home, throw_perc_guest, throw_rival_perc_total, throw_rival_perc_home, throw_rival_perc_guest) VALUES ('.$id_team.',\''.$name.'\','.$stat_team['throw_perc_total'].','.$stat_team['throw_perc_home'].','.$stat_team['throw_perc_guest'].','.$stat_team['throw_rival_perc_total'].','.$stat_team['throw_rival_perc_home'].','.$stat_team['throw_rival_perc_guest'].')';
     // добавление данных в БД
     //echo '<br>'.$query_7;
     $id_connect_DB->query($query_7);
     //------------------------------------------------------------------
-    // формирования запроса на добавление данных о вбрасываниях
+    // формирования запроса на добавление данных о вбрасываниях - stat_faceoff
     $query_8 = 'INSERT INTO stat_faceoff (id_team, name, faceoff_total, faceoff_home, faceoff_guest, faceoff_perc_wins_total, faceoff_perc_wins_home, faceoff_perc_wins_guest, faceoff_perc_wins_rival_total, faceoff_perc_wins_rival_home, faceoff_perc_wins_rival_guest) VALUES ('.$id_team.',\''.$name.'\','.$stat_team['faceoff_total'].','.$stat_team['faceoff_home'].','.$stat_team['faceoff_guest'].','.$stat_team['faceoff_perc_wins_total'].','.$stat_team['faceoff_perc_wins_home'].','.$stat_team['faceoff_perc_wins_guest'].','.$stat_team['faceoff_perc_wins_rival_total'].','.$stat_team['faceoff_perc_wins_rival_home'].','.$stat_team['faceoff_perc_wins_rival_guest'].')';
     // добавление данных в БД
     //echo '<br>'.$query_7;
     $id_connect_DB->query($query_8);
     //------------------------------------------------------------------
-    // формирования запроса на добавление данных о поражениях команды
+    // формирования запроса на добавление данных о поражениях команды - stat_loss
     $query_9 = 'INSERT INTO stat_loss (id_team, name, clear_loss, clear_loss_home, clear_loss_guest, ot_loss, ot_loss_home, ot_loss_guest, b_loss, b_loss_home, b_loss_guest) VALUES ('.$id_team.',\''.$name.'\','.$stat_team['clear_loss'].','.$stat_team['clear_loss_home'].','.$stat_team['clear_loss_guest'].','.$stat_team['ot_loss'].','.$stat_team['ot_loss_home'].','.$stat_team['ot_loss_guest'].','.$stat_team['b_loss'].','.$stat_team['b_loss_home'].','.$stat_team['b_loss_guest'].')';
     // добавление данных в БД
     //echo '<br>'.$query_6;
@@ -259,7 +270,7 @@ function write_stat($stat_team,$id_team, $name){
 function truncate_table(){
     // подключение к БД
     global $id_connect_DB;
-    $id_connect_DB = new mysqli('localhost', 'root', '', 'db_preview');
+    $id_connect_DB = new mysqli('localhost', 'root', '', 'khl_stat_2018');
     if($id_connect_DB){
         // массив таблиц
         $arr_table = ['stat_puck', 'stat_allow_puck', 'stat_penalty', 'stat_throw', 'stat_throw_rival', 'stat_wins', 'stat_trow_percent', 'stat_faceoff', 'stat_loss'];
@@ -320,6 +331,15 @@ function del_last_word($word){
     return substr($word, 0, -1);
 }
 
+// функция проверки наличия данных в ячейке таблицы
+function check_value($str){
+    if($str == NULL){
+        $str = 0;       
+    }else{
+        $str = $str;       
+    }
+    return $str;
+}
 
 
 

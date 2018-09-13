@@ -50,7 +50,7 @@ echo '<br>id 2--'.$id_team_2;
 
 // подключаем БД
 //$id_connect_DB = new mysqli('localhost', 'root', '07011989', 'db_preview');
-$id_connect_DB = new mysqli('localhost', 'root', '', 'db_preview');
+$id_connect_DB = new mysqli('localhost', 'root', '', 'khl_stat_2018');
     if($id_connect_DB){
         // формируем и выполняем запрос к таблице table_conf 
             $query_team_1 = 'SELECT * FROM table_conf WHERE id_team='.$id_team_1;
@@ -118,7 +118,7 @@ $path_logo_temp_2 = '../../logo/logo_2018/'.$row_team_2['id_team'].'.png';
     //imagettftext($image, 40, 0, $place_name_1, 255, $black , $font_name_team, $row_team_1['name']);
     //imagettftext($image, 40, 0, $place_name_2, 255, $black, $font_name_team,$row_team_2['name']);
 // дата
-    imagettftext($image, 25, 0, 300, 140, $white , $font, $date_match);
+    imagettftext($image, 25, 0, 305, 140, $white , $font, $date_match);
 // конференция
     //imagettftext($image, 11, 0, 100, 338, $grey, $font, $conf_team_1[0]);
     //imagettftext($image, 11, 0, 515, 338, $grey, $font, $conf_team_2[0]);
