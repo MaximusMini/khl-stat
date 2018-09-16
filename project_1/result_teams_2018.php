@@ -40,10 +40,7 @@ include_once('..\php\phpQuery.php');
     $tables_khl = phpQuery::newDocument($res_curl);
     $table_west = $tables_khl->find('div.sport__table table:nth-child(2)');
     $table_east = $tables_khl->find('div.sport__table table:nth-child(3)');
-    file_put_contents('table_conf\west.php', 'перезаписан '.date("d.m.Y \в H:i").'- '.$table_west);
-    file_put_contents('table_conf\east.php', 'перезаписан '.date("d.m.Y \в H:i").'- '.$table_east);
-    $table_west         = file_get_contents('table_conf\west.php');
-    $table_east         = file_get_contents('table_conf\east.php');
+
 
     //создаем объекты класса phpQuery
     $t_west      = phpQuery::newDocument($table_west);
@@ -142,9 +139,10 @@ function write_table_team($team,$arr_team){
             $arr_1['percent_scr'] = str_replace(',','.',$arr_1['percent_scr']);
             // формирование запроса
             $query = "INSERT INTO table_conf (id_team, conf, name, place, games, clear_wins, ot_wins, b_wins,clear_defeat,ot_defeat,b_defeat,throw_puck,miss_puck,scores,percent_scr,old_match_1,old_match_2,old_match_3,old_match_4,old_match_5,old_match_6) VALUES (".$key_name_team.",\"".$arr_1['conf']."\", \"".$arr_1['name']."\"," .$arr_1['place']."," .$arr_1['games']."," .$arr_1['clear_wins']. ",".$arr_1['ot_wins'].",". $arr_1['b_wins'].",".$arr_1['clear_defeat'].",".$arr_1['ot_defeat'].",".$arr_1['b_defeat'].",".$arr_1['throw_puck'].",".$arr_1['miss_puck'].",".$arr_1['scores'].",".$arr_1['percent_scr'].",\"".$arr_1['old_match_1']."\",\"".$arr_1['old_match_2']."\",\"".$arr_1['old_match_3']."\",\"".$arr_1['old_match_4']."\",\"".$arr_1['old_match_5']."\",\"" .$arr_1['old_match_6']."\")";
-            //echo $query; 
+            //echo '<br>'.$query; 
             // запись данных в БД
             $result = $mysqli->query($query);
+             //echo printArray($result);
         }
     }else{
         die('Ошибка соединения: ' . mysql_error());
@@ -181,6 +179,7 @@ function view_DB($conf){
     }
     //запрос к БД
     $result = $mysqli->query($query);
+   
     // форматирование данных из БД
     //$row = mysqli_fetch_array($result); table.table.table-striped.table-condensed 
     
