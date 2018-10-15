@@ -240,8 +240,9 @@
 
 <script>
 function all_temp(){
-    ajax_temp(1); ajax_temp(2); ajax_temp(3); ajax_temp(4); ajax_temp(5); ajax_temp(6); ajax_temp(7); ajax_temp(8); ajax_temp(9); ajax_temp(10); ajax_temp(11);
-    //textMatch();
+    ajax_temp(1); ajax_temp(2); 
+    //ajax_temp(3); ajax_temp(4); ajax_temp(5); ajax_temp(6); ajax_temp(7); ajax_temp(8); ajax_temp(9); ajax_temp(10); ajax_temp(11);
+    textMatch();
 }
 function ajax_temp(template_number){
     var file_template;
@@ -252,7 +253,7 @@ function ajax_temp(template_number){
         // преобразовываем дату в нужный формат
         date_match = date_match.split('-');
         date_match = date_match[2]+'.'+date_match[1]+'.'+date_match[0];
-    //alert(date_match);
+    //alert(date_match); 
     // регулярный чемпионат
     if(template_number==1){file_template='template_php/temp_2018/temp_1.php'}
     if(template_number==2){file_template='template_php/temp_2018/temp_2.php'}
@@ -273,7 +274,7 @@ function ajax_temp(template_number){
         type:"POST",
         url:file_template,
         success: function(){
-            //alert('Load was performed.'); // сообщение об успешном запросе
+            alert('Load was performed: '+template_number+'.'); // сообщение об успешном запросе
         }
     });  
 }
