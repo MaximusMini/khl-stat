@@ -46,8 +46,8 @@ $p = [];// мBссив для сбора данных протокола
 
 function main_pars($num_m){
     global $p;
-    //$res_curl = curl_get ('https://www.khl.ru/game/468/57824/protocol/'); // 
-    $res_curl = curl_get ('https://www.khl.ru/game/468/'.$num_m.'/protocol/'); // б
+    //$res_curl = curl_get ('https://www.khl.ru/game/671/70271/protocol/'); // 
+    $res_curl = curl_get ('https://www.khl.ru/game/671/'.$num_m.'/protocol/'); // б
     //$res_curl = file_get_contents('protocol.txt');
     $res_resume = curl_get ('https://www.khl.ru/game/468/'.$num_m.'/resume/');
     //$res_resume = file_get_contents('resume.txt');
@@ -330,7 +330,7 @@ $p['goaliesA'][0]['family']
 
 
 // вызовы функций ***********************************************************
-    main_pars(56092);
+    main_pars(70271);
     imageTemplate();
 // **************************************************************************
 

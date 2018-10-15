@@ -30,6 +30,8 @@
             <hr>
             <a href="pars_results.php" class="btn btn-default" target="_self">Парсинг результатов</a>
             <p></p>
+			<a href="pars_results_2018.php" class="btn btn-default" target="_self">Парсинг результатов 2018/19</a>
+            <p></p>
             <hr>
             <a href="scripts_php/p_play_p_kill.php" class="btn btn-success" target="_self">Меньшинстов/Большинство</a>
             <p><code>Парсинг данных Меньшинстов/Большинство.</code></p>
