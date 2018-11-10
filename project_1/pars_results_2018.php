@@ -71,7 +71,7 @@ $link_results_team = [
         ['id_team'=>'22', 'name' => 'Торпедо',      'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99233/result.html'],
         ['id_team'=>'23', 'name' => 'Трактор',      'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99235/result.html'],
         ['id_team'=>'24', 'name' => 'ХК Сочи',      'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/99221/result.html'],
-        ['id_team'=>'25', 'name' => 'ЦСКА',         'linl'=>'https://www.championat.com/hockey/_superleague/2202/team/63278/result.html'],
+        ['id_team'=>'25', 'name' => 'ЦСКА',         'linl'=>'https://www.championat.com/hockey/_superleague/2593/team/63278/result.html'],
 		
 ];
 // дескриптор подключения к БД
